@@ -1,0 +1,73 @@
+:root{
+  --navy:#364d5d; --navy-dark:#2c3f4d; --cream:#faf7f2;
+  --muted:#5f6f79; --soft:#567b95; --line:rgba(54,77,93,.2); --gold:#5e794e; --gold-dark:#4d6640;
+  --b1:#f3efe8; --b2:#e9e3da; --b3:#ded7cc; --b4:#e7e2dc; --b5:#d5cdc0;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%}
+body{background:var(--b1);color:var(--navy);font-family:adobe-caslon-pro,Georgia,serif;font-size:17px;line-height:1.75;letter-spacing:.015em}
+a{color:inherit}
+header{position:sticky;top:0;z-index:10;background:var(--cream);border-bottom:1px solid var(--line);height:64px;display:flex;align-items:center;padding:0 22px}
+header a{display:flex;align-items:center;gap:16px;text-decoration:none}
+header .logo{width:44px;height:44px}
+header .marca{height:21px;width:auto}
+.wrap{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr)}
+.foto{position:sticky;top:64px;height:calc(100vh - 64px);overflow:hidden}
+.foto img{width:100%;height:100%;object-fit:cover;object-position:42% 50%}
+section{padding:72px 7% 76px}
+section>*{max-width:600px}
+#intro{background:var(--b1)}
+#musica{background:var(--b2)}
+#comunidad{background:var(--b3)}
+#acompanamiento{background:var(--b4)}
+p+p{margin-top:1em}
+.gracias{font-size:24px;font-style:italic;line-height:1.35;margin-bottom:24px}
+.lema{margin-top:1.6em;font-style:italic;font-size:19px;color:var(--soft)}
+h2{font-weight:400;font-style:italic;font-size:34px;line-height:1.2;margin-bottom:6px}
+.etiqueta{font-size:16px;font-style:italic;letter-spacing:.06em;color:var(--soft);margin-bottom:26px}
+blockquote{font-style:italic;margin:1.4em 0 0;padding-left:16px;border-left:2px solid var(--line);color:var(--muted)}
+.ficha{margin-top:30px;padding-top:20px;border-top:1px solid var(--line)}
+.ficha .detalle{font-size:15px;color:var(--muted)}
+.ficha .precio{font-size:26px;margin-top:6px}
+.desglose{font-size:15px;color:var(--muted);margin-left:6px;white-space:nowrap}
+.boton{display:block;margin-top:22px;text-align:center;text-decoration:none;background:#5c7484;color:var(--cream);border-radius:9px;padding:13px 20px;font-size:18px;letter-spacing:.06em;transition:background .2s}
+.boton:hover,.boton:focus-visible{background:#4f6575}
+.nota{margin-top:14px;font-size:15px;color:var(--muted);text-align:center}
+h3{font-weight:400;font-style:italic;font-size:24px;margin:60px 0 20px;padding-top:40px;border-top:1px solid var(--line)}
+.letania{margin-top:22px}
+#para-quien{background:var(--b5)}
+footer{padding:28px 7% 40px;font-size:13px;color:var(--muted);letter-spacing:.08em;background:var(--b5)}
+footer a{color:var(--muted)}
+footer span{margin:0 8px}
+@media (max-width:820px){
+  header{padding:0 16px}
+  header .logo{width:38px;height:38px}
+  header .marca{height:16px}
+  .wrap{display:block}
+  .foto{position:relative;top:0;height:300px}
+  .foto img{object-position:50% 45%}
+  section{padding:48px 16px 52px}
+  footer{padding:24px 16px 36px}
+  body{font-size:16.5px}
+  h2{font-size:29px}
+  .gracias{font-size:21px}
+}
+/* Portada */
+.portada{background:var(--paper,#e5e1de);min-height:calc(100vh - 64px)}
+.portada section{background:transparent;padding-top:56px}
+.esferas{display:block;width:100%;max-width:420px;height:auto;margin:0 auto 34px}
+.form{margin-top:34px;display:grid;gap:14px}
+.form input[type=email],.form select{width:100%;font:inherit;font-size:16px;color:var(--navy);background:#dcd8d4;border:1px solid transparent;border-radius:9px;padding:11px 14px}
+.form input[type=email]::placeholder{color:var(--muted)}
+.form input:focus,.form select:focus{outline:2px solid var(--soft);outline-offset:1px}
+.form label.check{display:flex;gap:10px;align-items:center;font-size:16px;color:var(--muted)}
+.form label.check a{color:var(--soft)}
+.form .boton{border:0;cursor:pointer;width:100%;font-family:inherit;margin-top:6px}
+.form .trampa{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
+.mensaje{margin-top:6px;font-style:italic;color:var(--soft);min-height:1.5em}
+/* Textos legales */
+.legal h1{font-weight:400;font-style:italic;font-size:34px;margin-bottom:6px}
+.legal h2{font-size:22px;margin:34px 0 8px}
+.legal .fecha{color:var(--muted);font-size:15px}
+.legal section>*{max-width:680px}
+

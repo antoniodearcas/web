@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Antonio de Arcas</title>
+<meta name="description" content="Esferas: una carta cada domingo, escrita desde la brecha en nuestra alma que parece separarnos del amor de Dios.">
+<link rel="icon" href="/assets/logo.png">
+<link rel="stylesheet" href="https://use.typekit.net/jjg8lnx.css">
+<link rel="stylesheet" href="/assets/estilo.css">
+</head>
+<body>
+<header><a href="/" aria-label="Antonio de Arcas, inicio"><img class="logo" src="/assets/logo.png" alt=""><img class="marca" src="/assets/marca.png" alt="Antonio de Arcas"></a></header>
+<div class="wrap">
+  <div class="foto"><img src="/assets/foto.jpg" alt="Antonio de Arcas frente a su piano"></div>
+  <main class="portada">
+    <section>
+      <img class="esferas" src="https://framerusercontent.com/images/5dzaGmEIXUoVzXCBtxcZ4m4AI.png" alt="Esferas">
+      <p>Una carta cada domingo, escrita desde la brecha en nuestra alma que parece separarnos del amor de Dios.</p>
+      <p>A un lado están tus preocupaciones del día a día, al otro la confianza plena en los brazos eternos que te sostienen.</p>
+      <p>A un lado están la enfermedad, los problemas y la confusión, al otro la fe que sana, resuelve e ilumina.</p>
+      <p>A un lado está la vida inmersa en ruido y miedo, al otro el silencio que guía y la música que recuerda que todo está bien.</p>
+      <p>Hay más en esta vida que la superficie. No solo estamos llamados a sobrevivir, estamos llamados a florecer.</p>
+      <p>La flor de loto nace en el fango. Nosotros en el camino.</p>
+      <p>Cada carta es un paso.</p>
+      <p>Camina conmigo.</p>
+      <form class="form" id="alta" novalidate>
+        <input type="email" name="Email" placeholder="Email" autocomplete="email" required aria-label="Email">
+        <select name="Idioma" aria-label="Idioma">
+          <option value="">Idioma (Español por defecto)</option>
+          <option value="Español">Español</option>
+          <option value="English">English</option>
+        </select>
+        <label class="check"><input type="checkbox" name="Newsletter" required> <span>Acepto la <a href="/privacidad/">política de privacidad</a></span></label>
+        <div class="trampa" aria-hidden="true"><input type="text" name="website" tabindex="-1" autocomplete="off"></div>
+        <button class="boton" type="submit">Me uno</button>
+        <p class="mensaje" role="status" aria-live="polite"></p>
+      </form>
+    </section>
+  </main>
+</div>
+<script>
+(function(){
+  var f=document.getElementById('alta'), m=f.querySelector('.mensaje'), b=f.querySelector('button');
+  var HOOK='https://hook.us2.make.com/xwe37csw8iec3acyn64el68eee1eo6qp';
+  f.addEventListener('submit',function(e){
+    e.preventDefault();
+    var email=f.Email.value.trim();
+    if(!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)){m.textContent='Escribe un email válido.';f.Email.focus();return;}
+    if(!f.Newsletter.checked){m.textContent='Para unirte, acepta la política de privacidad.';return;}
+    if(f.website.value){m.textContent='Gracias.';return;}
+    b.disabled=true; m.textContent='Enviando...';
+    var datos=new URLSearchParams({Email:email,Idioma:f.Idioma.value,Newsletter:'on'});
+    fetch(HOOK,{method:'POST',mode:'no-cors',body:datos}).then(function(){
+      f.reset(); m.textContent='Gracias por unirte. Pronto te llegará mi carta de bienvenida.';
+    }).catch(function(){
+      m.textContent='No se ha podido enviar. Inténtalo de nuevo en un momento.';
+    }).finally(function(){b.disabled=false;});
+  });
+})();
+</script>
+</body>
+</html>
