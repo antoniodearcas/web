@@ -213,3 +213,5 @@ header .marca{display:block}
 .portada2 .cuerpo>p{text-align:left;text-wrap:pretty}
 .portada2 .form .check{justify-content:flex-start}
 .portada2 .mensaje{text-align:left}
+.portada2 .cuerpo>p{text-align:justify;hyphens:auto;-webkit-hyphens:auto}
+.portada2 .cuerpo>p{hyphens:manual;-webkit-hyphens:manual}
