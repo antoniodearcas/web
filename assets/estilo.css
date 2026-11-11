@@ -234,3 +234,24 @@ header .marca{display:block}
 @media (max-width:900px){.pag-ofertas .retrato{background-position:center,55% 60%}}
 .pag-conciertos .retrato{background:linear-gradient(rgba(28,40,50,.45),rgba(28,40,50,0) 22%,rgba(28,40,50,0) 55%,rgba(28,40,50,.6)),url(estudio.jpg) 62% 50%/cover}
 .pag-conciertos .retrato nav,.pag-conciertos .retrato nav a{color:var(--cream);text-shadow:0 1px 8px rgba(0,0,0,.5)}
+/* Menú móvil desplegable */
+.abrir{display:none}
+@media (max-width:900px){
+  header{flex-direction:row;justify-content:space-between;align-items:center;flex-wrap:wrap;height:auto;min-height:64px;padding:10px 16px;gap:0;position:relative}
+  .con-header header{justify-content:space-between}
+  .abrir{display:flex;flex-direction:column;justify-content:center;gap:7px;width:40px;height:40px;padding:0 8px;background:none;border:0;cursor:pointer;color:var(--navy)}
+  .abrir span{display:block;height:1px;background:currentColor;transition:transform .25s ease}
+  header.abierto .abrir span:first-child{transform:translateY(4px) rotate(45deg)}
+  header.abierto .abrir span:last-child{transform:translateY(-4px) rotate(-45deg)}
+  .menu{display:none;flex-basis:100%;flex-direction:column;align-items:flex-start;gap:0;top:0;padding:6px 0 4px;font-size:19px;letter-spacing:.03em}
+  header.abierto .menu{display:flex}
+  .menu a{display:block;width:100%;padding:12px 2px;border-top:1px solid var(--line)}
+  .menu a[aria-current=page]{color:var(--soft);font-style:italic}
+  .portada2 .cuerpo>p{text-align:left}
+}
+@media (max-width:900px){
+  header>a:first-child{gap:12px;min-width:0}
+  header .logo{width:34px;height:34px}
+  header .marca{height:14px}
+}
+@media (max-width:360px){header .marca{height:12px}}
