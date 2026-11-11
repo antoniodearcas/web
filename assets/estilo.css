@@ -172,3 +172,7 @@ footer>.texto,footer>.redes{margin:0}
 header{border-bottom:0}
 @media (max-width:820px){header{justify-content:center}}
 @media (max-width:900px){.con-header header{justify-content:center}}
+/* Alinear tarjetas con el header */
+.con-header .lienzo{padding-top:0}
+.con-header .retrato{top:64px;height:calc(100vh - 78px)}
+@media (max-width:900px){.con-header .lienzo{padding-top:0}.con-header .retrato{top:0;height:60vh}}
