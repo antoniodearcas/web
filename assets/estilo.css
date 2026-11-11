@@ -160,3 +160,11 @@ footer .redes{margin:0}
   .retrato nav{font-size:15px}
 }
 footer>.texto,footer>.redes{margin:0}
+/* Variante con header */
+.con-header .lienzo{min-height:calc(100vh - 64px)}
+.con-header .retrato{top:78px;height:calc(100vh - 92px)}
+.con-header .retrato .arriba{justify-content:flex-end}
+@media (max-width:900px){
+  .con-header .retrato{top:0;height:60vh}
+  .con-header .retrato .arriba{justify-content:center}
+}
