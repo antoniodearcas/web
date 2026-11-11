@@ -215,3 +215,9 @@ header .marca{display:block}
 .portada2 .mensaje{text-align:left}
 .portada2 .cuerpo>p{text-align:justify;hyphens:auto;-webkit-hyphens:auto}
 .portada2 .cuerpo>p{hyphens:manual;-webkit-hyphens:manual}
+/* Centrado óptico del texto en botones (Caslon asienta alto) */
+.boton{padding:15px 20px 11px}
+.pastilla{padding:8px 20px 4px}
+.pastilla.clara{padding:7px 19px 3px}
+.plataformas a{padding:15px 20px 11px}
+.esferas-cta{padding:14px 18px 10px}
