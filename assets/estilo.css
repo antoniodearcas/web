@@ -227,3 +227,10 @@ header .marca{display:block}
 @media (max-width:900px){.musica .escenario{background-position:80% 40%}}
 .pag-ofertas .retrato{background:linear-gradient(rgba(28,40,50,.4),rgba(28,40,50,0) 20%,rgba(28,40,50,0) 60%,rgba(28,40,50,.55)),url(meditando.jpg) 49% 40%/cover}
 .pag-ofertas .retrato nav,.pag-ofertas .retrato nav a{color:var(--cream);text-shadow:0 1px 8px rgba(0,0,0,.45)}
+/* Fotos: lirio (ofertas) y estudio (conciertos) */
+.pag-ofertas .retrato{background:linear-gradient(rgba(250,247,242,.35),rgba(250,247,242,0) 20%,rgba(28,40,50,0) 62%,rgba(28,40,50,.55)),url(lirio.jpg) 56% 50%/cover}
+.pag-ofertas .retrato nav,.pag-ofertas .retrato nav a{color:var(--navy);text-shadow:none}
+.pag-conciertos .retrato{background:linear-gradient(rgba(250,247,242,.55),rgba(250,247,242,0) 22%,rgba(28,40,50,0) 55%,rgba(28,40,50,.6)),url(estudio.jpg) 62% 50%/cover}
+@media (max-width:900px){.pag-ofertas .retrato{background-position:center,55% 60%}}
+.pag-conciertos .retrato{background:linear-gradient(rgba(28,40,50,.45),rgba(28,40,50,0) 22%,rgba(28,40,50,0) 55%,rgba(28,40,50,.6)),url(estudio.jpg) 62% 50%/cover}
+.pag-conciertos .retrato nav,.pag-conciertos .retrato nav a{color:var(--cream);text-shadow:0 1px 8px rgba(0,0,0,.5)}
