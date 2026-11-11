@@ -190,3 +190,14 @@ header{justify-content:space-between;gap:24px}
 }
 @media (max-width:430px){.menu{gap:4px 12px;font-size:14px;letter-spacing:.01em}}
 @media (max-width:430px){.menu{gap:4px 10px;font-size:13.5px;letter-spacing:0}}
+/* Header: sin subrayado y textos centrados */
+.menu{align-items:center}
+.menu a{padding:0;border-bottom:0;line-height:1}
+.menu a:hover,.menu a:focus-visible{border-bottom:0;color:var(--soft)}
+.menu a[aria-current=page]{border-bottom:0}
+header .marca{display:block}
+/* Portada en tarjetas */
+.portada2 .cuerpo{max-width:520px;margin:0 auto;padding:12px 0 40px;width:100%;flex:1 0 auto;display:flex;flex-direction:column;justify-content:center}
+.portada2 .esferas{max-width:380px;margin:0 auto 30px}
+.portada2 .cuerpo>p+p{margin-top:.6em}
+@media (max-width:900px){.portada2 .cuerpo{padding:4px 0 32px}}
