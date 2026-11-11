@@ -176,3 +176,17 @@ header{border-bottom:0}
 .con-header .lienzo{padding-top:0}
 .con-header .retrato{top:64px;height:calc(100vh - 78px)}
 @media (max-width:900px){.con-header .lienzo{padding-top:0}.con-header .retrato{top:0;height:60vh}}
+/* Menú del header */
+header{justify-content:space-between;gap:24px}
+.menu{display:flex;gap:26px;font-size:16.5px;letter-spacing:.03em}
+.menu a{text-decoration:none;color:var(--navy);padding:4px 0;border-bottom:1px solid transparent}
+.menu a:hover,.menu a:focus-visible{border-bottom-color:var(--line)}
+.menu a[aria-current=page]{border-bottom-color:var(--navy)}
+@media (max-width:1000px){.menu{gap:18px;font-size:15.5px}}
+@media (max-width:900px){
+  header{position:relative;height:auto;flex-direction:column;justify-content:center;gap:6px;padding:14px 16px 12px}
+  .menu{flex-wrap:wrap;justify-content:center;gap:4px 16px;font-size:15px}
+  .foto{top:0}
+}
+@media (max-width:430px){.menu{gap:4px 12px;font-size:14px;letter-spacing:.01em}}
+@media (max-width:430px){.menu{gap:4px 10px;font-size:13.5px;letter-spacing:0}}
