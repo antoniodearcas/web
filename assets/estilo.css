@@ -71,3 +71,15 @@ footer span{margin:0 8px}
 .legal .fecha{color:var(--muted);font-size:15px}
 .legal section>*{max-width:680px}
 
+/* Ofertas v2 */
+#para-quien{background:var(--b2)}
+#musica{background:var(--b1)}
+.enlace{display:block;margin-top:16px;text-align:center;color:var(--soft);font-size:17px;letter-spacing:.04em}
+.boton.secundario{background:transparent;color:var(--navy);border:1px solid #5c7484}
+.boton.secundario:hover,.boton.secundario:focus-visible{background:rgba(92,116,132,.1)}
+.piezas{margin-top:18px;padding-left:1.1em}
+.piezas li+li{margin-top:.7em}
+#proceso{background:var(--b2)}
+#piezas{background:var(--b3)}
+#empezar{background:var(--b4)}
+h2+p{margin-top:18px}
