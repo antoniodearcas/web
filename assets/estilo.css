@@ -168,3 +168,7 @@ footer>.texto,footer>.redes{margin:0}
   .con-header .retrato{top:0;height:60vh}
   .con-header .retrato .arriba{justify-content:center}
 }
+/* Header sin línea; logo centrado en móvil */
+header{border-bottom:0}
+@media (max-width:820px){header{justify-content:center}}
+@media (max-width:900px){.con-header header{justify-content:center}}
