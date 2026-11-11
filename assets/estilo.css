@@ -221,3 +221,9 @@ header .marca{display:block}
 .pastilla.clara{padding:7px 19px 3px}
 .plataformas a{padding:15px 20px 11px}
 .esferas-cta{padding:14px 18px 10px}
+/* Fotos por página */
+.pag-ofertas .retrato{background:linear-gradient(rgba(250,247,242,.45),rgba(250,247,242,0) 22%,rgba(28,40,50,0) 60%,rgba(28,40,50,.55)),url(meditando.jpg) 49% 40%/cover}
+.musica .escenario{background:url(musica.jpg) 70% 40%/cover no-repeat}
+@media (max-width:900px){.musica .escenario{background-position:80% 40%}}
+.pag-ofertas .retrato{background:linear-gradient(rgba(28,40,50,.4),rgba(28,40,50,0) 20%,rgba(28,40,50,0) 60%,rgba(28,40,50,.55)),url(meditando.jpg) 49% 40%/cover}
+.pag-ofertas .retrato nav,.pag-ofertas .retrato nav a{color:var(--cream);text-shadow:0 1px 8px rgba(0,0,0,.45)}
