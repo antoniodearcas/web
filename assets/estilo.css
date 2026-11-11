@@ -151,3 +151,12 @@ footer .redes{margin:0}
   .retrato .lema2{font-size:19px}
   .tarjetas .contenido{padding:28px 18px 0}
 }
+/* Ajustes tarjetas: footer y móvil */
+.tarjetas footer.pie{background:transparent;padding:20px 0 24px;display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap}
+.tarjetas footer.pie .redes{margin:0}
+@media (max-width:900px){
+  .retrato{background-position:center,50% 50%;text-align:center;align-items:center}
+  .retrato .arriba{flex-direction:column;justify-content:center;gap:10px;width:100%}
+  .retrato nav{font-size:15px}
+}
+footer>.texto,footer>.redes{margin:0}
