@@ -201,3 +201,9 @@ header .marca{display:block}
 .portada2 .esferas{max-width:380px;margin:0 auto 30px}
 .portada2 .cuerpo>p+p{margin-top:.6em}
 @media (max-width:900px){.portada2 .cuerpo{padding:4px 0 32px}}
+/* Ajustes finos */
+.menu{position:relative;top:3px}
+@media (max-width:900px){.menu{top:0}}
+.portada2 .cuerpo>p{text-align:center}
+.portada2 .form .check{justify-content:center}
+.portada2 .mensaje{text-align:center}
