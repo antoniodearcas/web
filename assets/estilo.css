@@ -207,3 +207,9 @@ header .marca{display:block}
 .portada2 .cuerpo>p{text-align:center}
 .portada2 .form .check{justify-content:center}
 .portada2 .mensaje{text-align:center}
+/* Esferas: bloque alineado a la izquierda con el mismo ancho que el logo */
+.portada2 .cuerpo{max-width:440px}
+.portada2 .esferas{max-width:100%;width:100%;margin:0 0 32px}
+.portada2 .cuerpo>p{text-align:left;text-wrap:pretty}
+.portada2 .form .check{justify-content:flex-start}
+.portada2 .mensaje{text-align:left}
