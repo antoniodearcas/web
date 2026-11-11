@@ -83,3 +83,15 @@ footer span{margin:0 8px}
 #piezas{background:var(--b3)}
 #empezar{background:var(--b4)}
 h2+p{margin-top:18px}
+/* Música */
+.musica .escenario{position:relative;min-height:calc(100vh - 64px);min-height:calc(100svh - 64px);display:flex;align-items:center;justify-content:center;padding:48px 16px;background:url(foto.jpg) 42% 50%/cover no-repeat}
+.musica .escenario::before{content:"";position:absolute;inset:0;background:linear-gradient(rgba(28,40,50,.35),rgba(28,40,50,.55))}
+.musica .panel{position:relative;width:100%;max-width:400px;text-align:center;color:var(--cream)}
+.musica h1{font-weight:400;font-style:italic;font-size:46px;line-height:1.1;text-shadow:0 1px 12px rgba(0,0,0,.35)}
+.musica .sub{margin:10px 0 30px;font-style:italic;font-size:18px;text-shadow:0 1px 8px rgba(0,0,0,.4)}
+.plataformas{display:grid;gap:12px}
+.plataformas a{display:block;text-decoration:none;background:rgba(250,247,242,.92);color:var(--navy);border-radius:999px;padding:13px 20px;font-size:18px;letter-spacing:.05em;transition:background .2s,transform .2s}
+.plataformas a:hover,.plataformas a:focus-visible{background:var(--cream);transform:translateY(-1px)}
+.esferas-cta{display:block;margin-top:30px;text-decoration:none;color:var(--cream);border:1px solid rgba(250,247,242,.8);border-radius:999px;padding:12px 18px;font-size:16px;letter-spacing:.05em;outline:1px solid rgba(250,247,242,.45);outline-offset:4px}
+.esferas-cta:hover,.esferas-cta:focus-visible{background:rgba(250,247,242,.12)}
+.musica .enlace{color:var(--cream);margin-top:22px}
