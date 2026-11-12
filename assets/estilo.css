@@ -264,3 +264,5 @@ header .marca{display:block}
 }
 @media (max-width:900px){.menu{padding-bottom:0}header.abierto{padding-bottom:0}.menu a:last-child{border-bottom:1px solid var(--line)}header.abierto+.lienzo,header.abierto~.escenario{margin-top:14px}}
 @media (max-width:900px){.portada2 .cuerpo>p{text-wrap:wrap}}
+.portada2 .cuerpo>p.par{text-align:left}
+.portada2 .cuerpo>p.par{text-wrap:wrap}
