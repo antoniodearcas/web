@@ -1,0 +1,69 @@
+{
+ "num": 47,
+ "enviada": null,
+ "estado": "publicada",
+ "es": {
+  "titulo": "El Cielo Que Hay En Mí",
+  "slug": "47-el-cielo-que-hay-en-mi",
+  "origen": "https://mailchi.mp/astrofonda/47",
+  "portada": {
+   "ruta": "assets/cartas/204d13644bb0c5.jpg",
+   "w": 1400,
+   "h": 933
+  },
+  "subtitulo": "Hoy traigo una canción.",
+  "extracto": "Hoy traigo una canción. La semana pasada una mentora mía me animó a participar en el concurso de Tiny Desk. Esta plataforma graba conciertos en sus oficinas, en un formato pequeño, un poco…",
+  "bloques": [
+   {
+    "t": "img",
+    "ruta": "assets/cartas/204d13644bb0c5.jpg",
+    "w": 1400,
+    "h": 933
+   },
+   {
+    "t": "texto",
+    "html": "<p>Hoy traigo una canción. </p><p>La semana pasada una mentora mía me animó a participar en el concurso de Tiny Desk. Esta plataforma graba conciertos en sus oficinas, en un formato pequeño, un poco de andar por casa. Por ahí han pasado algunas de las bandas más grandes del mundo. Recuerdo disfrutar mucho una de Wilco y otra de Coldplay, por ejemplo. </p><p>Todos los años celebran un concurso en el que invitan a artistas por descubrir a grabar vídeos en casa en un formato similar. El ganador es invitado a las oficinas a grabar un concierto, entre otras cosas. </p><p>Siento que todavía no es mi momento de compartir lo que estoy haciendo. Llegará. Pero tengo una buena canción, y esta es una buena oportunidad. Así que ahí va, “El Cielo Que Hay En Mí”. Ya os contaré más sobre ella, que como podréis imaginar al escucharla, tiene tela.</p><p>¡Que la disfrutes!</p><p>Con todo mi amor,</p><p>A.</p>",
+    "plano": "Hoy traigo una canción. La semana pasada una mentora mía me animó a participar en el concurso de Tiny Desk. Esta plataforma graba conciertos en sus oficinas, en un formato pequeño, un poco de andar por casa. Por ahí han pasado algunas de las bandas más grandes del mundo. Recuerdo disfrutar mucho una de Wilco y otra de Coldplay, por ejemplo. Todos los años celebran un concurso en el que invitan a artistas por descubrir a grabar vídeos en casa en un formato similar. El ganador es invitado a las oficinas a grabar un concierto, entre otras cosas. Siento que todavía no es mi momento de compartir lo que estoy haciendo. Llegará. Pero tengo una buena canción, y esta es una buena oportunidad. Así que ahí va, “El Cielo Que Hay En Mí”. Ya os contaré más sobre ella, que como podréis imaginar al escucharla, tiene tela. ¡Que la disfrutes! Con todo mi amor, A."
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/a479cfe36abe6f.jpg",
+    "w": 640,
+    "h": 360,
+    "href": "https://youtu.be/gM9ic2Z_NWI?si=cWSiK85h_sYv7Wv4"
+   }
+  ]
+ },
+ "en": {
+  "titulo": "El Cielo Que Hay En Mí (The Heaven Within Me)",
+  "slug": "47-el-cielo-que-hay-en-mi-the-heaven-within-me",
+  "origen": "https://mailchi.mp/astrofonda/47-en",
+  "portada": {
+   "ruta": "assets/cartas/729f84d7adc09e.jpg",
+   "w": 1400,
+   "h": 933
+  },
+  "subtitulo": "Today I bring a song",
+  "extracto": "Today I bring a song. Last week, one of my mentors encouraged me to participate in the Tiny Desk contest. This platform records concerts at its offices in a small, laid-back format. Some of…",
+  "bloques": [
+   {
+    "t": "img",
+    "ruta": "assets/cartas/729f84d7adc09e.jpg",
+    "w": 1400,
+    "h": 933
+   },
+   {
+    "t": "texto",
+    "html": "<p>Today I bring a song.</p><p>Last week, one of my mentors encouraged me to participate in the Tiny Desk contest. This platform records concerts at its offices in a small, laid-back format. Some of the biggest bands in the world have performed there—I remember enjoying one by Wilco and another by Coldplay, for example.</p><p>Every year they hold a contest where emerging artists are invited to record home videos in a similar style. The winner is invited to the offices to record a concert, among other things.</p><p>I feel that it's not yet my time to share what I'm working on. That moment will come. But I have a good song, and this is a good opportunity. So here it goes: “El Cielo Que Hay En Mí.” I'll tell you more about it in due time, there’s a lot to share.</p><p>Enjoy!</p><p>With all my love,</p><p>A.</p>",
+    "plano": "Today I bring a song. Last week, one of my mentors encouraged me to participate in the Tiny Desk contest. This platform records concerts at its offices in a small, laid-back format. Some of the biggest bands in the world have performed there—I remember enjoying one by Wilco and another by Coldplay, for example. Every year they hold a contest where emerging artists are invited to record home videos in a similar style. The winner is invited to the offices to record a concert, among other things. I feel that it's not yet my time to share what I'm working on. That moment will come. But I have a good song, and this is a good opportunity. So here it goes: “El Cielo Que Hay En Mí.” I'll tell you more about it in due time, there’s a lot to share. Enjoy! With all my love, A."
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/a479cfe36abe6f.jpg",
+    "w": 640,
+    "h": 360,
+    "href": "https://youtu.be/gM9ic2Z_NWI?si=cWSiK85h_sYv7Wv4"
+   }
+  ]
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "num": 79,
+ "enviada": "2025-09-07",
+ "estado": "publicada",
+ "es": {
+  "titulo": "Te celebro",
+  "slug": "79-te-celebro",
+  "origen": "https://mailchi.mp/astrofonda/79",
+  "portada": {
+   "ruta": "assets/cartas/19e1fad24c7ea3.jpg",
+   "w": 1400,
+   "h": 934
+  },
+  "subtitulo": "Por si a ti se te olvidó",
+  "extracto": "Aquí termina la primera semana de septiembre, y muchos hemos estado ajetreados de aquí para allá, retomando el ritmo tras el paso lento veraniego. Hoy quiero hablar de un patrón mental que…",
+  "bloques": [
+   {
+    "t": "img",
+    "ruta": "assets/cartas/19e1fad24c7ea3.jpg",
+    "w": 1400,
+    "h": 934
+   },
+   {
+    "t": "texto",
+    "html": "<p>Aquí termina la primera semana de septiembre, y muchos hemos estado ajetreados de aquí para allá, retomando el ritmo tras el paso lento veraniego. Hoy quiero hablar de un patrón mental que en momentos como este se intensifica, agitando nuestra mente, y proponer una práctica para recentrarla.</p><p>Tenemos un sesgo cognitivo que nos hace centrarnos exclusivamente en lo que no está bien y en lo mucho que aún queda por hacer. Esto es útil para la supervivencia y también para ir estresado y en piloto automático. Sin embargo, todos los días hacemos esfuerzos para sacar nuestra vida adelante. Esfuerzos que damos por hecho, como si por ser necesarios y cotidianos no mereciesen ser celebrados.</p><p>Te celebro amigo, amiga, y celebro todos los esfuerzos, pequeños grandes y titánicos, que has hecho esta semana para que tu vida avance.</p><p>Te propongo que tú también te celebres, y aquí va una forma original de hacerlo. Piensa en alguien querido y en todas las formas en que trabaja para hacer que su vida vaya bien. Escríbele ahora y dile que celebras ese esfuerzo diario suyo. Haz que tu celebración de ti mismo sea celebrar a otro, y observa cómo la alegría y el agradecimiento se multiplica al compartir de esta manera.</p><p>El principio detrás de esta práctica es el siguiente: todo el amor que buscamos está siempre disponible, pero hemos olvidado dónde está y cómo reclamarlo. Vivimos inmersos en un abrazo infinito, pero no lo sentimos. Somos como peces muertos de sed en medio del océano. Si no experimentamos ese amor es porque nos lo estamos negando a nosotros mismos, consciente o inconscientemente.</p><p>Para abrirnos a recibir ese amor que es nuestra herencia, no hace falta salir ahí a conseguirlo. Lo único que hay que hacer es aceptarlo, y la manera de aceptarlo es dándolo.</p><p>Si quieres abundancia, genera abundancia en la vida de otro.<br/>Si quieres sentir alegría, alegra a otro.<br/>Si quieres liberarte de la culpa, perdona a todos.<br/>Si quieres celebrar tu vida, celebra la de los demás.</p><p>En el mundo del ego, donde todo está separado, dar equivale a tener menos.<br/>En el Reino de Dios, donde todo es uno, dar equivale a recibir.</p><p>Te invito a que hoy experimentes con esta idea y veas por ti mismo sus efectos.</p>",
+    "plano": "Aquí termina la primera semana de septiembre, y muchos hemos estado ajetreados de aquí para allá, retomando el ritmo tras el paso lento veraniego. Hoy quiero hablar de un patrón mental que en momentos como este se intensifica, agitando nuestra mente, y proponer una práctica para recentrarla. Tenemos un sesgo cognitivo que nos hace centrarnos exclusivamente en lo que no está bien y en lo mucho que aún queda por hacer. Esto es útil para la supervivencia y también para ir estresado y en piloto automático. Sin embargo, todos los días hacemos esfuerzos para sacar nuestra vida adelante. Esfuerzos que damos por hecho, como si por ser necesarios y cotidianos no mereciesen ser celebrados. Te celebro amigo, amiga, y celebro todos los esfuerzos, pequeños grandes y titánicos, que has hecho esta semana para que tu vida avance. Te propongo que tú también te celebres, y aquí va una forma original de hacerlo. Piensa en alguien querido y en todas las formas en que trabaja para hacer que su vida vaya bien. Escríbele ahora y dile que celebras ese esfuerzo diario suyo. Haz que tu celebración de ti mismo sea celebrar a otro, y observa cómo la alegría y el agradecimiento se multiplica al compartir de esta manera. El principio detrás de esta práctica es el siguiente: todo el amor que buscamos está siempre disponible, pero hemos olvidado dónde está y cómo reclamarlo. Vivimos inmersos en un abrazo infinito, pero no lo sentimos. Somos como peces muertos de sed en medio del océano. Si no experimentamos ese amor es porque nos lo estamos negando a nosotros mismos, consciente o inconscientemente. Para abrirnos a recibir ese amor que es nuestra herencia, no hace falta salir ahí a conseguirlo. Lo único que hay que hacer es aceptarlo, y la manera de aceptarlo es dándolo. Si quieres abundancia, genera abundancia en la vida de otro. Si quieres sentir alegría, alegra a otro. Si quieres liberarte de la culpa, perdona a todos. Si quieres celebrar tu vida, celebra la de los demás. En el mundo del ego, donde todo está separado, dar equivale a tener menos. En el Reino de Dios, donde todo es uno, dar equivale a recibir. Te invito a que hoy experimentes con esta idea y veas por ti mismo sus efectos."
+   },
+   {
+    "t": "firma",
+    "html": "<p><em>Con todo mi amor,</em></p><p><em>A.</em></p><p><em>P.D.: </em>Y con respecto a todo lo que queda por hacer, aferrémonos a esta idea del Tao: “La naturaleza no se apresura, pero nada queda sin hacer.” ¡Buena semana!</p>",
+    "plano": "Con todo mi amor, A. P.D.: Y con respecto a todo lo que queda por hacer, aferrémonos a esta idea del Tao: “La naturaleza no se apresura, pero nada queda sin hacer.” ¡Buena semana!"
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/0df3b45bc22d69.jpg",
+    "w": 1400,
+    "h": 934
+   }
+  ]
+ },
+ "en": {
+  "titulo": "I Celebrate You",
+  "slug": "79-i-celebrate-you",
+  "origen": "https://mailchi.mp/astrofonda/79-en",
+  "portada": {
+   "ruta": "assets/cartas/1aefd1490aa29d.jpg",
+   "w": 1400,
+   "h": 934
+  },
+  "subtitulo": "In case you forgot",
+  "extracto": "The first week of September comes to an end, and many of us have been busy running here and there, picking up the rhythm again after the slow pace of the summer. Today I want to bring up a…",
+  "bloques": [
+   {
+    "t": "img",
+    "ruta": "assets/cartas/1aefd1490aa29d.jpg",
+    "w": 1400,
+    "h": 934
+   },
+   {
+    "t": "texto",
+    "html": "<p>The first week of September comes to an end, and many of us have been busy running here and there, picking up the rhythm again after the slow pace of the summer. Today I want to bring up a mental pattern that, in moments like this, tends to intensify, agitating our minds, and I’d like to propose a practice to help recenter it.</p><p>We have a cognitive bias that makes us focus exclusively on what is not right and on how much is still left to do. This is useful for survival, and also for staying stressed and on autopilot. Yet every single day we make efforts to move our lives forward. Efforts we take for granted, as if, because they are necessary and routine, they were unworthy of celebration.</p><p>I celebrate you, my friend, and I celebrate all the efforts (small, great, and titanic) you’ve made this week so that your life could move ahead.</p><p>I invite you to celebrate yourself as well, and here’s an original way to do it. Think of someone dear to you, and think of all the ways they work to make their life go well. Write to them now and tell them you celebrate their daily effort. Let your celebration of yourself be the celebration of another, and watch how joy and gratitude multiply when shared in this way.</p><p>The principle behind this practice is the following: all the love we seek is always available, but we have forgotten where it is and how to claim it. We live immersed in an infinite embrace, yet we do not feel it. We are like fish dying of thirst in the middle of the ocean. If we do not experience that love, it is only because we are denying it to ourselves, consciously or unconsciously.</p><p>To open ourselves to receive this love, which is our inheritance, there is no need to go out and get it. All we have to do is accept it, and the way to accept it is by giving it.</p><p>If you want abundance, create abundance in another’s life.<br/>If you want to feel joy, bring joy to another.<br/>If you want to free yourself from guilt, forgive everyone.<br/>If you want to celebrate your life, celebrate the lives of others.</p><p>In the world of the ego, where everything is separate, giving means having less.<br/>In the Kingdom of God, where all is one, giving means receiving.</p><p>I invite you to experiment with this idea today and see its effects for yourself.</p>",
+    "plano": "The first week of September comes to an end, and many of us have been busy running here and there, picking up the rhythm again after the slow pace of the summer. Today I want to bring up a mental pattern that, in moments like this, tends to intensify, agitating our minds, and I’d like to propose a practice to help recenter it. We have a cognitive bias that makes us focus exclusively on what is not right and on how much is still left to do. This is useful for survival, and also for staying stressed and on autopilot. Yet every single day we make efforts to move our lives forward. Efforts we take for granted, as if, because they are necessary and routine, they were unworthy of celebration. I celebrate you, my friend, and I celebrate all the efforts (small, great, and titanic) you’ve made this week so that your life could move ahead. I invite you to celebrate yourself as well, and here’s an original way to do it. Think of someone dear to you, and think of all the ways they work to make their life go well. Write to them now and tell them you celebrate their daily effort. Let your celebration of yourself be the celebration of another, and watch how joy and gratitude multiply when shared in this way. The principle behind this practice is the following: all the love we seek is always available, but we have forgotten where it is and how to claim it. We live immersed in an infinite embrace, yet we do not feel it. We are like fish dying of thirst in the middle of the ocean. If we do not experience that love, it is only because we are denying it to ourselves, consciously or unconsciously. To open ourselves to receive this love, which is our inheritance, there is no need to go out and get it. All we have to do is accept it, and the way to accept it is by giving it. If you want abundance, create abundance in another’s life. If you want to feel joy, bring joy to another. If you want to free yourself from guilt, forgive everyone. If you want to celebrate your life, celebrate the lives of others. In the world of the ego, where everything is separate, giving means having less. In the Kingdom of God, where all is one, giving means receiving. I invite you to experiment with this idea today and see its effects for yourself."
+   },
+   {
+    "t": "firma",
+    "html": "<p>With all my love,</p><p>A.</p><p>P.S. And as for all that is still left to do, let us hold fast to this idea from the Tao: <em>“Nature does not hurry, yet everything is accomplished.”</em> Have a wonderful week!</p>",
+    "plano": "With all my love, A. P.S. And as for all that is still left to do, let us hold fast to this idea from the Tao: “Nature does not hurry, yet everything is accomplished.” Have a wonderful week!"
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/5417be491776ab.jpg",
+    "w": 1400,
+    "h": 934
+   }
+  ]
+ }
+}

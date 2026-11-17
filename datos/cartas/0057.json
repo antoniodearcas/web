@@ -1,0 +1,36 @@
+{
+ "num": 57,
+ "enviada": null,
+ "estado": "publicada",
+ "en": {
+  "titulo": "A Poem",
+  "slug": "57-a-poem",
+  "origen": "https://mailchi.mp/astrofonda/57-en",
+  "portada": {
+   "ruta": "assets/cartas/dc769554666cb5.jpg",
+   "w": 1400,
+   "h": 933
+  },
+  "subtitulo": "A hug for you, and another one for me",
+  "extracto": "Last night I wrote this after a long walk between worlds. These are days of great inner leaps. Great falls short. Full of gratitude for the miracle of being alive, I send you a big hug. I…",
+  "bloques": [
+   {
+    "t": "img",
+    "ruta": "assets/cartas/dc769554666cb5.jpg",
+    "w": 1400,
+    "h": 933
+   },
+   {
+    "t": "texto",
+    "html": "<p>Last night I wrote this after a long walk between worlds. These are days of great inner leaps. Great falls short. Full of gratitude for the miracle of being alive, I send you a big hug.</p><p>I embrace myself</p><p>In this storm of lights</p><p>I return my name to silence</p><p>And my hands are no longer my hands</p><p>Nor do my words summon nightmares</p><p>I am what I am</p><p>Before my chains and conflicts</p><p>Prior to the lily’s root</p><p>I deny my authorship</p><p>This was not written by the human</p><p>Because the human did not write the human</p><p>Let go of that dreadful idea</p><p>And let death die of embraces</p><p>Art is a dream that awakens (to) life</p><p>With all my love,</p><p>A.</p>",
+    "plano": "Last night I wrote this after a long walk between worlds. These are days of great inner leaps. Great falls short. Full of gratitude for the miracle of being alive, I send you a big hug. I embrace myself In this storm of lights I return my name to silence And my hands are no longer my hands Nor do my words summon nightmares I am what I am Before my chains and conflicts Prior to the lily’s root I deny my authorship This was not written by the human Because the human did not write the human Let go of that dreadful idea And let death die of embraces Art is a dream that awakens (to) life With all my love, A."
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/c2143418406abd.jpg",
+    "w": 1400,
+    "h": 933
+   }
+  ]
+ }
+}

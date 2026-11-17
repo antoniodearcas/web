@@ -1,0 +1,69 @@
+{
+ "num": 53,
+ "enviada": null,
+ "estado": "publicada",
+ "es": {
+  "titulo": "Concierto en Boston: Kindred",
+  "slug": "53-concierto-en-boston-kindred",
+  "origen": "https://mailchi.mp/astrofonda/53",
+  "portada": {
+   "ruta": "assets/cartas/b4c8ae395957af.jpg",
+   "w": 640,
+   "h": 360
+  },
+  "subtitulo": "Tras 6 años, este domingo vuelvo al escenario",
+  "extracto": "Mi último concierto oficial fue en diciembre de 2019. Me quedé sin voz a mitad del concierto, y desde entonces perdí la voz con tanta frecuencia que me alejé de los escenarios y el estudio.…",
+  "bloques": [
+   {
+    "t": "img",
+    "ruta": "assets/cartas/b4c8ae395957af.jpg",
+    "w": 640,
+    "h": 360,
+    "href": "https://youtu.be/gM9ic2Z_NWI?si=YQPGyJ32G0PRdCZs"
+   },
+   {
+    "t": "texto",
+    "html": "<p>Mi último concierto oficial fue en diciembre de 2019. Me quedé sin voz a mitad del concierto, y desde entonces perdí la voz con tanta frecuencia que me alejé de los escenarios y el estudio. Hace un año, finalmente resolví el error interno que me llevaba a enfermar una y otra vez, y no he perdido la voz desde entonces. Este domingo daré mi primer concierto oficial (digo oficial porque sí he tocado dos o tres canciones aquí y allá para amigos y familiares). Y tengo la fortuna de que este regreso sea en un lugar que no puede ser más adecuado. </p><p>Se llama <a href=\"https://www.instagram.com/k.i.n.d.r.e.d/\">Kindred</a>. La primera vez que acudí a uno de sus conciertos, la fundadora, <a href=\"https://www.erinsheahogan.com/\">Erin</a>, nos recibió a mí y a mi amiga con un abrazo y un té. Entramos en un acogedor salón donde debía de haber unas 20 personas ya. Erin nos invitó a compartir nuestro estado interno, como el “estado mental” pero en relación al alma. Después guió una meditación Metta, que usa la siguiente estructura:</p><p>Que seas feliz.</p><p>Que tengas salud.</p><p>Que estés seguro.</p><p>Que vivas con tranquilidad.</p><p>Por último, repartió acuarelas, bolígrafos y cuadernos, e introdujo al artista, un maravilloso vibrafonista, que tocó durante unos 45 minutos mientras los demás pintábamos, escribíamos o meditábamos.</p><p>Kindred es un gran ejemplo de comunidad, un espacio de práctica para una vida basada en la comunión, la contemplación y la creatividad. Es el lugar ideal desde el que retomar mi camino sobre el escenario, especialmente después de las transformaciones internas que he vivido en estos últimos años.</p><p>Si estás en Boston, ven a pasar la tarde del domingo conmigo. Aquí los datos.</p><p><strong>Cuándo:</strong> 23 de marzo, de 7:00 a 9:00 PM</p><p><strong>Dónde:</strong> Vivid Oblivion, 288 Norfolk Street</p><p>Para reservar tu plaza, agradecemos una aportación de $15 que será destinada a pagar a nuestro artista y al espacio. Nadie quedará excluido por falta de recursos. Puedes realizar el pago en la puerta o mediante el <a href=\"https://www.eventbrite.com/e/kindred-awaken-light-with-astro-fonda-tickets-1291884393999?aff=oddtdtcreator&amp;utm_source=substack&amp;utm_medium=email\"><strong>enlace de Eventbrite AQUÍ.</strong></a></p><p><strong>Con todo mi amor,</strong></p><p><strong>A.</strong></p>",
+    "plano": "Mi último concierto oficial fue en diciembre de 2019. Me quedé sin voz a mitad del concierto, y desde entonces perdí la voz con tanta frecuencia que me alejé de los escenarios y el estudio. Hace un año, finalmente resolví el error interno que me llevaba a enfermar una y otra vez, y no he perdido la voz desde entonces. Este domingo daré mi primer concierto oficial (digo oficial porque sí he tocado dos o tres canciones aquí y allá para amigos y familiares). Y tengo la fortuna de que este regreso sea en un lugar que no puede ser más adecuado. Se llama Kindred . La primera vez que acudí a uno de sus conciertos, la fundadora, Erin , nos recibió a mí y a mi amiga con un abrazo y un té. Entramos en un acogedor salón donde debía de haber unas 20 personas ya. Erin nos invitó a compartir nuestro estado interno, como el “estado mental” pero en relación al alma. Después guió una meditación Metta, que usa la siguiente estructura: Que seas feliz. Que tengas salud. Que estés seguro. Que vivas con tranquilidad. Por último, repartió acuarelas, bolígrafos y cuadernos, e introdujo al artista, un maravilloso vibrafonista, que tocó durante unos 45 minutos mientras los demás pintábamos, escribíamos o meditábamos. Kindred es un gran ejemplo de comunidad, un espacio de práctica para una vida basada en la comunión, la contemplación y la creatividad. Es el lugar ideal desde el que retomar mi camino sobre el escenario, especialmente después de las transformaciones internas que he vivido en estos últimos años. Si estás en Boston, ven a pasar la tarde del domingo conmigo. Aquí los datos. Cuándo: 23 de marzo, de 7:00 a 9:00 PM Dónde: Vivid Oblivion, 288 Norfolk Street Para reservar tu plaza, agradecemos una aportación de $15 que será destinada a pagar a nuestro artista y al espacio. Nadie quedará excluido por falta de recursos. Puedes realizar el pago en la puerta o mediante el enlace de Eventbrite AQUÍ. Con todo mi amor, A."
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/2ff6ac68fd677c.jpg",
+    "w": 1400,
+    "h": 933
+   }
+  ]
+ },
+ "en": {
+  "titulo": "Concert in Boston: Kindred",
+  "slug": "53-concert-in-boston-kindred",
+  "origen": "https://mailchi.mp/astrofonda/53-en",
+  "portada": {
+   "ruta": "assets/cartas/b4c8ae395957af.jpg",
+   "w": 640,
+   "h": 360
+  },
+  "subtitulo": "After a 6-year break, I’m returning to the stage",
+  "extracto": "My last official concert was in December 2019. I lost my voice halfway through the show, and since then, I kept losing it so often that I stepped away from the stage and the studio. A year…",
+  "bloques": [
+   {
+    "t": "img",
+    "ruta": "assets/cartas/b4c8ae395957af.jpg",
+    "w": 640,
+    "h": 360,
+    "href": "https://youtu.be/gM9ic2Z_NWI?si=YQPGyJ32G0PRdCZs"
+   },
+   {
+    "t": "texto",
+    "html": "<p>My last official concert was in December 2019. I lost my voice halfway through the show, and since then, I kept losing it so often that I stepped away from the stage and the studio. A year ago, I finally resolved the internal issue that kept making me sick again and again, and I haven’t lost my voice since. This Sunday, I’ll be giving my first official concert (I say official because I have played two or three songs here and there for friends and family). And I’m fortunate that this return is happening in a space that couldn’t be more fitting.</p><p>It’s called <a href=\"https://www.instagram.com/k.i.n.d.r.e.d/\">Kindred</a>. The first time I attended one of their events, the founder, <a href=\"https://www.erinsheahogan.com/\">Erin</a>, welcomed my friend and me with a hug and a cup of tea. We walked into a cozy living room where about 20 people were already gathered. Erin invited us to share our “state of soul”. Then she led a Metta meditation, which follows this structure:</p><p>May you be happy.</p><p>May you be healthy.</p><p>May you be safe.</p><p>May you live with ease.</p><p>Finally, she passed around watercolors, pens, and notebooks, and introduced the artist—a wonderful vibraphonist—who played for about 45 minutes while the rest of us painted, wrote, or meditated.</p><p>Kindred is a beautiful example of community—a space of practice for a life rooted in communion, contemplation, and creativity. It’s the perfect place to return to the stage, especially after all the inner transformations I’ve gone through in these past years.</p><p>If you’re in Boston, come spend Sunday evening with me. Here are the details:</p><p><strong>When:</strong> March 23, from 7:00 to 9:00 PM</p><p><strong>Where:</strong> Vivid Oblivion, 288 Norfolk Street</p><p>To reserve your spot, we kindly suggest a $15 contribution, which will go toward supporting our artist and the space. No one will be turned away for lack of funds. You can pay at the door or through the <a href=\"https://www.eventbrite.com/e/kindred-awaken-light-with-astro-fonda-tickets-1291884393999?aff=oddtdtcreator&amp;utm_source=substack&amp;utm_medium=email\">Eventbrite link HERE</a>.</p><p>With all my love,</p><p>A.</p>",
+    "plano": "My last official concert was in December 2019. I lost my voice halfway through the show, and since then, I kept losing it so often that I stepped away from the stage and the studio. A year ago, I finally resolved the internal issue that kept making me sick again and again, and I haven’t lost my voice since. This Sunday, I’ll be giving my first official concert (I say official because I have played two or three songs here and there for friends and family). And I’m fortunate that this return is happening in a space that couldn’t be more fitting. It’s called Kindred . The first time I attended one of their events, the founder, Erin , welcomed my friend and me with a hug and a cup of tea. We walked into a cozy living room where about 20 people were already gathered. Erin invited us to share our “state of soul”. Then she led a Metta meditation, which follows this structure: May you be happy. May you be healthy. May you be safe. May you live with ease. Finally, she passed around watercolors, pens, and notebooks, and introduced the artist—a wonderful vibraphonist—who played for about 45 minutes while the rest of us painted, wrote, or meditated. Kindred is a beautiful example of community—a space of practice for a life rooted in communion, contemplation, and creativity. It’s the perfect place to return to the stage, especially after all the inner transformations I’ve gone through in these past years. If you’re in Boston, come spend Sunday evening with me. Here are the details: When: March 23, from 7:00 to 9:00 PM Where: Vivid Oblivion, 288 Norfolk Street To reserve your spot, we kindly suggest a $15 contribution, which will go toward supporting our artist and the space. No one will be turned away for lack of funds. You can pay at the door or through the Eventbrite link HERE . With all my love, A."
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/6b9bd48041935a.jpg",
+    "w": 1400,
+    "h": 933
+   }
+  ]
+ }
+}

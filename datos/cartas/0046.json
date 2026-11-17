@@ -1,0 +1,67 @@
+{
+ "num": 46,
+ "enviada": null,
+ "estado": "publicada",
+ "es": {
+  "titulo": "Fuerza y Poder",
+  "slug": "46-fuerza-y-poder",
+  "origen": "https://mailchi.mp/astrofonda/46",
+  "portada": {
+   "ruta": "assets/cartas/6c076fcb31fee3.jpg",
+   "w": 1400,
+   "h": 933
+  },
+  "subtitulo": "Luchar contra la corriente o fluir con ella",
+  "extracto": "Hay dos formas de funcionar en el mundo: a base de fuerza o desde el poder. El uso de la fuerza siempre genera una fuerza igual y opuesta. Esto lo explicó Newton en su tercera ley, y se…",
+  "bloques": [
+   {
+    "t": "img",
+    "ruta": "assets/cartas/6c076fcb31fee3.jpg",
+    "w": 1400,
+    "h": 933
+   },
+   {
+    "t": "texto",
+    "html": "<p>Hay dos formas de funcionar en el mundo: a base de fuerza o desde el poder. </p><p>El uso de la fuerza siempre genera una fuerza igual y opuesta. Esto lo explicó Newton en su tercera ley, y se aplica a todos los niveles.</p><p>El poder, en cambio, no tiene oposición. </p><p>La fuerza da argumentos de por qué tiene razón.</p><p>El poder dice la verdad.</p><p>La fuerza exige la paz.</p><p>El poder la encarna.</p><p>La fuerza logra las cosas a base de esfuerzo, nadando contra la corriente.</p><p>El poder logra las cosas permitiendo que ocurran, fluyendo con la corriente.</p><p>La fuerza se empeña en buscar el siguiente verso.</p><p>El poder abre las manos y deja que se pose.</p><p>La fuerza busca controlar y combatir.</p><p>El poder observa y permite.</p><p>La fuerza se castiga tras cada caída.</p><p>El poder confía en el proceso.</p><p>La fuerza intenta levantar las miríadas de barcos, uno por uno.</p><p>El poder eleva el nivel del mar.</p><p>La fuerza busca dominar la naturaleza, en el sentido de subyugar.</p><p>El poder busca dominarla, en el sentido de conocerla bien.</p><p>Cuando algo no se soluciona, la fuerza dice “¡Hay que aplicar más fuerza!”</p><p>El poder dice “Deja ir la resistencia. Perdona el resentimiento. La solución, que estaba oculta detrás, se revelará por sí sola.”</p><p>Cuando te sientes abrumado por la cantidad de cosas que tienes que hacer, la fuerza dice “¡Haz más cosas, y más rápido!”</p><p>El poder dice “Para. Respira. Sal a caminar y pregúntale a algún árbol cómo se organiza él. Te dirá que no sabe lo que es “organizar”, y que todo está ya en orden. Te dirá que él no hace: él solo es lo que es. Los frutos llegan cuando es tiempo de dar frutos, y las hojas caen cuando es tiempo de soltarlas. Pero él no hace nada, y si lo hace, no lo hace solo.” </p><p>Con todo mi amor,</p><p>A.</p>",
+    "plano": "Hay dos formas de funcionar en el mundo: a base de fuerza o desde el poder. El uso de la fuerza siempre genera una fuerza igual y opuesta. Esto lo explicó Newton en su tercera ley, y se aplica a todos los niveles. El poder, en cambio, no tiene oposición. La fuerza da argumentos de por qué tiene razón. El poder dice la verdad. La fuerza exige la paz. El poder la encarna. La fuerza logra las cosas a base de esfuerzo, nadando contra la corriente. El poder logra las cosas permitiendo que ocurran, fluyendo con la corriente. La fuerza se empeña en buscar el siguiente verso. El poder abre las manos y deja que se pose. La fuerza busca controlar y combatir. El poder observa y permite. La fuerza se castiga tras cada caída. El poder confía en el proceso. La fuerza intenta levantar las miríadas de barcos, uno por uno. El poder eleva el nivel del mar. La fuerza busca dominar la naturaleza, en el sentido de subyugar. El poder busca dominarla, en el sentido de conocerla bien. Cuando algo no se soluciona, la fuerza dice “¡Hay que aplicar más fuerza!” El poder dice “Deja ir la resistencia. Perdona el resentimiento. La solución, que estaba oculta detrás, se revelará por sí sola.” Cuando te sientes abrumado por la cantidad de cosas que tienes que hacer, la fuerza dice “¡Haz más cosas, y más rápido!” El poder dice “Para. Respira. Sal a caminar y pregúntale a algún árbol cómo se organiza él. Te dirá que no sabe lo que es “organizar”, y que todo está ya en orden. Te dirá que él no hace: él solo es lo que es. Los frutos llegan cuando es tiempo de dar frutos, y las hojas caen cuando es tiempo de soltarlas. Pero él no hace nada, y si lo hace, no lo hace solo.” Con todo mi amor, A."
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/f25f220970ee6b.jpg",
+    "w": 1400,
+    "h": 933
+   }
+  ]
+ },
+ "en": {
+  "titulo": "Force and Power",
+  "slug": "46-force-and-power",
+  "origen": "https://mailchi.mp/astrofonda/46-en",
+  "portada": {
+   "ruta": "assets/cartas/9d0ebab1c5a33c.jpg",
+   "w": 1400,
+   "h": 933
+  },
+  "subtitulo": "Swimming against the current or flowing with it",
+  "extracto": "There are two ways of operating in the world: through force or from power. Force always generates an equal and opposite force. Newton explained this in his third law, and it applies on all…",
+  "bloques": [
+   {
+    "t": "img",
+    "ruta": "assets/cartas/9d0ebab1c5a33c.jpg",
+    "w": 1400,
+    "h": 933
+   },
+   {
+    "t": "texto",
+    "html": "<p>There are two ways of operating in the world: through force or from power.</p><p>Force always generates an equal and opposite force. Newton explained this in his third law, and it applies on all levels.</p><p>Power, however, has no opposition.</p><p>Force argues why it is right.</p><p>Power speaks the truth.</p><p>Force demands peace.</p><p>Power embodies peace.</p><p>Force achieves things through effort, swimming against the current.</p><p>Power achieves things by allowing them to happen, flowing with the current.</p><p>Force struggles to find the next verse.</p><p>Power opens its hands and lets it land.</p><p>Force seeks to control and fight.</p><p>Power observes and allows.</p><p>Force punishes itself after every little fall.</p><p>Power trusts the process.</p><p>Force tries to lift the myriad boats one by one.</p><p>Power raises the level of the sea.</p><p>Force seeks to dominate nature, in the sense of subjugating it.</p><p>Power seeks to dominate it, in the sense of knowing it deeply.</p><p>When something cannot be solved, force says, “More force is needed!”</p><p>Power says, “Let go of resistance. Forgive the resentment. The solution, hidden behind it, will reveal itself.”</p><p>When you feel overwhelmed by the number of things you have to do, force says, “Do more, and do it faster!”</p><p>Power says: \"Stop. Breathe. Go for a walk and ask a tree how it organizes itself. It will tell you it doesn’t know what 'organizing' is: everything is already in order. It will tell you that it does nothing: it simply is what it is. The fruits come when it is time to bear fruit, and the leaves fall when it is time to let them go. But it does nothing, and if it does, it does not do it alone.\"</p><p>With all my love,</p><p>A.</p>",
+    "plano": "There are two ways of operating in the world: through force or from power. Force always generates an equal and opposite force. Newton explained this in his third law, and it applies on all levels. Power, however, has no opposition. Force argues why it is right. Power speaks the truth. Force demands peace. Power embodies peace. Force achieves things through effort, swimming against the current. Power achieves things by allowing them to happen, flowing with the current. Force struggles to find the next verse. Power opens its hands and lets it land. Force seeks to control and fight. Power observes and allows. Force punishes itself after every little fall. Power trusts the process. Force tries to lift the myriad boats one by one. Power raises the level of the sea. Force seeks to dominate nature, in the sense of subjugating it. Power seeks to dominate it, in the sense of knowing it deeply. When something cannot be solved, force says, “More force is needed!” Power says, “Let go of resistance. Forgive the resentment. The solution, hidden behind it, will reveal itself.” When you feel overwhelmed by the number of things you have to do, force says, “Do more, and do it faster!” Power says: \"Stop. Breathe. Go for a walk and ask a tree how it organizes itself. It will tell you it doesn’t know what 'organizing' is: everything is already in order. It will tell you that it does nothing: it simply is what it is. The fruits come when it is time to bear fruit, and the leaves fall when it is time to let them go. But it does nothing, and if it does, it does not do it alone.\" With all my love, A."
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/bda1983ad00f6f.jpg",
+    "w": 1400,
+    "h": 933
+   }
+  ]
+ }
+}

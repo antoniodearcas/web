@@ -1,0 +1,41 @@
+{
+ "num": 41,
+ "enviada": null,
+ "estado": "publicada",
+ "es": {
+  "titulo": "¡Feliz Año Nuevo!",
+  "slug": "41-feliz-ano-nuevo",
+  "origen": "https://mailchi.mp/astrofonda/41",
+  "portada": {
+   "ruta": "assets/cartas/3be72a65877de6.jpg",
+   "w": 1400,
+   "h": 933
+  },
+  "subtitulo": "Una cita y una invitación para empezar el año centrados",
+  "extracto": "Para empezar el año voy a compartir una cita con la que mi espíritu resuena en este momento, y también una invitación para algo que voy a hacer el día 3 de enero. La cita: \"Está en mi poder…",
+  "bloques": [
+   {
+    "t": "img",
+    "ruta": "assets/cartas/3be72a65877de6.jpg",
+    "w": 1400,
+    "h": 933
+   },
+   {
+    "t": "texto",
+    "html": "<p>Para empezar el año voy a compartir una cita con la que mi espíritu resuena en este momento, y también una invitación para algo que voy a hacer el día 3 de enero.</p><p>La cita:</p><p>\"Está en mi poder servir a Dios o no servirle. Si le sirvo, aumento mi propio bien y el bien de todo el mundo. Si no le sirvo, renuncio a mi propio bien y privo al mundo de ese bien que estaba en mi poder crear.\" – Leo Tolstoy</p><p>La invitación:</p><p>Este <strong>viernes 3 a las 17:00 en Madrid</strong> voy a dar un taller sobre cómo y por qué plantear propósitos. </p><p>El poder para lograr hacer algo difícil está en el por qué. El poder para lograr hacer algo difícil está en el por qué. No es lo mismo lanzarte a cruzar un campo de minas para salvar una vida que hacerlo porque se te olvidó coger Kleenex.</p><p>En el taller, compartiré una perspectiva más profunda para abordarlos: un por qué más amplio y poderoso que te fortalezca frente a los desafíos, en lugar de debilitarte.</p><p>La mayoría de las cosas las hacemos sin saber muy bien por qué, simplemente porque resultan atractivas de alguna manera. Un propósito planteado de esta manera, de forma superficial, será barrido por la más mínima incomodidad o distracción. Eso es una pena inmensa: algo bueno quería nacer en ti, en el mundo, pero sus raíces no eran suficientemente fuertes y el viento se lo llevó.</p><p>Hay <strong>12 plazas presenciales</strong>, en Madrid, aunque también abro la posibilidad de unirse por Zoom. El taller será <strong>gratis</strong>, aunque si te apetece contribuir de alguna manera, cualquier aportación será bienvenida.</p><p>Contesta a este email si te quieres unir.</p><p>Hasta aquí por hoy. Te deseo un año lleno de alegría, armonía y grandes aventuras.</p>",
+    "plano": "Para empezar el año voy a compartir una cita con la que mi espíritu resuena en este momento, y también una invitación para algo que voy a hacer el día 3 de enero. La cita: \"Está en mi poder servir a Dios o no servirle. Si le sirvo, aumento mi propio bien y el bien de todo el mundo. Si no le sirvo, renuncio a mi propio bien y privo al mundo de ese bien que estaba en mi poder crear.\" – Leo Tolstoy La invitación: Este viernes 3 a las 17:00 en Madrid voy a dar un taller sobre cómo y por qué plantear propósitos. El poder para lograr hacer algo difícil está en el por qué. El poder para lograr hacer algo difícil está en el por qué. No es lo mismo lanzarte a cruzar un campo de minas para salvar una vida que hacerlo porque se te olvidó coger Kleenex. En el taller, compartiré una perspectiva más profunda para abordarlos: un por qué más amplio y poderoso que te fortalezca frente a los desafíos, en lugar de debilitarte. La mayoría de las cosas las hacemos sin saber muy bien por qué, simplemente porque resultan atractivas de alguna manera. Un propósito planteado de esta manera, de forma superficial, será barrido por la más mínima incomodidad o distracción. Eso es una pena inmensa: algo bueno quería nacer en ti, en el mundo, pero sus raíces no eran suficientemente fuertes y el viento se lo llevó. Hay 12 plazas presenciales , en Madrid, aunque también abro la posibilidad de unirse por Zoom. El taller será gratis , aunque si te apetece contribuir de alguna manera, cualquier aportación será bienvenida. Contesta a este email si te quieres unir. Hasta aquí por hoy. Te deseo un año lleno de alegría, armonía y grandes aventuras."
+   },
+   {
+    "t": "firma",
+    "html": "<p>Con todo mi amor,</p><p>A.</p>",
+    "plano": "Con todo mi amor, A."
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/e4a32b912d2a0f.jpg",
+    "w": 1400,
+    "h": 933
+   }
+  ]
+ }
+}

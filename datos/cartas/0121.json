@@ -1,0 +1,107 @@
+{
+ "num": 121,
+ "enviada": "2026-06-28",
+ "estado": "publicada",
+ "es": {
+  "titulo": "El marido ideal",
+  "slug": "121-el-marido-ideal",
+  "origen": "https://mailchi.mp/antoniodearcas/121",
+  "portada": {
+   "ruta": "assets/cartas/d01043688d48b6.jpg",
+   "w": 1400,
+   "h": 933
+  },
+  "subtitulo": "Es neurótico, cojo y despistado",
+  "extracto": "¡A por la princesa de Estambul!",
+  "bloques": [
+   {
+    "t": "img",
+    "ruta": "assets/cartas/d01043688d48b6.jpg",
+    "w": 1400,
+    "h": 933
+   },
+   {
+    "t": "intro",
+    "html": "<p><em>¡A por la princesa de Estambul!</em></p>",
+    "plano": "¡A por la princesa de Estambul!"
+   },
+   {
+    "t": "texto",
+    "html": "<p>Mañana, si Dios quiere, los padres de Betül me darán la mano de su hija para casarme con ella. Los planes de boda son complejos, porque vivimos en dos países distintos y venimos de dos tradiciones distintas: Islam y Cristianismo. Todo está en el aire. Por suerte el aire está en manos de Dios y confiamos en Él para saber cuándo, dónde y cómo. De momento, paso a paso y, mientras todo se resuelve, nos vamos preparando internamente.</p><p>Hace unos días, por la noche y sentado a solas frente a una hoguera, me puse a rezar y pedí a Dios que hiciese de mí el marido perfecto para ella. Lo que yo tenía en mente eran todos mis defectos, mis neurosis, mis debilidades y cojeras, y le pedí que hiciese de mí la persona más virtuosa y luminosa del mundo para ella. Pero la luz entró en mi mente e iluminó la verdad: </p><p><em>“Ya tienes lo que estás pidiendo. Tú eres el marido ideal para ella, tal y como eres ahora. Esas sombras que percibes en ti son necesarias para su proceso de salvación, igual que las suyas para ti. ¿Cómo podría sino descubrir el verdadero amor? Una vez más te recuerdo que eres perfecto como eres ahora. Todo es perfecto.”</em></p><p>Párate a contemplar eso, porque habla de ti también. Detrás de los velos de nuestra mente (juicios, creencias, deseos y aversiones que oscurecen nuestra visión) estás tú, una creación de Dios, tan autoevidente como misteriosa. Querer ser mejor de lo que uno es puede sonar amoroso, pero es en el fondo un ataque que solo viene de la incomprensión de lo que somos. La sabiduría perenne dice “Conócete a ti mismo,” no “mejórate a ti mismo.” </p><p>Lo que sí es radicalmente amoroso es dejar de luchar contra lo que somos. Dios tiene un plan y no se equivocó al escribir tu parte.</p>",
+    "plano": "Mañana, si Dios quiere, los padres de Betül me darán la mano de su hija para casarme con ella. Los planes de boda son complejos, porque vivimos en dos países distintos y venimos de dos tradiciones distintas: Islam y Cristianismo. Todo está en el aire. Por suerte el aire está en manos de Dios y confiamos en Él para saber cuándo, dónde y cómo. De momento, paso a paso y, mientras todo se resuelve, nos vamos preparando internamente. Hace unos días, por la noche y sentado a solas frente a una hoguera, me puse a rezar y pedí a Dios que hiciese de mí el marido perfecto para ella. Lo que yo tenía en mente eran todos mis defectos, mis neurosis, mis debilidades y cojeras, y le pedí que hiciese de mí la persona más virtuosa y luminosa del mundo para ella. Pero la luz entró en mi mente e iluminó la verdad: “Ya tienes lo que estás pidiendo. Tú eres el marido ideal para ella, tal y como eres ahora. Esas sombras que percibes en ti son necesarias para su proceso de salvación, igual que las suyas para ti. ¿Cómo podría sino descubrir el verdadero amor? Una vez más te recuerdo que eres perfecto como eres ahora. Todo es perfecto.” Párate a contemplar eso, porque habla de ti también. Detrás de los velos de nuestra mente (juicios, creencias, deseos y aversiones que oscurecen nuestra visión) estás tú, una creación de Dios, tan autoevidente como misteriosa. Querer ser mejor de lo que uno es puede sonar amoroso, pero es en el fondo un ataque que solo viene de la incomprensión de lo que somos. La sabiduría perenne dice “Conócete a ti mismo,” no “mejórate a ti mismo.” Lo que sí es radicalmente amoroso es dejar de luchar contra lo que somos. Dios tiene un plan y no se equivocó al escribir tu parte."
+   },
+   {
+    "t": "firma",
+    "html": "<p><em>Con todo mi amor,</em></p><p><em>Antonio</em></p>",
+    "plano": "Con todo mi amor, Antonio"
+   },
+   {
+    "t": "texto",
+    "html": "<p><em>PD: En Entre el Cielo y la Tierra vamos a diario a ese lugar donde esto que acabas de leer deja de ser una idea y se convierte en experiencia. Si quieres probarlo, entra aquí:</em></p>",
+    "plano": "PD: En Entre el Cielo y la Tierra vamos a diario a ese lugar donde esto que acabas de leer deja de ser una idea y se convierte en experiencia. Si quieres probarlo, entra aquí:"
+   },
+   {
+    "t": "boton",
+    "texto": "Entre el Cielo y la Tierra",
+    "href": "https://www.skool.com/entre-el-cielo-y-la-tierra/about"
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/d5493476c7ef20.jpg",
+    "w": 1400,
+    "h": 933
+   }
+  ]
+ },
+ "en": {
+  "titulo": "The Ideal Husband",
+  "slug": "121-the-ideal-husband",
+  "origen": "https://mailchi.mp/antoniodearcas/121-en",
+  "portada": {
+   "ruta": "assets/cartas/e3206e153aa68e.jpg",
+   "w": 1400,
+   "h": 933
+  },
+  "subtitulo": "Neurotic, scattered, full of shadows.",
+  "extracto": "Going after the princess of Istanbul!",
+  "bloques": [
+   {
+    "t": "img",
+    "ruta": "assets/cartas/e3206e153aa68e.jpg",
+    "w": 1400,
+    "h": 933
+   },
+   {
+    "t": "intro",
+    "html": "<p><em>Going after the princess of Istanbul!</em></p>",
+    "plano": "Going after the princess of Istanbul!"
+   },
+   {
+    "t": "texto",
+    "html": "<p>Tomorrow, God willing, Betül's parents will give me their daughter's hand in marriage. Wedding plans are complex, because we live in two different countries and come from two different traditions: Islam and Christianity. Everything is up in the air. Fortunately, the air too is in God's hands and we trust Him to show us when, where and how. For now, one step at a time, and while everything works itself out, we are preparing ourselves inwardly.</p><p>A few days ago, at night, sitting alone in front of a bonfire, I began to pray and asked God to make me the perfect husband for her. What I had in mind were all my flaws, my neuroses, my weaknesses and shortcomings, and I asked him to make me the most virtuous and luminous person in the world. But the light entered my mind and illuminated the truth: </p><p><em>\"You already are what you are asking for. You are the ideal husband for her, exactly as you are now. The shadows you perceive in yourself are necessary for her process of salvation, just as hers are for yours. How else could she discover true love? Once again I remind you that you are perfect as you are now. Everything is perfect.\"</em></p><p>Stop and contemplate that, because it speaks of you too. Behind the veils of our mind, the judgments, beliefs, desires and aversions that distort our vision, you stand: a creation of God, as self-evident as you are mysterious. Wanting to be better than one is may sound loving, but it is at its core an attack that comes only from a misunderstanding of what we are. The perennial wisdom says \"Know thyself,\" not \"improve thyself.\"</p><p>What is truly and radically loving is to stop fighting what we are. God has a plan, and he did not make a mistake when he wrote your part.</p>",
+    "plano": "Tomorrow, God willing, Betül's parents will give me their daughter's hand in marriage. Wedding plans are complex, because we live in two different countries and come from two different traditions: Islam and Christianity. Everything is up in the air. Fortunately, the air too is in God's hands and we trust Him to show us when, where and how. For now, one step at a time, and while everything works itself out, we are preparing ourselves inwardly. A few days ago, at night, sitting alone in front of a bonfire, I began to pray and asked God to make me the perfect husband for her. What I had in mind were all my flaws, my neuroses, my weaknesses and shortcomings, and I asked him to make me the most virtuous and luminous person in the world. But the light entered my mind and illuminated the truth: \"You already are what you are asking for. You are the ideal husband for her, exactly as you are now. The shadows you perceive in yourself are necessary for her process of salvation, just as hers are for yours. How else could she discover true love? Once again I remind you that you are perfect as you are now. Everything is perfect.\" Stop and contemplate that, because it speaks of you too. Behind the veils of our mind, the judgments, beliefs, desires and aversions that distort our vision, you stand: a creation of God, as self-evident as you are mysterious. Wanting to be better than one is may sound loving, but it is at its core an attack that comes only from a misunderstanding of what we are. The perennial wisdom says \"Know thyself,\" not \"improve thyself.\" What is truly and radically loving is to stop fighting what we are. God has a plan, and he did not make a mistake when he wrote your part."
+   },
+   {
+    "t": "firma",
+    "html": "<p><em>With all my love,</em></p><p><em>Antonio</em></p>",
+    "plano": "With all my love, Antonio"
+   },
+   {
+    "t": "texto",
+    "html": "<p><em>PS: The war against yourself ends the moment you recognize what you truly are. That is what I've been exploring these past few years, and that is what I share in my one-on-one sessions. If you'd like to explore it with me, book a free call here.</em></p>",
+    "plano": "PS: The war against yourself ends the moment you recognize what you truly are. That is what I've been exploring these past few years, and that is what I share in my one-on-one sessions. If you'd like to explore it with me, book a free call here."
+   },
+   {
+    "t": "boton",
+    "texto": "Let's talk",
+    "href": "https://calendly.com/antoniodearcas/acompanamiento-1-1"
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/2ef0329ef1a9fd.jpg",
+    "w": 1400,
+    "h": 933
+   }
+  ]
+ }
+}
