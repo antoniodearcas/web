@@ -1,0 +1,83 @@
+name: Cartas de Esferas
+
+on:
+  push:
+    paths: ['.github/importar-todo']
+  schedule:
+    - cron: '0 9 * * 0'    # domingo 10:00 (Madrid): recoge la carta de esa mañana
+    - cron: '20 6 * * *'   # cada día: publica las aprobadas cuya fecha ha llegado
+  issue_comment:
+    types: [created]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: cartas
+  cancel-in-progress: false
+
+jobs:
+  cartas:
+    if: github.event_name != 'issue_comment'
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install beautifulsoup4 pillow
+      - name: Importar todo el archivo (una vez)
+        if: github.event_name == 'push'
+        run: python3 scripts/importar.py --todo --pendientes-desde 140
+      - name: Recoger cartas nuevas
+        if: github.event_name == 'workflow_dispatch' || github.event.schedule == '0 9 * * 0'
+        run: python3 scripts/importar.py --nuevas
+      - name: Publicar
+        run: python3 scripts/construir.py
+      - name: Guardar
+        run: |
+          git config user.name "Esferas"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || { git commit -m "Cartas: actualización automática" && git pull --rebase -q origin "$GITHUB_REF_NAME" && git push origin "HEAD:$GITHUB_REF_NAME"; }
+      - name: Avisos de aprobación
+        if: github.ref == 'refs/heads/main'
+        run: |
+          python3 scripts/avisos.py abrir
+          git add -A
+          git diff --cached --quiet || { git commit -m "Cartas: avisos abiertos" && git pull --rebase -q origin "$GITHUB_REF_NAME" && git push origin "HEAD:$GITHUB_REF_NAME"; }
+
+  respuesta:
+    if: >-
+      github.event_name == 'issue_comment' &&
+      contains(github.event.issue.labels.*.name, 'carta') &&
+      github.event.comment.user.login == github.repository_owner
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      TITULO: ${{ github.event.issue.title }}
+      TEXTO: ${{ github.event.comment.body }}
+      ISSUE: ${{ github.event.issue.number }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install beautifulsoup4 pillow
+      - name: Aplicar respuesta
+        run: |
+          NUM=$(python3 -c "import os,re;m=re.search(r'carta (\d+)',os.environ['TITULO']);print(m.group(1) if m else '')")
+          [ -n "$NUM" ] || exit 0
+          MSG=$(python3 scripts/avisos.py responder "$NUM" "$TEXTO")
+          [ -n "$MSG" ] || exit 0
+          python3 scripts/construir.py
+          git config user.name "Esferas"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || { git commit -m "Carta $NUM: $MSG" && git pull --rebase -q origin "$GITHUB_REF_NAME" && git push origin "HEAD:$GITHUB_REF_NAME"; }
+          gh issue comment "$ISSUE" --body "$MSG"
+          gh issue close "$ISSUE"
