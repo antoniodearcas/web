@@ -285,3 +285,5 @@ header .marca{display:block}
 @media (max-width:600px){.sin-vertical .video-v{display:none}.sin-vertical .video-h{display:block}}
 /* Vídeo vertical en 3:4, igual que las fotos del móvil */
 @media (max-width:600px){.video-v{aspect-ratio:3/4;width:100%}}
+/* Sin raya entre el vídeo y el primer bloque de texto */
+.video-h+.fila{border-top:0;padding-top:0}
