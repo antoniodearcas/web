@@ -53,10 +53,19 @@ def preparar(carta, plantilla):
 
 
 def leer_url(url):
-    estado, html = get(url)
+    try:
+        estado, html = get(url)
+    except Exception as ex:
+        print('ERROR descarga', url, ex, flush=True)
+        return None
     if estado != 200 or b'Page Not Found' in html[:4000]:
         return None
-    c = leer_carta(html.decode('utf-8', 'replace'), url)
+    try:
+        c = leer_carta(html.decode('utf-8', 'replace'), url)
+    except Exception as ex:
+        import traceback; traceback.print_exc()
+        print('ERROR lectura', url, ex, flush=True)
+        return None
     return c if c['num'] else None
 
 
@@ -112,8 +121,13 @@ def todo(args):
         pend = args.pendientes_desde and num >= args.pendientes_desde
         d.setdefault('estado', 'pendiente' if pend else 'publicada')
         for lang, c in langs.items():
-            d[lang] = preparar(c, plantilla)
-        guardar(d)
+            try:
+                d[lang] = preparar(c, plantilla)
+            except Exception as ex:
+                import traceback; traceback.print_exc()
+                print('ERROR preparar', num, lang, ex, flush=True)
+        if 'es' in d or 'en' in d:
+            guardar(d)
         print('guardada', num, sorted(langs), flush=True)
 
 

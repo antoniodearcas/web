@@ -32,18 +32,28 @@ jobs:
       - run: pip install beautifulsoup4 pillow
       - name: Importar todo el archivo (una vez)
         if: github.event_name == 'push'
-        run: python3 scripts/importar.py --todo --pendientes-desde 140
+        run: |
+          set -o pipefail
+          python3 scripts/importar.py --todo --pendientes-desde 140 2>&1 | tee datos/registro.txt
       - name: Recoger cartas nuevas
         if: github.event_name == 'workflow_dispatch' || github.event.schedule == '0 9 * * 0'
         run: python3 scripts/importar.py --nuevas
       - name: Publicar
-        run: python3 scripts/construir.py
+        run: |
+          set -o pipefail
+          python3 scripts/construir.py 2>&1 | tee -a datos/registro.txt
       - name: Guardar
         run: |
           git config user.name "Esferas"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
           git diff --cached --quiet || { git commit -m "Cartas: actualización automática" && git pull --rebase -q origin "$GITHUB_REF_NAME" && git push origin "HEAD:$GITHUB_REF_NAME"; }
+      - name: Registro del fallo
+        if: failure()
+        run: |
+          git config user.name "Esferas"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A datos/registro.txt && git commit -m "Cartas: registro de fallo" && git push origin "HEAD:$GITHUB_REF_NAME" || true
       - name: Avisos de aprobación
         if: github.ref == 'refs/heads/main'
         run: |
