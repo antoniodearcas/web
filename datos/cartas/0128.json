@@ -7,7 +7,7 @@
   "slug": "128-vacaciones-en-el-taller",
   "origen": "https://mailchi.mp/antoniodearcas/128",
   "portada": {
-   "ruta": "assets/cartas/f5e1c3b00e695f.jpg",
+   "ruta": "assets/cartas/ee18299d7ed8b6.jpg",
    "w": 1400,
    "h": 933
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/f5e1c3b00e695f.jpg",
+    "ruta": "assets/cartas/ee18299d7ed8b6.jpg",
     "w": 1400,
     "h": 933
    },
@@ -88,7 +88,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/9df8c4273cf309.jpg",
+    "ruta": "assets/cartas/8dc1c2d3859e89.jpg",
     "w": 1400,
     "h": 933
    }

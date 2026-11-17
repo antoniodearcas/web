@@ -27,7 +27,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/d2ced30298b8e4.jpg",
+    "ruta": "assets/cartas/c95b1c0f554b92.jpg",
     "w": 1400,
     "h": 933
    },
@@ -43,7 +43,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/e1673c68a3712f.jpg",
+    "ruta": "assets/cartas/3b5c2dd67b9c69.jpg",
     "w": 1400,
     "h": 933
    }
@@ -54,7 +54,7 @@
   "slug": "38-end-of-year-reflection-the-body",
   "origen": "https://mailchi.mp/astrofonda/38-en",
   "portada": {
-   "ruta": "assets/cartas/c4be25b890e2e8.jpg",
+   "ruta": "assets/cartas/ac56950bd51983.jpg",
    "w": 1400,
    "h": 933
   },
@@ -63,7 +63,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/c4be25b890e2e8.jpg",
+    "ruta": "assets/cartas/ac56950bd51983.jpg",
     "w": 1400,
     "h": 933
    },

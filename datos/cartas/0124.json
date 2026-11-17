@@ -7,7 +7,7 @@
   "slug": "124-eres-conmigo",
   "origen": "https://mailchi.mp/antoniodearcas/124",
   "portada": {
-   "ruta": "assets/cartas/d31d014361025c.jpg",
+   "ruta": "assets/cartas/5893953e154dc8.jpg",
    "w": 1400,
    "h": 933
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/d31d014361025c.jpg",
+    "ruta": "assets/cartas/5893953e154dc8.jpg",
     "w": 1400,
     "h": 933
    },
@@ -88,7 +88,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/5d8efb1a16095b.jpg",
+    "ruta": "assets/cartas/53739cb9e9b6e6.jpg",
     "w": 1400,
     "h": 933
    },

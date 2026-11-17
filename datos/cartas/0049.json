@@ -27,7 +27,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/9955d0e7610bbc.jpg",
+    "ruta": "assets/cartas/2b1e13efe40739.jpg",
     "w": 1400,
     "h": 933
    },
@@ -49,7 +49,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/9834e224f23100.jpg",
+    "ruta": "assets/cartas/33fc625f8a07fe.jpg",
     "w": 1400,
     "h": 933
    }
@@ -60,7 +60,7 @@
   "slug": "49-happiness-is-not-later",
   "origen": "https://mailchi.mp/astrofonda/49-en",
   "portada": {
-   "ruta": "assets/cartas/cc5304adcff3af.jpg",
+   "ruta": "assets/cartas/5cf2590937d67b.jpg",
    "w": 1400,
    "h": 933
   },
@@ -69,7 +69,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/cc5304adcff3af.jpg",
+    "ruta": "assets/cartas/5cf2590937d67b.jpg",
     "w": 1400,
     "h": 933
    },
@@ -91,7 +91,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/f10339c61cbe12.jpg",
+    "ruta": "assets/cartas/bf1a81f7f52430.jpg",
     "w": 1400,
     "h": 933
    },

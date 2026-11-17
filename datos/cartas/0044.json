@@ -27,7 +27,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/d31cd6d6838496.jpg",
+    "ruta": "assets/cartas/bdf2cc38fec8a4.jpg",
     "w": 1400,
     "h": 933
    }
@@ -38,7 +38,7 @@
   "slug": "44-know-your-rhythm",
   "origen": "https://mailchi.mp/astrofonda/44-en",
   "portada": {
-   "ruta": "assets/cartas/9afda61828aa02.jpg",
+   "ruta": "assets/cartas/1905fa783513d1.jpg",
    "w": 1400,
    "h": 933
   },
@@ -47,7 +47,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/9afda61828aa02.jpg",
+    "ruta": "assets/cartas/1905fa783513d1.jpg",
     "w": 1400,
     "h": 933
    },

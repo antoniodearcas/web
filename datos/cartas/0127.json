@@ -32,7 +32,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/fd225ae7e81ae4.jpg",
+    "ruta": "assets/cartas/dc5924f4fca2cd.jpg",
     "w": 1400,
     "h": 933
    },
@@ -91,7 +91,7 @@
   "slug": "127-battle-for-my-mind",
   "origen": "https://mailchi.mp/antoniodearcas/127-en",
   "portada": {
-   "ruta": "assets/cartas/79a961b8b014da.jpg",
+   "ruta": "assets/cartas/3cc30b64fb4770.jpg",
    "w": 1400,
    "h": 933
   },
@@ -100,7 +100,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/79a961b8b014da.jpg",
+    "ruta": "assets/cartas/3cc30b64fb4770.jpg",
     "w": 1400,
     "h": 933
    },
@@ -127,7 +127,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/be23ca54b65b70.jpg",
+    "ruta": "assets/cartas/263b17d7097205.jpg",
     "w": 1400,
     "h": 933
    },
@@ -138,7 +138,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/e09a3ca94cc9a7.jpg",
+    "ruta": "assets/cartas/3dafb3e114fa33.jpg",
     "w": 1400,
     "h": 933
    },
@@ -154,7 +154,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/ca5998d1b8c5c5.jpg",
+    "ruta": "assets/cartas/6dee35958a5835.jpg",
     "w": 1400,
     "h": 933
    }

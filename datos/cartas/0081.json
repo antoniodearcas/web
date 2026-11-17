@@ -27,7 +27,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/da72e29113372d.jpg",
+    "ruta": "assets/cartas/600ec4c48cbbf4.jpg",
     "w": 1400,
     "h": 934
    },
@@ -43,7 +43,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/87030ada41782d.jpg",
+    "ruta": "assets/cartas/32b1b998f283e6.jpg",
     "w": 1400,
     "h": 933
    }
@@ -54,7 +54,7 @@
   "slug": "81-anatomy-of-a-crisis",
   "origen": "https://mailchi.mp/astrofonda/81-en",
   "portada": {
-   "ruta": "assets/cartas/afc42605ca45ea.jpg",
+   "ruta": "assets/cartas/a9caa2117f563e.jpg",
    "w": 1400,
    "h": 934
   },
@@ -63,7 +63,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/afc42605ca45ea.jpg",
+    "ruta": "assets/cartas/a9caa2117f563e.jpg",
     "w": 1400,
     "h": 934
    },

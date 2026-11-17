@@ -54,7 +54,7 @@
   "slug": "54-the-name-i",
   "origen": "https://mailchi.mp/astrofonda/54-en",
   "portada": {
-   "ruta": "assets/cartas/741e61c05322c6.jpg",
+   "ruta": "assets/cartas/658a6569b61b5f.jpg",
    "w": 1400,
    "h": 902
   },
@@ -63,7 +63,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/741e61c05322c6.jpg",
+    "ruta": "assets/cartas/658a6569b61b5f.jpg",
     "w": 1400,
     "h": 902
    },
@@ -85,7 +85,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/ea98c086c0b743.jpg",
+    "ruta": "assets/cartas/03b079e28a44b0.jpg",
     "w": 1400,
     "h": 1089
    }

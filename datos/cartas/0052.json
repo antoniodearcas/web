@@ -7,7 +7,7 @@
   "slug": "52-yo-soy-en-dios-lo-que-soy",
   "origen": "https://mailchi.mp/astrofonda/52",
   "portada": {
-   "ruta": "assets/cartas/ecdd55311c213b.jpg",
+   "ruta": "assets/cartas/104f4c7dbdc99c.jpg",
    "w": 1400,
    "h": 933
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/ecdd55311c213b.jpg",
+    "ruta": "assets/cartas/104f4c7dbdc99c.jpg",
     "w": 1400,
     "h": 933
    },
@@ -38,7 +38,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/dcf092f3c56ba3.jpg",
+    "ruta": "assets/cartas/04366b0a3be454.jpg",
     "w": 1400,
     "h": 975
    }
@@ -69,7 +69,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/982c3c2cc6cec8.jpg",
+    "ruta": "assets/cartas/416342caff00ff.jpg",
     "w": 1400,
     "h": 933
    },

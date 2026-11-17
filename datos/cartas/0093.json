@@ -42,7 +42,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/cb3e3e3daab1a4.jpg",
+    "ruta": "assets/cartas/4aedfd74ef109e.jpg",
     "w": 1400,
     "h": 933
    }
@@ -53,7 +53,7 @@
   "slug": "93-what-would-you-have-me-do-now",
   "origen": "https://mailchi.mp/astrofonda/93-en",
   "portada": {
-   "ruta": "assets/cartas/21051376eccc19.jpg",
+   "ruta": "assets/cartas/01e345434e376f.jpg",
    "w": 1400,
    "h": 933
   },
@@ -62,7 +62,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/21051376eccc19.jpg",
+    "ruta": "assets/cartas/01e345434e376f.jpg",
     "w": 1400,
     "h": 933
    },

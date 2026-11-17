@@ -48,7 +48,7 @@
   "slug": "105-the-completeness-of-a-rose",
   "origen": "https://mailchi.mp/antoniodearcas/105-en",
   "portada": {
-   "ruta": "assets/cartas/c32df034d28009.jpg",
+   "ruta": "assets/cartas/590c7fc28c226f.jpg",
    "w": 1400,
    "h": 933
   },
@@ -57,7 +57,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/c32df034d28009.jpg",
+    "ruta": "assets/cartas/590c7fc28c226f.jpg",
     "w": 1400,
     "h": 933
    },
@@ -78,7 +78,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/424ea5562db4aa.jpg",
+    "ruta": "assets/cartas/160db2aa97f4bc.jpg",
     "w": 1400,
     "h": 933
    }

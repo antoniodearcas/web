@@ -7,7 +7,7 @@
   "slug": "122-no-planees",
   "origen": "https://mailchi.mp/antoniodearcas/122",
   "portada": {
-   "ruta": "assets/cartas/f9e3d7d0501f92.jpg",
+   "ruta": "assets/cartas/d7e266d8832442.jpg",
    "w": 1400,
    "h": 933
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/f9e3d7d0501f92.jpg",
+    "ruta": "assets/cartas/d7e266d8832442.jpg",
     "w": 1400,
     "h": 933
    },
@@ -42,7 +42,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/cb222f3c461518.jpg",
+    "ruta": "assets/cartas/73411e978009e9.jpg",
     "w": 1080,
     "h": 720
    },

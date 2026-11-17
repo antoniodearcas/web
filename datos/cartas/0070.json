@@ -27,7 +27,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/ad05c322080bca.jpg",
+    "ruta": "assets/cartas/5791c87f850e9e.jpg",
     "w": 1400,
     "h": 933
    },
@@ -54,7 +54,7 @@
   "slug": "70-this-is-a-happy-moment",
   "origen": "https://mailchi.mp/astrofonda/70-en",
   "portada": {
-   "ruta": "assets/cartas/fdf18edaf93b24.jpg",
+   "ruta": "assets/cartas/1869a88f197a06.jpg",
    "w": 1400,
    "h": 933
   },
@@ -63,7 +63,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/fdf18edaf93b24.jpg",
+    "ruta": "assets/cartas/1869a88f197a06.jpg",
     "w": 1400,
     "h": 933
    },
@@ -90,7 +90,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/d4ebabe79bbdd0.jpg",
+    "ruta": "assets/cartas/2b48189f6096a9.jpg",
     "w": 1400,
     "h": 933
    }

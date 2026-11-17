@@ -76,7 +76,7 @@
   "slug": "74-the-miraculous-pork-belly",
   "origen": "https://mailchi.mp/astrofonda/74-en",
   "portada": {
-   "ruta": "assets/cartas/e6938a260d0f61.jpg",
+   "ruta": "assets/cartas/16c3099129d286.jpg",
    "w": 1400,
    "h": 933
   },
@@ -85,7 +85,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/e6938a260d0f61.jpg",
+    "ruta": "assets/cartas/16c3099129d286.jpg",
     "w": 1400,
     "h": 933
    },
@@ -96,7 +96,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/d73485e940998b.jpg",
+    "ruta": "assets/cartas/21e7559925c1e0.jpg",
     "w": 1400,
     "h": 933
    },
@@ -107,7 +107,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/aee3fe1cfd1de4.jpg",
+    "ruta": "assets/cartas/5270e7a33e4bce.jpg",
     "w": 1400,
     "h": 933
    },
@@ -118,7 +118,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/f873fc068400ef.jpg",
+    "ruta": "assets/cartas/05e829666bbd82.jpg",
     "w": 1400,
     "h": 933
    },
@@ -134,7 +134,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/b8f1b3f667e5ea.jpg",
+    "ruta": "assets/cartas/6b0772f4ee49e2.jpg",
     "w": 1400,
     "h": 933
    }

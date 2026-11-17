@@ -38,7 +38,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/f156b054fb5e25.jpg",
+    "ruta": "assets/cartas/892585b0ca1bc5.jpg",
     "w": 1400,
     "h": 933
    },
@@ -49,7 +49,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/e33f4bb23c10ad.jpg",
+    "ruta": "assets/cartas/cade1a039a5395.jpg",
     "w": 1400,
     "h": 933
    },
@@ -82,7 +82,7 @@
   "slug": "63-i-choose-peace",
   "origen": "https://mailchi.mp/astrofonda/63-en",
   "portada": {
-   "ruta": "assets/cartas/ea2d071f3b4531.jpg",
+   "ruta": "assets/cartas/14119c685191ea.jpg",
    "w": 1400,
    "h": 933
   },
@@ -91,7 +91,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/ea2d071f3b4531.jpg",
+    "ruta": "assets/cartas/14119c685191ea.jpg",
     "w": 1400,
     "h": 933
    },
@@ -102,7 +102,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/c3030db669f042.jpg",
+    "ruta": "assets/cartas/4b9a6794464956.jpg",
     "w": 1400,
     "h": 933
    },
@@ -135,7 +135,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/32307041336293.jpg",
+    "ruta": "assets/cartas/2dc267d4c9269e.jpg",
     "w": 1400,
     "h": 933
    },
@@ -146,7 +146,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/95653879f1733a.jpg",
+    "ruta": "assets/cartas/3d41aa041d0716.jpg",
     "w": 1400,
     "h": 933
    }

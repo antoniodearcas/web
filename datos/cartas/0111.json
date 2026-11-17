@@ -7,7 +7,7 @@
   "slug": "111-la-vida-mas-alla-de-las-nubes",
   "origen": "https://mailchi.mp/antoniodearcas/111",
   "portada": {
-   "ruta": "assets/cartas/991d379dd4bfd5.jpg",
+   "ruta": "assets/cartas/92854c5019ae40.jpg",
    "w": 1042,
    "h": 585
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/991d379dd4bfd5.jpg",
+    "ruta": "assets/cartas/92854c5019ae40.jpg",
     "w": 1042,
     "h": 585
    },
@@ -37,7 +37,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/9d62b49ac93537.jpg",
+    "ruta": "assets/cartas/00fceb83515854.jpg",
     "w": 1021,
     "h": 586
    }

@@ -7,7 +7,7 @@
   "slug": "66-no-estoy-en-el-mundo-soy-en-dios",
   "origen": "https://mailchi.mp/astrofonda/66",
   "portada": {
-   "ruta": "assets/cartas/69bcb387a74572.jpg",
+   "ruta": "assets/cartas/1838741a8c6b75.jpg",
    "w": 1400,
    "h": 933
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/69bcb387a74572.jpg",
+    "ruta": "assets/cartas/1838741a8c6b75.jpg",
     "w": 1400,
     "h": 933
    },
@@ -58,7 +58,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/dbe90cbb624ad5.jpg",
+    "ruta": "assets/cartas/30329b9a3c99f6.jpg",
     "w": 1400,
     "h": 1050
    }

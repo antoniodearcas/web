@@ -1,14 +1,17 @@
 name: Cartas de Esferas
 
 on:
-  push:
-    paths: ['.github/importar-todo']
   schedule:
     - cron: '0 9 * * 0'    # domingo 10:00 (Madrid): recoge la carta de esa mañana
     - cron: '20 6 * * *'   # cada día: publica las aprobadas cuya fecha ha llegado
   issue_comment:
     types: [created]
   workflow_dispatch:
+    inputs:
+      todo:
+        description: 'Volver a importar todo el archivo de Mailchimp'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -31,17 +34,19 @@ jobs:
           python-version: '3.12'
       - run: pip install beautifulsoup4 pillow
       - name: Importar todo el archivo (una vez)
-        if: github.event_name == 'push'
+        if: github.event_name == 'workflow_dispatch' && inputs.todo
         run: |
           set -o pipefail
-          python3 scripts/importar.py --todo --pendientes-desde 140 2>&1 | tee datos/registro.txt
+          python3 scripts/importar.py --todo --pendientes-desde 140 2>&1 | tee -a /tmp/registro.txt
       - name: Recoger cartas nuevas
-        if: github.event_name == 'workflow_dispatch' || github.event.schedule == '0 9 * * 0'
-        run: python3 scripts/importar.py --nuevas
+        if: (github.event_name == 'workflow_dispatch' && !inputs.todo) || github.event.schedule == '0 9 * * 0'
+        run: |
+          set -o pipefail
+          python3 scripts/importar.py --nuevas 2>&1 | tee -a /tmp/registro.txt
       - name: Publicar
         run: |
           set -o pipefail
-          python3 scripts/construir.py 2>&1 | tee -a datos/registro.txt
+          python3 scripts/construir.py 2>&1 | tee -a /tmp/registro.txt
       - name: Guardar
         run: |
           git config user.name "Esferas"
@@ -53,7 +58,7 @@ jobs:
         run: |
           git config user.name "Esferas"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A datos/registro.txt && git commit -m "Cartas: registro de fallo" && git push origin "HEAD:$GITHUB_REF_NAME" || true
+          cp /tmp/registro.txt datos/registro-fallo.txt; git add datos/registro-fallo.txt && git commit -m "Cartas: registro de fallo" && git push origin "HEAD:$GITHUB_REF_NAME" || true
       - name: Avisos de aprobación
         if: github.ref == 'refs/heads/main'
         run: |

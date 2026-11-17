@@ -7,7 +7,7 @@
   "slug": "96-alzate",
   "origen": "https://mailchi.mp/astrofonda/96",
   "portada": {
-   "ruta": "assets/cartas/cdad261102ec6f.jpg",
+   "ruta": "assets/cartas/4bbd80df7baf8b.jpg",
    "w": 1400,
    "h": 933
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/cdad261102ec6f.jpg",
+    "ruta": "assets/cartas/4bbd80df7baf8b.jpg",
     "w": 1400,
     "h": 933
    },
@@ -78,7 +78,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/f329f0370fc3da.jpg",
+    "ruta": "assets/cartas/9d072bf3e0bb57.jpg",
     "w": 1400,
     "h": 933
    }

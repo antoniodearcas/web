@@ -7,7 +7,7 @@
   "slug": "137-la-oracion-constante",
   "origen": "https://mailchi.mp/antoniodearcas/137",
   "portada": {
-   "ruta": "assets/cartas/d47e2777c9df0e.jpg",
+   "ruta": "assets/cartas/31e7076e34f049.jpg",
    "w": 1232,
    "h": 928
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/d47e2777c9df0e.jpg",
+    "ruta": "assets/cartas/31e7076e34f049.jpg",
     "w": 1232,
     "h": 928
    },
@@ -47,7 +47,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/6a8b8a4dcf5b8c.jpg",
+    "ruta": "assets/cartas/274fdebb1af7d2.jpg",
     "w": 1232,
     "h": 928
    }

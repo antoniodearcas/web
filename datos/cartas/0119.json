@@ -7,7 +7,7 @@
   "slug": "119-ruge",
   "origen": "https://mailchi.mp/antoniodearcas/119",
   "portada": {
-   "ruta": "assets/cartas/c7b783bff9dbd8.jpg",
+   "ruta": "assets/cartas/3493bb124a3fbb.jpg",
    "w": 1080,
    "h": 720
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/c7b783bff9dbd8.jpg",
+    "ruta": "assets/cartas/3493bb124a3fbb.jpg",
     "w": 1080,
     "h": 720
    },
@@ -98,7 +98,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/6bb9d15d923bc5.jpg",
+    "ruta": "assets/cartas/404909216b6690.jpg",
     "w": 1080,
     "h": 720
    }

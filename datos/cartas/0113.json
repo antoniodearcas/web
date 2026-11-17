@@ -37,7 +37,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/cfa922790593ab.jpg",
+    "ruta": "assets/cartas/523986b4623024.jpg",
     "w": 1400,
     "h": 933
    },
@@ -53,7 +53,7 @@
   "slug": "113-the-trunk",
   "origen": "https://mailchi.mp/antoniodearcas/113-en",
   "portada": {
-   "ruta": "assets/cartas/dfa0ddf377fd6c.jpg",
+   "ruta": "assets/cartas/97b34228aeeadb.jpg",
    "w": 1400,
    "h": 933
   },
@@ -62,7 +62,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/dfa0ddf377fd6c.jpg",
+    "ruta": "assets/cartas/97b34228aeeadb.jpg",
     "w": 1400,
     "h": 933
    },

@@ -7,7 +7,7 @@
   "slug": "100-el-velo-se-ha-rasgado",
   "origen": "https://mailchi.mp/antoniodearcas/100",
   "portada": {
-   "ruta": "assets/cartas/da9ec5b1f9b8f2.jpg",
+   "ruta": "assets/cartas/7bea6e731027e4.jpg",
    "w": 1400,
    "h": 933
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/da9ec5b1f9b8f2.jpg",
+    "ruta": "assets/cartas/7bea6e731027e4.jpg",
     "w": 1400,
     "h": 933
    },
@@ -75,7 +75,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/e3f80ee7bb3d6f.jpg",
+    "ruta": "assets/cartas/1f8c0fa21688eb.jpg",
     "w": 1400,
     "h": 933
    }
@@ -111,7 +111,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/bcb7afa7f6b833.jpg",
+    "ruta": "assets/cartas/38317db6ca0232.jpg",
     "w": 1400,
     "h": 933
    },
@@ -122,7 +122,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/4a0e2011505420.jpg",
+    "ruta": "assets/cartas/162d675b411175.jpg",
     "w": 1400,
     "h": 933
    },
@@ -133,7 +133,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/cfbad259933f63.jpg",
+    "ruta": "assets/cartas/7f768055050e8e.jpg",
     "w": 1400,
     "h": 933
    },

@@ -32,7 +32,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/c1cb3d3352565f.jpg",
+    "ruta": "assets/cartas/a2bc96fb5a780c.jpg",
     "w": 1400,
     "h": 933
    }
@@ -43,7 +43,7 @@
   "slug": "73-the-love-for-french-fries",
   "origen": "https://mailchi.mp/astrofonda/73-en",
   "portada": {
-   "ruta": "assets/cartas/7a36f43ffe60e9.jpg",
+   "ruta": "assets/cartas/2eb06a6dd8707b.jpg",
    "w": 1400,
    "h": 933
   },
@@ -52,7 +52,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/7a36f43ffe60e9.jpg",
+    "ruta": "assets/cartas/2eb06a6dd8707b.jpg",
     "w": 1400,
     "h": 933
    },

@@ -7,7 +7,7 @@
   "slug": "82-boxeo-mental",
   "origen": "https://mailchi.mp/astrofonda/82",
   "portada": {
-   "ruta": "assets/cartas/f96a7576fd0c07.jpg",
+   "ruta": "assets/cartas/42692f507e8180.jpg",
    "w": 1400,
    "h": 933
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/f96a7576fd0c07.jpg",
+    "ruta": "assets/cartas/42692f507e8180.jpg",
     "w": 1400,
     "h": 933
    },
@@ -32,7 +32,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/e8a0fccfa2f29c.jpg",
+    "ruta": "assets/cartas/4389839f942a4d.jpg",
     "w": 1400,
     "h": 933
    }

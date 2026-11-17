@@ -27,7 +27,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/f42bcf6d9d9fb6.jpg",
+    "ruta": "assets/cartas/05650c641fa806.jpg",
     "w": 1400,
     "h": 933
    },
@@ -38,7 +38,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/cf1d114f3df358.jpg",
+    "ruta": "assets/cartas/4b39adb6587c51.jpg",
     "w": 1080,
     "h": 1620
    },
@@ -60,7 +60,7 @@
   "slug": "64-what-is-and-you",
   "origen": "https://mailchi.mp/astrofonda/64-en",
   "portada": {
-   "ruta": "assets/cartas/8d1f7b0c79ad74.jpg",
+   "ruta": "assets/cartas/51428b5b62defb.jpg",
    "w": 1400,
    "h": 933
   },
@@ -69,7 +69,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/8d1f7b0c79ad74.jpg",
+    "ruta": "assets/cartas/51428b5b62defb.jpg",
     "w": 1400,
     "h": 933
    },
@@ -107,7 +107,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/e63d44d8ff8b14.jpg",
+    "ruta": "assets/cartas/7b7b20c0655c67.jpg",
     "w": 1400,
     "h": 933
    }

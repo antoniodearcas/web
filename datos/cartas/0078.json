@@ -54,7 +54,7 @@
   "slug": "78-the-water-that-wants-to-flow",
   "origen": "https://mailchi.mp/astrofonda/78-en",
   "portada": {
-   "ruta": "assets/cartas/e98cf79d2e5fe3.jpg",
+   "ruta": "assets/cartas/bf89bf8effa285.jpg",
    "w": 1400,
    "h": 934
   },
@@ -63,7 +63,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/e98cf79d2e5fe3.jpg",
+    "ruta": "assets/cartas/bf89bf8effa285.jpg",
     "w": 1400,
     "h": 934
    },
@@ -74,7 +74,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/e949ce4bcd25b9.jpg",
+    "ruta": "assets/cartas/e5c5ae64ba387e.jpg",
     "w": 1400,
     "h": 934
    },
@@ -90,7 +90,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/e34ec5b180f895.jpg",
+    "ruta": "assets/cartas/df44d34c9c76e3.jpg",
     "w": 1400,
     "h": 934
    }

@@ -192,45 +192,55 @@ def huella(texto):
     return hashlib.sha1(norm(texto).lower().encode()).hexdigest()[:16]
 
 
+META_IMGS = os.path.join(RAIZ, 'datos', 'imagenes.json')
+_meta = None
+
+
+def _meta_imgs():
+    global _meta
+    if _meta is None:
+        _meta = json.load(open(META_IMGS)) if os.path.exists(META_IMGS) else {}
+    return _meta
+
+
 def descargar_imagen(src):
-    """Descarga y optimiza una imagen; devuelve (ruta relativa, ancho, alto)."""
+    """Descarga y optimiza una imagen; devuelve (ruta relativa, ancho, alto).
+    Si el contenido ya existe (misma foto con otra URL), reutiliza el archivo."""
     from PIL import Image, ImageOps
     os.makedirs(IMGS, exist_ok=True)
-    base = hashlib.sha1(src.encode()).hexdigest()[:14]
-    ext = '.png' if src.lower().endswith('.png') else '.jpg'
-    if src.lower().endswith('.gif'):
-        ext = '.gif'
-    destino = os.path.join(IMGS, base + ext)
-    meta = destino + '.json'
-    if os.path.exists(destino) and os.path.exists(meta):
-        with open(meta) as f:
-            d = json.load(f)
+    meta = _meta_imgs()
+    if src in meta and os.path.exists(os.path.join(RAIZ, meta[src]['ruta'])):
+        d = meta[src]
         return d['ruta'], d['w'], d['h']
     estado, datos = get(src)
     if estado != 200 or not datos:
         return None, 0, 0
-    if ext == '.gif':
-        with open(destino, 'wb') as f:
-            f.write(datos)
-        im = Image.open(io.BytesIO(datos))
+    im = Image.open(io.BytesIO(datos))
+    if src.lower().endswith('.gif'):
+        ext, salida = '.gif', datos
         w, h = im.size
     else:
-        im = Image.open(io.BytesIO(datos))
         im = ImageOps.exif_transpose(im)
         if im.width > 1400:
             im = im.resize((1400, round(im.height * 1400 / im.width)), Image.LANCZOS)
         w, h = im.size
-        if ext == '.png' and im.mode in ('RGBA', 'LA', 'P') and _tiene_transparencia(im):
-            im.save(destino, optimize=True)
+        o = io.BytesIO()
+        if im.mode in ('RGBA', 'LA', 'P') and _tiene_transparencia(im):
+            ext = '.png'
+            im.save(o, format='PNG', optimize=True)
         else:
-            if ext == '.png':
-                ext = '.jpg'
-                destino = os.path.join(IMGS, base + ext)
-                meta = destino + '.json'
-            im.convert('RGB').save(destino, quality=82, optimize=True, progressive=True)
-    ruta = 'assets/cartas/' + os.path.basename(destino)
-    with open(meta, 'w') as f:
-        json.dump({'ruta': ruta, 'w': w, 'h': h, 'src': src}, f)
+            ext = '.jpg'
+            im.convert('RGB').save(o, format='JPEG', quality=76, optimize=True, progressive=True)
+        salida = o.getvalue()
+    nombre = hashlib.sha1(salida).hexdigest()[:14] + ext
+    destino = os.path.join(IMGS, nombre)
+    if not os.path.exists(destino):
+        with open(destino, 'wb') as f:
+            f.write(salida)
+    ruta = 'assets/cartas/' + nombre
+    meta[src] = {'ruta': ruta, 'w': w, 'h': h, 'src': src}
+    with open(META_IMGS, 'w') as f:
+        json.dump(meta, f, indent=0)
     return ruta, w, h
 
 

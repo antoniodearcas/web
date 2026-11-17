@@ -58,7 +58,7 @@
   "slug": "120-change-of-owner",
   "origen": "https://mailchi.mp/antoniodearcas/120-en",
   "portada": {
-   "ruta": "assets/cartas/73d8bb793d168e.jpg",
+   "ruta": "assets/cartas/30691608477686.jpg",
    "w": 1400,
    "h": 933
   },
@@ -67,7 +67,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/73d8bb793d168e.jpg",
+    "ruta": "assets/cartas/30691608477686.jpg",
     "w": 1400,
     "h": 933
    },
@@ -98,7 +98,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/ca36ca28f596e9.jpg",
+    "ruta": "assets/cartas/6652e456ffa200.jpg",
     "w": 1400,
     "h": 933
    }

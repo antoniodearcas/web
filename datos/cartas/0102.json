@@ -7,7 +7,7 @@
   "slug": "102-dar",
   "origen": "https://mailchi.mp/antoniodearcas/102",
   "portada": {
-   "ruta": "assets/cartas/59b503b363ef86.jpg",
+   "ruta": "assets/cartas/46d8a0412ac34a.jpg",
    "w": 1400,
    "h": 933
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/59b503b363ef86.jpg",
+    "ruta": "assets/cartas/46d8a0412ac34a.jpg",
     "w": 1400,
     "h": 933
    },
@@ -43,7 +43,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/5be7e3e8524256.jpg",
+    "ruta": "assets/cartas/2693712bc50f90.jpg",
     "w": 1400,
     "h": 933
    },
@@ -100,7 +100,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/d1748ef4a693e3.jpg",
+    "ruta": "assets/cartas/5c4a83bd6a5b03.jpg",
     "w": 1400,
     "h": 933
    },

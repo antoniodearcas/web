@@ -7,7 +7,7 @@
   "slug": "125-el-agente",
   "origen": "https://mailchi.mp/antoniodearcas/125",
   "portada": {
-   "ruta": "assets/cartas/3d40ade315e872.jpg",
+   "ruta": "assets/cartas/34ab793ea77c35.jpg",
    "w": 1400,
    "h": 933
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/3d40ade315e872.jpg",
+    "ruta": "assets/cartas/34ab793ea77c35.jpg",
     "w": 1400,
     "h": 933
    },
@@ -37,7 +37,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/93b9005a242c22.jpg",
+    "ruta": "assets/cartas/841edf3eaac9b9.jpg",
     "w": 1400,
     "h": 933
    },

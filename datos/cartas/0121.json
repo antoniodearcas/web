@@ -47,7 +47,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/d5493476c7ef20.jpg",
+    "ruta": "assets/cartas/2ef0329ef1a9fd.jpg",
     "w": 1400,
     "h": 933
    }
@@ -58,7 +58,7 @@
   "slug": "121-the-ideal-husband",
   "origen": "https://mailchi.mp/antoniodearcas/121-en",
   "portada": {
-   "ruta": "assets/cartas/e3206e153aa68e.jpg",
+   "ruta": "assets/cartas/d01043688d48b6.jpg",
    "w": 1400,
    "h": 933
   },
@@ -67,7 +67,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/e3206e153aa68e.jpg",
+    "ruta": "assets/cartas/d01043688d48b6.jpg",
     "w": 1400,
     "h": 933
    },

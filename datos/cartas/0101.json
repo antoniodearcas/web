@@ -32,7 +32,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/6bbfbb09f5ae9d.jpg",
+    "ruta": "assets/cartas/198cf9ad23bd9d.jpg",
     "w": 1400,
     "h": 1089
    },
@@ -69,7 +69,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/e974e0780e5104.jpg",
+    "ruta": "assets/cartas/17297b7b23716e.jpg",
     "w": 1080,
     "h": 607
    }
@@ -80,7 +80,7 @@
   "slug": "101-caminos-creativos",
   "origen": "https://mailchi.mp/antoniodearcas/101-en",
   "portada": {
-   "ruta": "assets/cartas/fdac8a5d13d17f.jpg",
+   "ruta": "assets/cartas/eed9d0ba20df10.jpg",
    "w": 1084,
    "h": 576
   },
@@ -89,7 +89,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/fdac8a5d13d17f.jpg",
+    "ruta": "assets/cartas/eed9d0ba20df10.jpg",
     "w": 1084,
     "h": 576
    },

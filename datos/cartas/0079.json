@@ -43,7 +43,7 @@
   "slug": "79-i-celebrate-you",
   "origen": "https://mailchi.mp/astrofonda/79-en",
   "portada": {
-   "ruta": "assets/cartas/1aefd1490aa29d.jpg",
+   "ruta": "assets/cartas/19e1fad24c7ea3.jpg",
    "w": 1400,
    "h": 934
   },
@@ -52,7 +52,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/1aefd1490aa29d.jpg",
+    "ruta": "assets/cartas/19e1fad24c7ea3.jpg",
     "w": 1400,
     "h": 934
    },
@@ -68,7 +68,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/5417be491776ab.jpg",
+    "ruta": "assets/cartas/0df3b45bc22d69.jpg",
     "w": 1400,
     "h": 934
    }

@@ -7,7 +7,7 @@
   "slug": "50-todos-los-arboles-levantan-sus-ramas-hacia-el-sol",
   "origen": "https://mailchi.mp/astrofonda/50",
   "portada": {
-   "ruta": "assets/cartas/34fed42d4368b9.jpg",
+   "ruta": "assets/cartas/32befd8ec761e8.jpg",
    "w": 1400,
    "h": 933
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/34fed42d4368b9.jpg",
+    "ruta": "assets/cartas/32befd8ec761e8.jpg",
     "w": 1400,
     "h": 933
    },
@@ -27,7 +27,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/78a8141a308b00.jpg",
+    "ruta": "assets/cartas/6565dcb91b9d1f.jpg",
     "w": 1400,
     "h": 933
    },
@@ -85,7 +85,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/e9386d306cd268.jpg",
+    "ruta": "assets/cartas/6fc1d403cbb99a.jpg",
     "w": 1400,
     "h": 933
    }

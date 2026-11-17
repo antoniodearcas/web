@@ -7,7 +7,7 @@
   "slug": "141-recibir-sin-culpa",
   "origen": "https://mailchi.mp/antoniodearcas/141",
   "portada": {
-   "ruta": "assets/cartas/795305400f4f32.jpg",
+   "ruta": "assets/cartas/225b16719bc3bf.jpg",
    "w": 1200,
    "h": 904
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/795305400f4f32.jpg",
+    "ruta": "assets/cartas/225b16719bc3bf.jpg",
     "w": 1200,
     "h": 904
    },
@@ -78,7 +78,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/de69a980479308.jpg",
+    "ruta": "assets/cartas/9aa60544190df6.jpg",
     "w": 1200,
     "h": 904
    }

@@ -7,7 +7,7 @@
   "slug": "77-que-haria-el-amor",
   "origen": "https://mailchi.mp/astrofonda/77",
   "portada": {
-   "ruta": "assets/cartas/57196f6da70c2f.jpg",
+   "ruta": "assets/cartas/3535b97ee9725c.jpg",
    "w": 1080,
    "h": 720
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/57196f6da70c2f.jpg",
+    "ruta": "assets/cartas/3535b97ee9725c.jpg",
     "w": 1080,
     "h": 720
    },
@@ -54,7 +54,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/34de3868c4d4e4.jpg",
+    "ruta": "assets/cartas/1f51801e227447.jpg",
     "w": 1080,
     "h": 720
    },
@@ -106,7 +106,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/cf14a81ebe6638.jpg",
+    "ruta": "assets/cartas/cd51f3e01a1db9.jpg",
     "w": 1080,
     "h": 720
    },
@@ -117,7 +117,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/70e826d509f680.jpg",
+    "ruta": "assets/cartas/3d0fb295d57b1d.jpg",
     "w": 1080,
     "h": 720
    },

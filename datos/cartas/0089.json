@@ -32,7 +32,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/cc6363b149e9b7.jpg",
+    "ruta": "assets/cartas/92dd253fec7031.jpg",
     "w": 1400,
     "h": 933
    }
@@ -43,7 +43,7 @@
   "slug": "89-i-am-not-the-one-who-thinks",
   "origen": "https://mailchi.mp/astrofonda/89-en",
   "portada": {
-   "ruta": "assets/cartas/3d66a8448512e1.jpg",
+   "ruta": "assets/cartas/3619e5f017b049.jpg",
    "w": 1400,
    "h": 933
   },
@@ -52,7 +52,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/3d66a8448512e1.jpg",
+    "ruta": "assets/cartas/3619e5f017b049.jpg",
     "w": 1400,
     "h": 933
    },

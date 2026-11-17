@@ -37,7 +37,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/aef79734e791b7.jpg",
+    "ruta": "assets/cartas/05f598eebe4132.jpg",
     "w": 1400,
     "h": 933
    }
@@ -48,7 +48,7 @@
   "slug": "109-we-can-only-see-in-the-light",
   "origen": "https://mailchi.mp/antoniodearcas/109-en",
   "portada": {
-   "ruta": "assets/cartas/76b5b6e5a671c0.jpg",
+   "ruta": "assets/cartas/220c9e8069e0a6.jpg",
    "w": 1400,
    "h": 933
   },
@@ -57,7 +57,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/76b5b6e5a671c0.jpg",
+    "ruta": "assets/cartas/220c9e8069e0a6.jpg",
     "w": 1400,
     "h": 933
    },

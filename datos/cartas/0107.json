@@ -7,7 +7,7 @@
   "slug": "107-diez-anos-abriendo-un-regalo",
   "origen": "https://mailchi.mp/antoniodearcas/107",
   "portada": {
-   "ruta": "assets/cartas/bcfd49ba5e7ddc.jpg",
+   "ruta": "assets/cartas/30329b9a3c99f6.jpg",
    "w": 1400,
    "h": 1050
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/bcfd49ba5e7ddc.jpg",
+    "ruta": "assets/cartas/30329b9a3c99f6.jpg",
     "w": 1400,
     "h": 1050
    },
@@ -37,7 +37,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/869de8a3f175a9.jpg",
+    "ruta": "assets/cartas/25fdf305a4e7d7.jpg",
     "w": 1080,
     "h": 810
    }
@@ -48,7 +48,7 @@
   "slug": "107-ten-years-of-opening-a-gift",
   "origen": "https://mailchi.mp/antoniodearcas/107-en",
   "portada": {
-   "ruta": "assets/cartas/782dc6f42b194f.jpg",
+   "ruta": "assets/cartas/30329b9a3c99f6.jpg",
    "w": 1400,
    "h": 1050
   },
@@ -57,7 +57,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/782dc6f42b194f.jpg",
+    "ruta": "assets/cartas/30329b9a3c99f6.jpg",
     "w": 1400,
     "h": 1050
    },

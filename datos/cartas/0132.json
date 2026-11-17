@@ -7,7 +7,7 @@
   "slug": "132-remar-o-no-remar",
   "origen": "https://mailchi.mp/antoniodearcas/132",
   "portada": {
-   "ruta": "assets/cartas/e3229413b69ec2.jpg",
+   "ruta": "assets/cartas/710830b1e8ca3c.jpg",
    "w": 1400,
    "h": 933
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/e3229413b69ec2.jpg",
+    "ruta": "assets/cartas/710830b1e8ca3c.jpg",
     "w": 1400,
     "h": 933
    },
@@ -32,7 +32,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/9ab1767c45faa5.jpg",
+    "ruta": "assets/cartas/3172675711772d.jpg",
     "w": 1400,
     "h": 933
    },
@@ -43,7 +43,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/edb936baf00772.jpg",
+    "ruta": "assets/cartas/436c032d25ffda.jpg",
     "w": 1400,
     "h": 933
    },
@@ -54,7 +54,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/cb45ad6e576f3b.jpg",
+    "ruta": "assets/cartas/46180802bf6ff9.jpg",
     "w": 1400,
     "h": 933
    },
@@ -164,7 +164,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/e79bb1079d19e5.jpg",
+    "ruta": "assets/cartas/d345ec26c3463b.jpg",
     "w": 1400,
     "h": 933
    }

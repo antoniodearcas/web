@@ -32,7 +32,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/87bc2c2ae276be.jpg",
+    "ruta": "assets/cartas/0d8bd6b8f81ce4.jpg",
     "w": 1400,
     "h": 933
    }
@@ -43,7 +43,7 @@
   "slug": "67-desiring-in-a-good-way",
   "origen": "https://mailchi.mp/astrofonda/67-en",
   "portada": {
-   "ruta": "assets/cartas/f62f79a9f14f63.jpg",
+   "ruta": "assets/cartas/254b014a2664af.jpg",
    "w": 1400,
    "h": 933
   },
@@ -52,7 +52,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/f62f79a9f14f63.jpg",
+    "ruta": "assets/cartas/254b014a2664af.jpg",
     "w": 1400,
     "h": 933
    },

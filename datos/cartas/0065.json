@@ -7,7 +7,7 @@
   "slug": "65-dos-ideas-zen",
   "origen": "https://mailchi.mp/astrofonda/65",
   "portada": {
-   "ruta": "assets/cartas/ad8240e175c211.jpg",
+   "ruta": "assets/cartas/89e72257f76400.jpg",
    "w": 1400,
    "h": 933
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/ad8240e175c211.jpg",
+    "ruta": "assets/cartas/89e72257f76400.jpg",
     "w": 1400,
     "h": 933
    },
@@ -68,7 +68,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/750c53740b6acb.jpg",
+    "ruta": "assets/cartas/1d4ac467c1b4b5.jpg",
     "w": 1400,
     "h": 933
    }

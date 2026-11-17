@@ -27,7 +27,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/a8b29e2afe7c8f.jpg",
+    "ruta": "assets/cartas/7192e364804e0f.jpg",
     "w": 1400,
     "h": 853
    },
@@ -49,7 +49,7 @@
   "slug": "45-the-inner-master",
   "origen": "https://mailchi.mp/astrofonda/45-en",
   "portada": {
-   "ruta": "assets/cartas/ed8a0409985f22.jpg",
+   "ruta": "assets/cartas/2bf45a0d865b81.jpg",
    "w": 1400,
    "h": 933
   },
@@ -58,7 +58,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/ed8a0409985f22.jpg",
+    "ruta": "assets/cartas/2bf45a0d865b81.jpg",
     "w": 1400,
     "h": 933
    },
@@ -80,7 +80,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/e1d3322b4cc6d3.jpg",
+    "ruta": "assets/cartas/8d05f5c16b25ec.jpg",
     "w": 1400,
     "h": 933
    }

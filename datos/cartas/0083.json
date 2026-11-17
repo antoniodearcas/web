@@ -7,7 +7,7 @@
   "slug": "83-anatomia-de-una-crisis-una-improvisacion",
   "origen": "https://mailchi.mp/astrofonda/83",
   "portada": {
-   "ruta": "assets/cartas/55d55bd1be1e2c.jpg",
+   "ruta": "assets/cartas/42d6525385eaab.jpg",
    "w": 1400,
    "h": 933
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/55d55bd1be1e2c.jpg",
+    "ruta": "assets/cartas/42d6525385eaab.jpg",
     "w": 1400,
     "h": 933
    },
@@ -44,7 +44,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/4a8d22005c1f1a.jpg",
+    "ruta": "assets/cartas/0b00f6218d329c.jpg",
     "w": 1400,
     "h": 933
    }

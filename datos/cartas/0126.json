@@ -58,7 +58,7 @@
   "slug": "126-sandcastles",
   "origen": "https://mailchi.mp/antoniodearcas/126-en",
   "portada": {
-   "ruta": "assets/cartas/f9dce0d14f255d.jpg",
+   "ruta": "assets/cartas/544df83cc98019.jpg",
    "w": 1400,
    "h": 933
   },
@@ -67,7 +67,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/f9dce0d14f255d.jpg",
+    "ruta": "assets/cartas/544df83cc98019.jpg",
     "w": 1400,
     "h": 933
    },
@@ -88,7 +88,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/f9e863c3e7b28e.jpg",
+    "ruta": "assets/cartas/d520a32d27704a.jpg",
     "w": 1400,
     "h": 933
    }

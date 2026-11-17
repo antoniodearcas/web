@@ -7,7 +7,7 @@
   "slug": "88-anciano-buscando-el-reflejo-de-la-luna-en-el-fondo-de-una-poza-junto-a",
   "origen": "https://mailchi.mp/astrofonda/88",
   "portada": {
-   "ruta": "assets/cartas/b6d1a8f658c00d.jpg",
+   "ruta": "assets/cartas/810480fbb6f832.jpg",
    "w": 1400,
    "h": 934
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/b6d1a8f658c00d.jpg",
+    "ruta": "assets/cartas/810480fbb6f832.jpg",
     "w": 1400,
     "h": 934
    },
@@ -42,7 +42,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/9db294520146e7.jpg",
+    "ruta": "assets/cartas/4aebb50063c0ad.jpg",
     "w": 1400,
     "h": 934
    }

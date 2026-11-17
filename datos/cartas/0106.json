@@ -7,7 +7,7 @@
   "slug": "106-sobre-la-autoestima",
   "origen": "https://mailchi.mp/antoniodearcas/106",
   "portada": {
-   "ruta": "assets/cartas/c79800b0f9dfd4.jpg",
+   "ruta": "assets/cartas/a38f51eccad7d4.jpg",
    "w": 1080,
    "h": 1350
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/c79800b0f9dfd4.jpg",
+    "ruta": "assets/cartas/a38f51eccad7d4.jpg",
     "w": 1080,
     "h": 1350
    },
@@ -32,7 +32,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/e2f3fce40b7e7a.jpg",
+    "ruta": "assets/cartas/373da437d823f8.jpg",
     "w": 1400,
     "h": 934
    },
@@ -100,7 +100,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/8762ed540385c3.jpg",
+    "ruta": "assets/cartas/5e79ff04852ddc.jpg",
     "w": 1400,
     "h": 934
    }

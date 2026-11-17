@@ -7,7 +7,7 @@
   "slug": "71-animal-o-angel",
   "origen": "https://mailchi.mp/astrofonda/71",
   "portada": {
-   "ruta": "assets/cartas/f5b1011fc076d8.jpg",
+   "ruta": "assets/cartas/ab6ba0e24a407c.jpg",
    "w": 1400,
    "h": 933
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/f5b1011fc076d8.jpg",
+    "ruta": "assets/cartas/ab6ba0e24a407c.jpg",
     "w": 1400,
     "h": 933
    },
@@ -43,7 +43,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/c8e6689ff71693.jpg",
+    "ruta": "assets/cartas/bc48c4393aaf22.jpg",
     "w": 1400,
     "h": 934
    }
@@ -74,7 +74,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/f1055fff4b8856.jpg",
+    "ruta": "assets/cartas/620c0a56c8dfd7.jpg",
     "w": 1400,
     "h": 933
    },

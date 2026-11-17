@@ -54,7 +54,7 @@
   "slug": "72-beyond-good-and-evil-there-is-a-field",
   "origen": "https://mailchi.mp/astrofonda/72-en",
   "portada": {
-   "ruta": "assets/cartas/ed6700af64cb55.jpg",
+   "ruta": "assets/cartas/bf8977ff13cd0b.jpg",
    "w": 1400,
    "h": 933
   },
@@ -63,7 +63,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/ed6700af64cb55.jpg",
+    "ruta": "assets/cartas/bf8977ff13cd0b.jpg",
     "w": 1400,
     "h": 933
    },
@@ -74,7 +74,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/721f4997867d3e.jpg",
+    "ruta": "assets/cartas/4fd49e1263f110.jpg",
     "w": 1400,
     "h": 933
    },
@@ -90,7 +90,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/8f413f9d695a89.jpg",
+    "ruta": "assets/cartas/4442fb429b4b8f.jpg",
     "w": 1400,
     "h": 933
    }

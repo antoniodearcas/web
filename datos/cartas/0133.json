@@ -7,7 +7,7 @@
   "slug": "133-nimbo",
   "origen": "https://mailchi.mp/antoniodearcas/133",
   "portada": {
-   "ruta": "assets/cartas/8cfa295944046b.jpg",
+   "ruta": "assets/cartas/8b42c43f37af7a.jpg",
    "w": 1400,
    "h": 1400
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/8cfa295944046b.jpg",
+    "ruta": "assets/cartas/8b42c43f37af7a.jpg",
     "w": 1400,
     "h": 1400
    },
@@ -47,7 +47,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/b9f75293464bdf.jpg",
+    "ruta": "assets/cartas/1a2dea4e07b4f0.jpg",
     "w": 1400,
     "h": 1400
    }

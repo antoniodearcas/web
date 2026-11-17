@@ -42,7 +42,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/f30f46ee93d05e.jpg",
+    "ruta": "assets/cartas/56034a76774da7.jpg",
     "w": 1024,
     "h": 1024
    }
@@ -53,7 +53,7 @@
   "slug": "138-life-doesn-t-know-death",
   "origen": "https://mailchi.mp/antoniodearcas/138-en",
   "portada": {
-   "ruta": "assets/cartas/d47a39326fdb1b.jpg",
+   "ruta": "assets/cartas/62c803299ea571.jpg",
    "w": 1080,
    "h": 814
   },
@@ -62,7 +62,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/d47a39326fdb1b.jpg",
+    "ruta": "assets/cartas/62c803299ea571.jpg",
     "w": 1080,
     "h": 814
    },

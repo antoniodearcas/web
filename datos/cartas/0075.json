@@ -27,7 +27,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/edd10c231c1d8c.jpg",
+    "ruta": "assets/cartas/93fa72dd0ca9b0.jpg",
     "w": 1400,
     "h": 788
    },
@@ -54,7 +54,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/837233ae6ccb82.jpg",
+    "ruta": "assets/cartas/1dd64a8dc54bd0.jpg",
     "w": 1400,
     "h": 933
    }
@@ -65,7 +65,7 @@
   "slug": "75-anatomy-of-a-belief",
   "origen": "https://mailchi.mp/astrofonda/75-en",
   "portada": {
-   "ruta": "assets/cartas/e576797f8a22c6.jpg",
+   "ruta": "assets/cartas/8afddda77b378f.jpg",
    "w": 1400,
    "h": 934
   },
@@ -74,7 +74,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/e576797f8a22c6.jpg",
+    "ruta": "assets/cartas/8afddda77b378f.jpg",
     "w": 1400,
     "h": 934
    },
@@ -96,7 +96,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/87e0f935b6c7a8.jpg",
+    "ruta": "assets/cartas/4ba4ffdac3e74a.jpg",
     "w": 1211,
     "h": 806
    },

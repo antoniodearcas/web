@@ -38,7 +38,7 @@
   "slug": "76-invocation",
   "origen": "https://mailchi.mp/astrofonda/76-en",
   "portada": {
-   "ruta": "assets/cartas/54802618b4ca24.jpg",
+   "ruta": "assets/cartas/02d77bb2c32ecc.jpg",
    "w": 1400,
    "h": 934
   },
@@ -47,7 +47,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/54802618b4ca24.jpg",
+    "ruta": "assets/cartas/02d77bb2c32ecc.jpg",
     "w": 1400,
     "h": 934
    },
@@ -58,7 +58,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/c0c533a3cb94d7.jpg",
+    "ruta": "assets/cartas/8a00692a6655b6.jpg",
     "w": 1400,
     "h": 934
    }

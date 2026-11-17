@@ -7,7 +7,7 @@
   "slug": "36-reflexion-final-de-ano-espiritualidad",
   "origen": "https://mailchi.mp/astrofonda/36",
   "portada": {
-   "ruta": "assets/cartas/628fc4a207cd97.jpg",
+   "ruta": "assets/cartas/2253b9d155ae30.jpg",
    "w": 1080,
    "h": 720
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/628fc4a207cd97.jpg",
+    "ruta": "assets/cartas/2253b9d155ae30.jpg",
     "w": 1080,
     "h": 720
    },
@@ -54,7 +54,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/765243cb48e8a1.jpg",
+    "ruta": "assets/cartas/38f64bc920a1f3.jpg",
     "w": 1400,
     "h": 933
    }

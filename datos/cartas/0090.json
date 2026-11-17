@@ -43,7 +43,7 @@
   "slug": "90-to-the-heart",
   "origen": "https://mailchi.mp/astrofonda/90-en",
   "portada": {
-   "ruta": "assets/cartas/e4970e2c766be4.jpg",
+   "ruta": "assets/cartas/2372871b5d553f.jpg",
    "w": 1400,
    "h": 933
   },
@@ -52,7 +52,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/e4970e2c766be4.jpg",
+    "ruta": "assets/cartas/2372871b5d553f.jpg",
     "w": 1400,
     "h": 933
    },
@@ -68,7 +68,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/be3171ce26ae52.jpg",
+    "ruta": "assets/cartas/42310f91071a60.jpg",
     "w": 1400,
     "h": 933
    }

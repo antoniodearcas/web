@@ -7,7 +7,7 @@
   "slug": "130-evet",
   "origen": "https://mailchi.mp/antoniodearcas/130",
   "portada": {
-   "ruta": "assets/cartas/c92991adbcfb10.jpg",
+   "ruta": "assets/cartas/76198a83b5ecca.jpg",
    "w": 1400,
    "h": 949
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/c92991adbcfb10.jpg",
+    "ruta": "assets/cartas/76198a83b5ecca.jpg",
     "w": 1400,
     "h": 949
    },
@@ -93,7 +93,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/cd096d062c1eba.jpg",
+    "ruta": "assets/cartas/b363acdaaa65f4.jpg",
     "w": 1400,
     "h": 933
    }

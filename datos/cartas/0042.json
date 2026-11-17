@@ -7,7 +7,7 @@
   "slug": "42-el-proyecto-eres-tu",
   "origen": "https://mailchi.mp/astrofonda/42",
   "portada": {
-   "ruta": "assets/cartas/cf15b55e357975.jpg",
+   "ruta": "assets/cartas/51c9abba3d1651.jpg",
    "w": 1400,
    "h": 933
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/cf15b55e357975.jpg",
+    "ruta": "assets/cartas/51c9abba3d1651.jpg",
     "w": 1400,
     "h": 933
    },
@@ -32,7 +32,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/80d20b95963ca7.jpg",
+    "ruta": "assets/cartas/727a3b05b4df22.jpg",
     "w": 1400,
     "h": 934
    }

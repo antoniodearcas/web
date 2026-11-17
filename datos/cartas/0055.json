@@ -7,7 +7,7 @@
   "slug": "55-la-magia-de-los-comienzos",
   "origen": "https://mailchi.mp/astrofonda/55",
   "portada": {
-   "ruta": "assets/cartas/a394e2bae0c923.jpg",
+   "ruta": "assets/cartas/647aba7188617b.jpg",
    "w": 1400,
    "h": 933
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/a394e2bae0c923.jpg",
+    "ruta": "assets/cartas/647aba7188617b.jpg",
     "w": 1400,
     "h": 933
    },
@@ -27,7 +27,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/cd2c7cbdfd38ca.jpg",
+    "ruta": "assets/cartas/8f10697f40bf61.jpg",
     "w": 776,
     "h": 1304,
     "href": "https://youtu.be/jL-11INi8_8"

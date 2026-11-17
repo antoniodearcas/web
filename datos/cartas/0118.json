@@ -7,7 +7,7 @@
   "slug": "118-un-diamante-cosmico",
   "origen": "https://mailchi.mp/antoniodearcas/118",
   "portada": {
-   "ruta": "assets/cartas/fec547b88c9cb5.jpg",
+   "ruta": "assets/cartas/a177cdffcd5a34.jpg",
    "w": 1400,
    "h": 933
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/fec547b88c9cb5.jpg",
+    "ruta": "assets/cartas/a177cdffcd5a34.jpg",
     "w": 1400,
     "h": 933
    },
@@ -47,7 +47,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/99c3665fa47051.jpg",
+    "ruta": "assets/cartas/985982bb1f9d91.jpg",
     "w": 1400,
     "h": 933
    }

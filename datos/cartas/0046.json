@@ -27,7 +27,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/f25f220970ee6b.jpg",
+    "ruta": "assets/cartas/bda1983ad00f6f.jpg",
     "w": 1400,
     "h": 933
    }
@@ -38,7 +38,7 @@
   "slug": "46-force-and-power",
   "origen": "https://mailchi.mp/astrofonda/46-en",
   "portada": {
-   "ruta": "assets/cartas/9d0ebab1c5a33c.jpg",
+   "ruta": "assets/cartas/6c076fcb31fee3.jpg",
    "w": 1400,
    "h": 933
   },
@@ -47,7 +47,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/9d0ebab1c5a33c.jpg",
+    "ruta": "assets/cartas/6c076fcb31fee3.jpg",
     "w": 1400,
     "h": 933
    },

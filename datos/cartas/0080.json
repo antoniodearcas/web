@@ -32,7 +32,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/99f67b57f5600e.jpg",
+    "ruta": "assets/cartas/4c9d497b7716c0.jpg",
     "w": 1400,
     "h": 933
    }
@@ -43,7 +43,7 @@
   "slug": "80-radical-acceptance",
   "origen": "https://mailchi.mp/astrofonda/80-en",
   "portada": {
-   "ruta": "assets/cartas/7adf82ab033d8b.jpg",
+   "ruta": "assets/cartas/2f8ff433eb3e62.jpg",
    "w": 1400,
    "h": 933
   },
@@ -52,7 +52,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/7adf82ab033d8b.jpg",
+    "ruta": "assets/cartas/2f8ff433eb3e62.jpg",
     "w": 1400,
     "h": 933
    },

@@ -37,7 +37,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/454612ee0a7ae5.jpg",
+    "ruta": "assets/cartas/128506dae1bde2.jpg",
     "w": 1400,
     "h": 933
    }
@@ -48,7 +48,7 @@
   "slug": "117-rendirse-al-compromiso",
   "origen": "https://mailchi.mp/antoniodearcas/117",
   "portada": {
-   "ruta": "assets/cartas/fd4b5e20623dff.jpg",
+   "ruta": "assets/cartas/565df735534502.jpg",
    "w": 1400,
    "h": 933
   },
@@ -57,7 +57,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/fd4b5e20623dff.jpg",
+    "ruta": "assets/cartas/565df735534502.jpg",
     "w": 1400,
     "h": 933
    },

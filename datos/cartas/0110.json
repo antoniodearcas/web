@@ -7,7 +7,7 @@
   "slug": "110-parpadear-es-demasiado-trabajo",
   "origen": "https://mailchi.mp/antoniodearcas/110",
   "portada": {
-   "ruta": "assets/cartas/cebe4e8994c2b4.jpg",
+   "ruta": "assets/cartas/585a9e48b45e80.jpg",
    "w": 1400,
    "h": 933
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/cebe4e8994c2b4.jpg",
+    "ruta": "assets/cartas/585a9e48b45e80.jpg",
     "w": 1400,
     "h": 933
    },
@@ -78,7 +78,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/8eb5062b89ece1.jpg",
+    "ruta": "assets/cartas/40287b0bf400a1.jpg",
     "w": 1400,
     "h": 933
    }

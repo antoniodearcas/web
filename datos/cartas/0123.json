@@ -7,7 +7,7 @@
   "slug": "123-locuciones",
   "origen": "https://mailchi.mp/antoniodearcas/123",
   "portada": {
-   "ruta": "assets/cartas/8f924d8fb30301.jpg",
+   "ruta": "assets/cartas/02e994beb012cf.jpg",
    "w": 1400,
    "h": 933
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/8f924d8fb30301.jpg",
+    "ruta": "assets/cartas/02e994beb012cf.jpg",
     "w": 1400,
     "h": 933
    },
@@ -88,7 +88,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/f5e269559d6fcf.jpg",
+    "ruta": "assets/cartas/e0316b1b41b4bf.jpg",
     "w": 1080,
     "h": 720
    },

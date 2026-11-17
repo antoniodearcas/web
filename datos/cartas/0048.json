@@ -60,7 +60,7 @@
   "slug": "48-judgment-and-the-light-it-hides",
   "origen": "https://mailchi.mp/astrofonda/48-en",
   "portada": {
-   "ruta": "assets/cartas/adf90713fadb84.jpg",
+   "ruta": "assets/cartas/5bd29b7ad707bc.jpg",
    "w": 1400,
    "h": 933
   },
@@ -69,7 +69,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/adf90713fadb84.jpg",
+    "ruta": "assets/cartas/5bd29b7ad707bc.jpg",
     "w": 1400,
     "h": 933
    },
@@ -80,7 +80,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/ecf73a088cb54e.jpg",
+    "ruta": "assets/cartas/59847f21d3f624.jpg",
     "w": 1400,
     "h": 933
    },
@@ -91,7 +91,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/9a2c8e4bc6f106.jpg",
+    "ruta": "assets/cartas/82b5a8c080f2db.jpg",
     "w": 1400,
     "h": 934
    },
@@ -102,7 +102,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/a8ca44b441c5e9.jpg",
+    "ruta": "assets/cartas/1ff84280fc25a3.jpg",
     "w": 1400,
     "h": 933
    }

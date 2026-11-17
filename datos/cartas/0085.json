@@ -32,7 +32,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/e7ba28c3a6f69e.jpg",
+    "ruta": "assets/cartas/384f67e0aa2681.jpg",
     "w": 1400,
     "h": 933
    }
@@ -43,7 +43,7 @@
   "slug": "85-look-ma-no-free-will",
   "origen": "https://mailchi.mp/astrofonda/85-en",
   "portada": {
-   "ruta": "assets/cartas/6f1726e4f1e0b5.jpg",
+   "ruta": "assets/cartas/4a49a9e7a74218.jpg",
    "w": 1400,
    "h": 933
   },
@@ -52,7 +52,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/6f1726e4f1e0b5.jpg",
+    "ruta": "assets/cartas/4a49a9e7a74218.jpg",
     "w": 1400,
     "h": 933
    },

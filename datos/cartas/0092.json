@@ -32,7 +32,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/9c5995e5aa12c9.jpg",
+    "ruta": "assets/cartas/728631fe7a9e92.jpg",
     "w": 1024,
     "h": 952
    },
@@ -53,7 +53,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/4ef9c09fcc485a.jpg",
+    "ruta": "assets/cartas/3999cde340b268.jpg",
     "w": 1400,
     "h": 1782
    },
@@ -69,7 +69,7 @@
   "slug": "92-i-am-here-to-serve-you",
   "origen": "https://mailchi.mp/astrofonda/92-en",
   "portada": {
-   "ruta": "assets/cartas/a40c98f599dcd2.jpg",
+   "ruta": "assets/cartas/718d8d8e7f78c9.jpg",
    "w": 1400,
    "h": 635
   },
@@ -78,7 +78,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/a40c98f599dcd2.jpg",
+    "ruta": "assets/cartas/718d8d8e7f78c9.jpg",
     "w": 1400,
     "h": 635
    },

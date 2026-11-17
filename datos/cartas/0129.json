@@ -58,7 +58,7 @@
   "slug": "129-you-are-now",
   "origen": "https://mailchi.mp/antoniodearcas/129-en",
   "portada": {
-   "ruta": "assets/cartas/dfedab49c2c09f.jpg",
+   "ruta": "assets/cartas/031ca4de307813.jpg",
    "w": 1400,
    "h": 933
   },
@@ -67,7 +67,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/dfedab49c2c09f.jpg",
+    "ruta": "assets/cartas/031ca4de307813.jpg",
     "w": 1400,
     "h": 933
    },
@@ -88,7 +88,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/74ccf562581d59.jpg",
+    "ruta": "assets/cartas/6d7184438b61be.jpg",
     "w": 1400,
     "h": 933
    }

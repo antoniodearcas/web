@@ -32,7 +32,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/5b676e7b3259a6.jpg",
+    "ruta": "assets/cartas/2adc74092bb741.jpg",
     "w": 1400,
     "h": 1400
    },
@@ -53,7 +53,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/de8f8d9ba3f35d.jpg",
+    "ruta": "assets/cartas/31e96421800534.jpg",
     "w": 1400,
     "h": 933
    }
@@ -64,7 +64,7 @@
   "slug": "98-antonio-de-arcas",
   "origen": "https://mailchi.mp/astrofonda/98-en",
   "portada": {
-   "ruta": "assets/cartas/b6e1eebff7fdac.jpg",
+   "ruta": "assets/cartas/3298c8c733733c.jpg",
    "w": 1400,
    "h": 933
   },
@@ -73,7 +73,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/b6e1eebff7fdac.jpg",
+    "ruta": "assets/cartas/3298c8c733733c.jpg",
     "w": 1400,
     "h": 933
    },

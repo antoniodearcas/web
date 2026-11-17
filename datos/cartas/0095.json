@@ -48,7 +48,7 @@
   "slug": "95-in-the-copilot-s-seat",
   "origen": "https://mailchi.mp/astrofonda/95-en",
   "portada": {
-   "ruta": "assets/cartas/a3c67df53d20d7.jpg",
+   "ruta": "assets/cartas/65ab31a35d3e0f.jpg",
    "w": 1400,
    "h": 933
   },
@@ -57,7 +57,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/a3c67df53d20d7.jpg",
+    "ruta": "assets/cartas/65ab31a35d3e0f.jpg",
     "w": 1400,
     "h": 933
    },
@@ -78,7 +78,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/d6c096e9a26d99.jpg",
+    "ruta": "assets/cartas/1a35fe7b823b4c.jpg",
     "w": 1400,
     "h": 933
    }

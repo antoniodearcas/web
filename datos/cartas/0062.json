@@ -38,7 +38,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/f4c761a532a09e.jpg",
+    "ruta": "assets/cartas/093d1353b3afdb.jpg",
     "w": 1400,
     "h": 933
    }
@@ -49,7 +49,7 @@
   "slug": "62-to-rest",
   "origen": "https://mailchi.mp/astrofonda/62-en",
   "portada": {
-   "ruta": "assets/cartas/ca49d0b2933fb7.jpg",
+   "ruta": "assets/cartas/243e2b7d8a8cdd.jpg",
    "w": 1400,
    "h": 933
   },
@@ -58,7 +58,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/ca49d0b2933fb7.jpg",
+    "ruta": "assets/cartas/243e2b7d8a8cdd.jpg",
     "w": 1400,
     "h": 933
    },
@@ -69,7 +69,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/af1ad5c1eba6b7.jpg",
+    "ruta": "assets/cartas/747fb36185ecda.jpg",
     "w": 1400,
     "h": 933
    },

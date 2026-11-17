@@ -7,7 +7,7 @@
   "slug": "86-eres-mio",
   "origen": "https://mailchi.mp/astrofonda/86",
   "portada": {
-   "ruta": "assets/cartas/18f8ec1ef13fb3.jpg",
+   "ruta": "assets/cartas/0c23e3d8fcb5b5.jpg",
    "w": 1400,
    "h": 1317
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/18f8ec1ef13fb3.jpg",
+    "ruta": "assets/cartas/0c23e3d8fcb5b5.jpg",
     "w": 1400,
     "h": 1317
    },
@@ -32,7 +32,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/7657337735a8f9.jpg",
+    "ruta": "assets/cartas/6edf36525d923e.jpg",
     "w": 1400,
     "h": 933
    }

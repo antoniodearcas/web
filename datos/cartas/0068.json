@@ -27,7 +27,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/cd64338f7c6442.jpg",
+    "ruta": "assets/cartas/252b95e34dc021.jpg",
     "w": 1400,
     "h": 933
    },
@@ -54,7 +54,7 @@
   "slug": "68-seeds-to-water",
   "origen": "https://mailchi.mp/astrofonda/68-en",
   "portada": {
-   "ruta": "assets/cartas/7d2b5d58df8445.jpg",
+   "ruta": "assets/cartas/7d20a18523df85.jpg",
    "w": 1400,
    "h": 933
   },
@@ -63,7 +63,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/7d2b5d58df8445.jpg",
+    "ruta": "assets/cartas/7d20a18523df85.jpg",
     "w": 1400,
     "h": 933
    },
@@ -90,7 +90,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/bc17f5184b6ed6.jpg",
+    "ruta": "assets/cartas/6e5eb73cd84120.jpg",
     "w": 1400,
     "h": 933
    }

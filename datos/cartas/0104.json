@@ -7,7 +7,7 @@
   "slug": "104-ensename-a-ser-como-tu",
   "origen": "https://mailchi.mp/antoniodearcas/104",
   "portada": {
-   "ruta": "assets/cartas/bd8acfe99d73d4.jpg",
+   "ruta": "assets/cartas/34ed1d03477cb6.jpg",
    "w": 1400,
    "h": 933
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/bd8acfe99d73d4.jpg",
+    "ruta": "assets/cartas/34ed1d03477cb6.jpg",
     "w": 1400,
     "h": 933
    },
@@ -83,7 +83,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/a1210fef93dae4.jpg",
+    "ruta": "assets/cartas/891c23fb8e9af7.jpg",
     "w": 1400,
     "h": 933
    }

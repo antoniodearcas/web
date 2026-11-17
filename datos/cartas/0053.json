@@ -7,7 +7,7 @@
   "slug": "53-concierto-en-boston-kindred",
   "origen": "https://mailchi.mp/astrofonda/53",
   "portada": {
-   "ruta": "assets/cartas/b4c8ae395957af.jpg",
+   "ruta": "assets/cartas/a479cfe36abe6f.jpg",
    "w": 640,
    "h": 360
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/b4c8ae395957af.jpg",
+    "ruta": "assets/cartas/a479cfe36abe6f.jpg",
     "w": 640,
     "h": 360,
     "href": "https://youtu.be/gM9ic2Z_NWI?si=YQPGyJ32G0PRdCZs"
@@ -39,7 +39,7 @@
   "slug": "53-concert-in-boston-kindred",
   "origen": "https://mailchi.mp/astrofonda/53-en",
   "portada": {
-   "ruta": "assets/cartas/b4c8ae395957af.jpg",
+   "ruta": "assets/cartas/a479cfe36abe6f.jpg",
    "w": 640,
    "h": 360
   },
@@ -48,7 +48,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/b4c8ae395957af.jpg",
+    "ruta": "assets/cartas/a479cfe36abe6f.jpg",
     "w": 640,
     "h": 360,
     "href": "https://youtu.be/gM9ic2Z_NWI?si=YQPGyJ32G0PRdCZs"
@@ -60,7 +60,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/6b9bd48041935a.jpg",
+    "ruta": "assets/cartas/2ff6ac68fd677c.jpg",
     "w": 1400,
     "h": 933
    }

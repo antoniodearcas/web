@@ -7,7 +7,7 @@
   "slug": "94-la-ayuda-llega",
   "origen": "https://mailchi.mp/astrofonda/94",
   "portada": {
-   "ruta": "assets/cartas/723c8a4143bb1e.jpg",
+   "ruta": "assets/cartas/493e6e8a6cac75.jpg",
    "w": 1400,
    "h": 933
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/723c8a4143bb1e.jpg",
+    "ruta": "assets/cartas/493e6e8a6cac75.jpg",
     "w": 1400,
     "h": 933
    },
@@ -78,7 +78,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/b4f179fcfd768a.jpg",
+    "ruta": "assets/cartas/896272b16a73db.jpg",
     "w": 1400,
     "h": 933
    }

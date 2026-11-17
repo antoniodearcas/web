@@ -7,7 +7,7 @@
   "slug": "108-la-raiz-del-desorden",
   "origen": "https://mailchi.mp/antoniodearcas/108",
   "portada": {
-   "ruta": "assets/cartas/deb77788eba43d.jpg",
+   "ruta": "assets/cartas/90c0db65d5d266.jpg",
    "w": 1400,
    "h": 933
   },
@@ -16,7 +16,7 @@
   "bloques": [
    {
     "t": "img",
-    "ruta": "assets/cartas/deb77788eba43d.jpg",
+    "ruta": "assets/cartas/90c0db65d5d266.jpg",
     "w": 1400,
     "h": 933
    },
@@ -78,7 +78,7 @@
    },
    {
     "t": "img",
-    "ruta": "assets/cartas/0bd0bbd380594b.jpg",
+    "ruta": "assets/cartas/05b6cc0e5b441a.jpg",
     "w": 1400,
     "h": 933
    }
