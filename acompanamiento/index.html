@@ -7,11 +7,12 @@
 <meta name="description" content="Acompañamiento espiritual uno a uno con Antonio de Arcas: seis meses para cultivar un espacio en tu alma que nada puede tocar.">
 <link rel="icon" href="../assets/logo.png">
 <link rel="stylesheet" href="https://use.typekit.net/jjg8lnx.css">
-<link rel="stylesheet" href="../assets/estilo.css?v=23">
+<link rel="stylesheet" href="../assets/estilo.css?v=24">
 </head>
 <body class="tarjetas con-header">
 <header><a href="../" aria-label="Antonio de Arcas, inicio"><img class="logo" src="../assets/logo.png" alt=""><img class="marca" src="../assets/marca.png" alt="Antonio de Arcas"></a><button class="abrir" type="button" aria-label="Abrir menú" aria-expanded="false" aria-controls="menu"><span></span><span></span></button><nav class="menu" id="menu" aria-label="Secciones"><a href="../">Esferas</a> <a href="../ofertas/">Ofertas</a> <a href="../musica/">Música</a></nav></header>
 <div class="lienzo">
+  <div class="carta video video-v" data-yt=""><button type="button" class="ver" aria-label="Ver el vídeo: qué es el acompañamiento"><img src="../assets/video-vertical.jpg" alt="" width="720" height="1280" loading="lazy"><span class="play" aria-hidden="true"></span></button></div>
   <aside class="carta retrato">
     <div class="arriba">
       <nav><a href="../musica/">Música</a> / <a href="https://instagram.com/adearcas" target="_blank" rel="noopener">Instagram</a> / <a href="https://www.youtube.com/@adearcas" target="_blank" rel="noopener">YouTube</a></nav>
@@ -20,6 +21,8 @@
   </aside>
 
   <main class="carta contenido">
+    <div class="video video-h" data-yt=""><button type="button" class="ver" aria-label="Ver el vídeo: qué es el acompañamiento"><img src="../assets/video-horizontal.jpg" alt="" width="1600" height="900" loading="lazy"><span class="play" aria-hidden="true"></span></button></div>
+
     <div class="fila">
       <p class="rotulo">Acompañamiento<br><span class="sub2">Uno a uno</span></p>
       <div>
@@ -79,5 +82,6 @@
   </main>
 </div>
 <script>(function(){var h=document.querySelector("header"),b=h&&h.querySelector(".abrir");if(!b)return;b.addEventListener("click",function(){var o=h.classList.toggle("abierto");b.setAttribute("aria-expanded",o);b.setAttribute("aria-label",o?"Cerrar menú":"Abrir menú");});})();</script>
+<script>document.querySelectorAll(".video").forEach(function(v){var b=v.querySelector(".ver");b.addEventListener("click",function(){var id=v.getAttribute("data-yt");if(!id)return;var f=document.createElement("iframe");f.src="https://www.youtube-nocookie.com/embed/"+id+"?autoplay=1&rel=0&playsinline=1&cc_load_policy=1&cc_lang_pref=es";f.title="Qué es el acompañamiento";f.allow="autoplay; encrypted-media; picture-in-picture; fullscreen";f.allowFullscreen=true;b.replaceWith(f);});});</script>
 </body>
 </html>
