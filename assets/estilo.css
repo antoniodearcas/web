@@ -281,3 +281,5 @@ header .marca{display:block}
   .lienzo:has(.video-v) .retrato{display:none}
 }
 @media (max-width:900px){.lienzo:has(.video) .retrato{display:none}}
+/* Mientras no haya vídeo vertical, el móvil muestra el horizontal */
+@media (max-width:600px){.sin-vertical .video-v{display:none}.sin-vertical .video-h{display:block}}
