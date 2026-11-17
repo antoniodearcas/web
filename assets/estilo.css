@@ -287,3 +287,8 @@ header .marca{display:block}
 @media (max-width:600px){.video-v{aspect-ratio:3/4;width:100%}}
 /* Sin raya entre el vídeo y el primer bloque de texto */
 .video-h+.fila{border-top:0;padding-top:0}
+/* Listas con etiqueta en cursiva y testimonio */
+.fila .piezas em{color:var(--navy)}
+.testimonio{margin:0;font-style:normal;color:inherit;border-left:2px solid var(--line);padding-left:20px}
+.testimonio p+p{margin-top:.9em}
+.fila ul+p{margin-top:1.1em}
