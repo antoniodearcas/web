@@ -283,3 +283,5 @@ header .marca{display:block}
 @media (max-width:900px){.lienzo:has(.video) .retrato{display:none}}
 /* Mientras no haya vídeo vertical, el móvil muestra el horizontal */
 @media (max-width:600px){.sin-vertical .video-v{display:none}.sin-vertical .video-h{display:block}}
+/* Vídeo vertical en 3:4, igual que las fotos del móvil */
+@media (max-width:600px){.video-v{aspect-ratio:3/4;width:100%}}
