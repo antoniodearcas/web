@@ -9,7 +9,7 @@ import argparse, datetime, html, json, os, shutil, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from esferas import RAIZ, cargar_todas
 
-V = '1'  # versión de css/js
+V = '2'  # versión de css/js
 HOOK = 'https://hook.us2.make.com/xwe37csw8iec3acyn64el68eee1eo6qp'
 MESES = {'es': 'enero febrero marzo abril mayo junio julio agosto septiembre octubre noviembre diciembre'.split(),
          'en': 'January February March April May June July August September October November December'.split()}
@@ -193,7 +193,7 @@ def construir(hoy, todas):
                         bloques.pop(j)
                         break
             meta = 'Nº %d' % c['num'] + (' · ' + fecha(c.get('enviada'), lang) if c.get('enviada') else '')
-            portada = f'<figure class="portada">{img(p["ruta"], p["w"], p["h"], v["titulo"], vt="c%d" % c["num"], lazy=False)}</figure>' if p else ''
+            portada = f'<figure class="lamina">{img(p["ruta"], p["w"], p["h"], v["titulo"], vt="c%d" % c["num"], lazy=False)}</figure>' if p else ''
             sub = f'<p class="subtitulo">{e(v["subtitulo"])}</p>' if v.get('subtitulo') else ''
 
             def vecina(x, rot, cls):
