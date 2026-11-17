@@ -1,0 +1,97 @@
+{
+ "num": 114,
+ "enviada": "2026-05-10",
+ "estado": "publicada",
+ "es": {
+  "titulo": "Regar con amor incondicional",
+  "slug": "114-regar-con-amor-incondicional",
+  "origen": "https://mailchi.mp/antoniodearcas/114",
+  "portada": {
+   "ruta": "assets/cartas/a040f8e931534c.jpg",
+   "w": 1400,
+   "h": 933
+  },
+  "subtitulo": "Admito que el juicio no da tan buenos resultados",
+  "extracto": "Según voy dejando ir capas y capas de lo que no soy, cada vez veo más claro que lo que soy es un campo abierto, un cielo que nutre con su luz el jardín donde todos los seres aparecemos. Mi…",
+  "bloques": [
+   {
+    "t": "img",
+    "ruta": "assets/cartas/a040f8e931534c.jpg",
+    "w": 1400,
+    "h": 933
+   },
+   {
+    "t": "intro",
+    "html": "<p><em>Según voy dejando ir capas y capas de lo que no soy, cada vez veo más claro que lo que soy es un campo abierto, un cielo que nutre con su luz el jardín donde todos los seres aparecemos. Mi trabajo, pues, es ser esa luz y, cuando aparezcan nubes, no olvidar que, detrás de las nubes, el sol sigue brillando igual.</em></p>",
+    "plano": "Según voy dejando ir capas y capas de lo que no soy, cada vez veo más claro que lo que soy es un campo abierto, un cielo que nutre con su luz el jardín donde todos los seres aparecemos. Mi trabajo, pues, es ser esa luz y, cuando aparezcan nubes, no olvidar que, detrás de las nubes, el sol sigue brillando igual."
+   },
+   {
+    "t": "texto",
+    "html": "<p>Todas las cosas son, en cada momento, lo mejor que pueden ser. Si pudieran ser mejores, lo serían. Y todas son buenas porque son una manifestación de la vida misma. La vida puede tomar formas con mayor o menor gracia y armonía, pero ese juicio es arbitrario, relativo e irrelevante si lo que buscamos es la Verdad.</p><p>La verdad, si no incluye un amor incondicional, no puede ser la Verdad.</p><p>Hoy, en una meditación larga y espontánea, esta comprensión amorosa se ha dirigido hacia mí, y me he visto a mí mismo bajo esa luz benévola. Una vez más, se me ha mostrado que el único que me juzga soy yo mismo. Al verme así, he comprendido por qué merezco ser amado completamente, y por qué no tiene sentido culparme por las cosas que hice o dejé de hacer.</p><p>Soy exactamente lo que soy en cada momento, y no podría ser de otra manera. Como una rosa en proceso de abrirse, cumpliendo perfectamente el papel que debe desempeñar en cada punto de su evolución. No tiene sentido culpar a la rosa por no haberse abierto del todo todavía, ni tampoco tiene sentido exigirle o forzarla a hacerlo. Cualquier intento de forzar distorsiona y entorpece el proceso natural, y no alcanzará nunca la plenitud que solo el amor puede inspirar.</p><p>Lo mejor que se puede hacer con esa rosa que eres es amarla, apreciar lo que es en este instante, y proporcionarle el alimento necesario para que crezca de la forma más saludable posible.</p><p>Solo Dios es responsable de los resultados. Tú simplemente eres responsable de elegir las condiciones más favorables. Y eso significa elegir sostenerte desde la energía del amor incondicional, momento a momento, para que sea esa energía la que te nutra y te anime a abrirte a todo lo que eres.</p>",
+    "plano": "Todas las cosas son, en cada momento, lo mejor que pueden ser. Si pudieran ser mejores, lo serían. Y todas son buenas porque son una manifestación de la vida misma. La vida puede tomar formas con mayor o menor gracia y armonía, pero ese juicio es arbitrario, relativo e irrelevante si lo que buscamos es la Verdad. La verdad, si no incluye un amor incondicional, no puede ser la Verdad. Hoy, en una meditación larga y espontánea, esta comprensión amorosa se ha dirigido hacia mí, y me he visto a mí mismo bajo esa luz benévola. Una vez más, se me ha mostrado que el único que me juzga soy yo mismo. Al verme así, he comprendido por qué merezco ser amado completamente, y por qué no tiene sentido culparme por las cosas que hice o dejé de hacer. Soy exactamente lo que soy en cada momento, y no podría ser de otra manera. Como una rosa en proceso de abrirse, cumpliendo perfectamente el papel que debe desempeñar en cada punto de su evolución. No tiene sentido culpar a la rosa por no haberse abierto del todo todavía, ni tampoco tiene sentido exigirle o forzarla a hacerlo. Cualquier intento de forzar distorsiona y entorpece el proceso natural, y no alcanzará nunca la plenitud que solo el amor puede inspirar. Lo mejor que se puede hacer con esa rosa que eres es amarla, apreciar lo que es en este instante, y proporcionarle el alimento necesario para que crezca de la forma más saludable posible. Solo Dios es responsable de los resultados. Tú simplemente eres responsable de elegir las condiciones más favorables. Y eso significa elegir sostenerte desde la energía del amor incondicional, momento a momento, para que sea esa energía la que te nutra y te anime a abrirte a todo lo que eres."
+   },
+   {
+    "t": "firma",
+    "html": "<p><em>Con todo mi amor,</em></p><p><em>Antonio</em></p>",
+    "plano": "Con todo mi amor, Antonio"
+   },
+   {
+    "t": "texto",
+    "html": "<p>PD: Lo que cuento aquí no es teoría. Es lo que practicamos juntos cada mañana en <em>Entre el cielo y la tierra</em>: un espacio diario para soltar el peso del día anterior y empezar desde cero, desde lo que realmente eres. Si sientes que quieres ese reset cada mañana, entra aquí:</p>",
+    "plano": "PD: Lo que cuento aquí no es teoría. Es lo que practicamos juntos cada mañana en Entre el cielo y la tierra : un espacio diario para soltar el peso del día anterior y empezar desde cero, desde lo que realmente eres. Si sientes que quieres ese reset cada mañana, entra aquí:"
+   },
+   {
+    "t": "boton",
+    "texto": "Entre el Cielo y la Tierra",
+    "href": "https://www.skool.com/entre-el-cielo-y-la-tierra/about"
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/6db40695957d40.jpg",
+    "w": 1400,
+    "h": 933
+   }
+  ]
+ },
+ "en": {
+  "titulo": "Watering with Unconditional Love",
+  "slug": "114-watering-with-unconditional-love",
+  "origen": "https://mailchi.mp/antoniodearcas/114-en",
+  "portada": {
+   "ruta": "assets/cartas/a569d547fb9965.jpg",
+   "w": 1400,
+   "h": 933
+  },
+  "subtitulo": "I'll admit judgment doesn't really work that well.",
+  "extracto": "As I let go of layer after layer of what I am not, I see more and more clearly that what I am is an open field, a sky that nourishes with its light the garden where all beings appear. My…",
+  "bloques": [
+   {
+    "t": "img",
+    "ruta": "assets/cartas/a569d547fb9965.jpg",
+    "w": 1400,
+    "h": 933
+   },
+   {
+    "t": "intro",
+    "html": "<p><em>As I let go of layer after layer of what I am not, I see more and more clearly that what I am is an open field, a sky that nourishes with its light the garden where all beings appear. My work, then, is to be that light and, when clouds appear, not to forget that behind the clouds, the sun is still shining just the same.</em></p>",
+    "plano": "As I let go of layer after layer of what I am not, I see more and more clearly that what I am is an open field, a sky that nourishes with its light the garden where all beings appear. My work, then, is to be that light and, when clouds appear, not to forget that behind the clouds, the sun is still shining just the same."
+   },
+   {
+    "t": "texto",
+    "html": "<p>All things are, at every moment, the best they can be. If they could be better, they would be. And all are good because they are a manifestation of life itself. Life can take forms with greater or lesser grace and harmony, but that judgment is arbitrary, relative, and irrelevant if what we seek is the Truth.</p><p>Truth, if it does not include unconditional love, cannot be the Truth.</p><p>Today, during a long and spontaneous meditation, this loving understanding turned toward me, and I saw myself under that benevolent light. Once again, I was shown that the only one who judges me is myself. Seeing myself this way, I understood why I deserve to be loved completely, and why there is no sense in blaming myself for the things I did or did not do.</p><p>I am exactly what I am at every moment, and I could not be any other way. Like a rose in the process of opening, perfectly fulfilling the role it must play at each point in its unfolding. There is no sense in blaming the rose for not having opened fully yet, nor does it make sense to demand it or force it to do so. Any attempt to force distorts and hinders the natural process, and will never reach the fullness that only love can inspire.</p><p>The best thing you can do with that rose you are is to love it, appreciate what it is in this moment, and give it the nourishment it needs to grow in the healthiest way possible.</p><p>God alone is responsible for the results. You are simply responsible for choosing the most favorable conditions. And that means choosing to sustain yourself in the energy of unconditional love, moment to moment, so that it is that energy that nourishes you and encourages you to open up to all that you are.</p>",
+    "plano": "All things are, at every moment, the best they can be. If they could be better, they would be. And all are good because they are a manifestation of life itself. Life can take forms with greater or lesser grace and harmony, but that judgment is arbitrary, relative, and irrelevant if what we seek is the Truth. Truth, if it does not include unconditional love, cannot be the Truth. Today, during a long and spontaneous meditation, this loving understanding turned toward me, and I saw myself under that benevolent light. Once again, I was shown that the only one who judges me is myself. Seeing myself this way, I understood why I deserve to be loved completely, and why there is no sense in blaming myself for the things I did or did not do. I am exactly what I am at every moment, and I could not be any other way. Like a rose in the process of opening, perfectly fulfilling the role it must play at each point in its unfolding. There is no sense in blaming the rose for not having opened fully yet, nor does it make sense to demand it or force it to do so. Any attempt to force distorts and hinders the natural process, and will never reach the fullness that only love can inspire. The best thing you can do with that rose you are is to love it, appreciate what it is in this moment, and give it the nourishment it needs to grow in the healthiest way possible. God alone is responsible for the results. You are simply responsible for choosing the most favorable conditions. And that means choosing to sustain yourself in the energy of unconditional love, moment to moment, so that it is that energy that nourishes you and encourages you to open up to all that you are."
+   },
+   {
+    "t": "firma",
+    "html": "<p><em>With all my love,</em></p><p><em>Antonio</em></p>",
+    "plano": "With all my love, Antonio"
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/496fa4eeb99d48.jpg",
+    "w": 1400,
+    "h": 933
+   }
+  ]
+ }
+}

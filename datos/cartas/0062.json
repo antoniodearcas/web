@@ -1,0 +1,89 @@
+{
+ "num": 62,
+ "enviada": "2025-05-11",
+ "estado": "publicada",
+ "es": {
+  "titulo": "Descansar",
+  "slug": "62-descansar",
+  "origen": "https://mailchi.mp/astrofonda/62",
+  "portada": {
+   "ruta": "assets/cartas/243e2b7d8a8cdd.jpg",
+   "w": 1400,
+   "h": 933
+  },
+  "subtitulo": "o doblegarse a las exigencias del ego",
+  "extracto": "Este viernes acabé mi séptimo cuatrimestre en Berklee. Hoy, sábado, me senté a escribir una carta. Decidí escribirla a mano, ya que estoy desarrollando una nueva caligrafía. Escribí tres…",
+  "bloques": [
+   {
+    "t": "img",
+    "ruta": "assets/cartas/243e2b7d8a8cdd.jpg",
+    "w": 1400,
+    "h": 933
+   },
+   {
+    "t": "texto",
+    "html": "<p>Este viernes acabé mi séptimo cuatrimestre en Berklee. Hoy, sábado, me senté a escribir una carta. Decidí escribirla a mano, ya que estoy desarrollando una nueva caligrafía. Escribí tres páginas con este aspecto. Si escribir Esferas ya es intenso, hacerlo en cursiva y sin tachones es una tarea titánica. Al acabar, me sentí agotado. </p>",
+    "plano": "Este viernes acabé mi séptimo cuatrimestre en Berklee. Hoy, sábado, me senté a escribir una carta. Decidí escribirla a mano, ya que estoy desarrollando una nueva caligrafía. Escribí tres páginas con este aspecto. Si escribir Esferas ya es intenso, hacerlo en cursiva y sin tachones es una tarea titánica. Al acabar, me sentí agotado."
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/747fb36185ecda.jpg",
+    "w": 1400,
+    "h": 933
+   },
+   {
+    "t": "texto",
+    "html": "<p>Ha sido un cuatri intenso, y hoy claramente sentía la necesidad de descansar. Sin embargo, ahí estaba la tentación de forzarme a seguir: transcribir la carta al ordenador, editarla, crear el correo y repetir el proceso en inglés. Al menos dos horas más de intensa concentración. Sentía que <em>debía</em> hacerlo. Pero no confío en los “deberías.”</p><p>Recordé que solo el ego utiliza la fuerza para hacer cosas, y me planteé no mandar nada hoy. Habló entonces la voz del miedo, de la autoexigencia, de la supuesta responsabilidad. Pero Dios no amenaza; el Amor no exige ni fuerza nada. Así que, haciendo caso omiso a esa voz miedosa, decidí descansar. Las quejas aumentaron en intensidad, las miré serenamente y dije “no.” Se hizo el silencio, y me fui a dormir.</p><p>Curiosamente, unas horas después, he acabado escribiendo esto, pero desde un lugar muy distinto. Después de pasar la tarde durmiendo, meditando y paseando, al volver a casa sentí el deseo de compartir. ¿Compartir el qué? Un par de fotos y una idea: no hay necesidad de forzar nada. Solo el ego intenta imponer su voluntad, pero el ego no es real. Lo más sabio es soltar aquello que creías que debías hacer y confiar en que, si es para tu bien, sucederá sin esfuerzo; y si no, es mejor así.</p><p>Hoy, para mí, la voluntad era que descansase y, una vez más equilibrado, escribiese esto. Buen recordatorio. Gracias. Ahora, a seguir descansando.</p><p>Con todo mi amor,</p><p>A.</p>",
+    "plano": "Ha sido un cuatri intenso, y hoy claramente sentía la necesidad de descansar. Sin embargo, ahí estaba la tentación de forzarme a seguir: transcribir la carta al ordenador, editarla, crear el correo y repetir el proceso en inglés. Al menos dos horas más de intensa concentración. Sentía que debía hacerlo. Pero no confío en los “deberías.” Recordé que solo el ego utiliza la fuerza para hacer cosas, y me planteé no mandar nada hoy. Habló entonces la voz del miedo, de la autoexigencia, de la supuesta responsabilidad. Pero Dios no amenaza; el Amor no exige ni fuerza nada. Así que, haciendo caso omiso a esa voz miedosa, decidí descansar. Las quejas aumentaron en intensidad, las miré serenamente y dije “no.” Se hizo el silencio, y me fui a dormir. Curiosamente, unas horas después, he acabado escribiendo esto, pero desde un lugar muy distinto. Después de pasar la tarde durmiendo, meditando y paseando, al volver a casa sentí el deseo de compartir. ¿Compartir el qué? Un par de fotos y una idea: no hay necesidad de forzar nada. Solo el ego intenta imponer su voluntad, pero el ego no es real. Lo más sabio es soltar aquello que creías que debías hacer y confiar en que, si es para tu bien, sucederá sin esfuerzo; y si no, es mejor así. Hoy, para mí, la voluntad era que descansase y, una vez más equilibrado, escribiese esto. Buen recordatorio. Gracias. Ahora, a seguir descansando. Con todo mi amor, A."
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/f4c761a532a09e.jpg",
+    "w": 1400,
+    "h": 933
+   }
+  ]
+ },
+ "en": {
+  "titulo": "To rest",
+  "slug": "62-to-rest",
+  "origen": "https://mailchi.mp/astrofonda/62-en",
+  "portada": {
+   "ruta": "assets/cartas/ca49d0b2933fb7.jpg",
+   "w": 1400,
+   "h": 933
+  },
+  "subtitulo": "or to bow to the demands of the ego",
+  "extracto": "This Friday I finished my seventh semester at Berklee. Today, Saturday, I sat down to write a letter. I decided to write it by hand, since I’m developing a new handwriting style. I wrote…",
+  "bloques": [
+   {
+    "t": "img",
+    "ruta": "assets/cartas/ca49d0b2933fb7.jpg",
+    "w": 1400,
+    "h": 933
+   },
+   {
+    "t": "texto",
+    "html": "<p>This Friday I finished my seventh semester at Berklee. Today, Saturday, I sat down to write a letter. I decided to write it by hand, since I’m developing a new handwriting style. I wrote three pages that looked like this. If writing Esferas is already intense, doing it in cursive and without any cross-outs is a titanic task. By the time I finished, I felt exhausted.</p>",
+    "plano": "This Friday I finished my seventh semester at Berklee. Today, Saturday, I sat down to write a letter. I decided to write it by hand, since I’m developing a new handwriting style. I wrote three pages that looked like this. If writing Esferas is already intense, doing it in cursive and without any cross-outs is a titanic task. By the time I finished, I felt exhausted."
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/af1ad5c1eba6b7.jpg",
+    "w": 1400,
+    "h": 933
+   },
+   {
+    "t": "texto",
+    "html": "<p>It’s been an intense semester, and today I clearly felt the need to rest. Still, there was the temptation to push myself to keep going: transcribe the letter to the computer, edit it, create the email, and repeat the whole process in English. At least two more hours of intense focus. I felt like I <em>should</em> do it. But I don’t trust “shoulds.”</p><p>I remembered that only the ego uses force to get things done, and I considered not sending anything today. Then came the voice of fear, of self-demand, of supposed responsibility. But God doesn’t threaten; Love neither demands nor forces. So, ignoring that fearful voice, I chose to rest. The complaints grew louder—I watched them calmly and said “no.” Silence followed, and I went to sleep.</p><p>Curiously, a few hours later, I ended up writing this—but from a very different place. After an afternoon of sleep, meditation, and walking around the park, I came home and felt the desire to share. Share what? A couple of photos and an idea: there’s no need to force anything. Only the ego tries to impose its will, but the ego isn’t real. The wisest thing is to let go of what you thought you had to do and trust that, if it’s truly for your good, it will happen effortlessly—and if not, it’s better that way.</p><p>Today, for me, the true will was that I rest and, once rebalanced, write this. A good reminder. Thank you. Now, back to resting.</p><p>With all my love,</p><p>A.</p>",
+    "plano": "It’s been an intense semester, and today I clearly felt the need to rest. Still, there was the temptation to push myself to keep going: transcribe the letter to the computer, edit it, create the email, and repeat the whole process in English. At least two more hours of intense focus. I felt like I should do it. But I don’t trust “shoulds.” I remembered that only the ego uses force to get things done, and I considered not sending anything today. Then came the voice of fear, of self-demand, of supposed responsibility. But God doesn’t threaten; Love neither demands nor forces. So, ignoring that fearful voice, I chose to rest. The complaints grew louder—I watched them calmly and said “no.” Silence followed, and I went to sleep. Curiously, a few hours later, I ended up writing this—but from a very different place. After an afternoon of sleep, meditation, and walking around the park, I came home and felt the desire to share. Share what? A couple of photos and an idea: there’s no need to force anything. Only the ego tries to impose its will, but the ego isn’t real. The wisest thing is to let go of what you thought you had to do and trust that, if it’s truly for your good, it will happen effortlessly—and if not, it’s better that way. Today, for me, the true will was that I rest and, once rebalanced, write this. A good reminder. Thank you. Now, back to resting. With all my love, A."
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/093d1353b3afdb.jpg",
+    "w": 1400,
+    "h": 933
+   }
+  ]
+ }
+}

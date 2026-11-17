@@ -1,0 +1,156 @@
+{
+ "num": 101,
+ "enviada": "2026-02-08",
+ "estado": "publicada",
+ "es": {
+  "titulo": "Caminos Creativos",
+  "slug": "101-caminos-creativos",
+  "origen": "https://mailchi.mp/antoniodearcas/101",
+  "portada": {
+   "ruta": "assets/cartas/eed9d0ba20df10.jpg",
+   "w": 1084,
+   "h": 576
+  },
+  "subtitulo": "Porque donde dos o tres se reúnen en mi nombre...",
+  "extracto": "Lo primero, gracias a todas vuestras respuestas a mi último email. Lo que empezó como una cuestión técnica, acabó siendo un aluvión de mensajes de cargados de verdad y amor. Menuda…",
+  "bloques": [
+   {
+    "t": "img",
+    "ruta": "assets/cartas/eed9d0ba20df10.jpg",
+    "w": 1084,
+    "h": 576
+   },
+   {
+    "t": "intro",
+    "html": "<p><em>Lo primero, gracias a todas vuestras respuestas a mi último email. Lo que empezó como una cuestión técnica, acabó siendo un aluvión de mensajes de cargados de verdad y amor. Menuda bendición. Me hizo reír, llorar, y darme cuenta de que este proyecto no es tan solitario como a veces parece. Gracias.</em></p><p><em>Esferas brotó de un impulso muy intenso de compartir lo que estaba viviendo. No solo me ha ayudado muchísimo a encontrar claridad y a integrar mi proceso, sino que veo que también os ha ayudado a muchos a manteneros conectados con lo esencial y a cultivar vuestra relación con Dios.</em></p><p><em>Ahora, ese impulso, que nunca deja de crecer, me lleva a arrancar un nuevo proyecto, uno donde compartir ya no solo palabras, sino también presencia. Si te sientes conectado a las cosas que cuento y te gustaría profundizar más conmigo, aquí va una vía para hacerlo.</em></p>",
+    "plano": "Lo primero, gracias a todas vuestras respuestas a mi último email. Lo que empezó como una cuestión técnica, acabó siendo un aluvión de mensajes de cargados de verdad y amor. Menuda bendición. Me hizo reír, llorar, y darme cuenta de que este proyecto no es tan solitario como a veces parece. Gracias. Esferas brotó de un impulso muy intenso de compartir lo que estaba viviendo. No solo me ha ayudado muchísimo a encontrar claridad y a integrar mi proceso, sino que veo que también os ha ayudado a muchos a manteneros conectados con lo esencial y a cultivar vuestra relación con Dios. Ahora, ese impulso, que nunca deja de crecer, me lleva a arrancar un nuevo proyecto, uno donde compartir ya no solo palabras, sino también presencia. Si te sientes conectado a las cosas que cuento y te gustaría profundizar más conmigo, aquí va una vía para hacerlo."
+   },
+   {
+    "t": "texto",
+    "html": "<p>Te has preguntado alguna vez por qué los pájaros vuelan en esa formación de V?</p><p>La razón principal es que, cuando un pájaro bate sus alas, crea un movimiento de aire ascendente detrás de sí. Si un pájaro listo se coloca justo detrás, puede “surfear” ese vórtice de viento y utilizar mucha menos energía. Al volar en esa formación, cada uno aprovecha el esfuerzo del otro, ayudándose mutuamente.</p><p>Después, van rotando quién lidera la formación, para que ninguno se canse demasiado.</p><p>La diferencia no es pequeña. Según mis investigaciones, los pelícanos o los gansos que vuelan en V pueden recorrer hasta un 70% más de distancia con la misma energía que si volaran solos.</p>",
+    "plano": "Te has preguntado alguna vez por qué los pájaros vuelan en esa formación de V? La razón principal es que, cuando un pájaro bate sus alas, crea un movimiento de aire ascendente detrás de sí. Si un pájaro listo se coloca justo detrás, puede “surfear” ese vórtice de viento y utilizar mucha menos energía. Al volar en esa formación, cada uno aprovecha el esfuerzo del otro, ayudándose mutuamente. Después, van rotando quién lidera la formación, para que ninguno se canse demasiado. La diferencia no es pequeña. Según mis investigaciones, los pelícanos o los gansos que vuelan en V pueden recorrer hasta un 70% más de distancia con la misma energía que si volaran solos."
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/6bbfbb09f5ae9d.jpg",
+    "w": 1400,
+    "h": 1089
+   },
+   {
+    "t": "texto",
+    "html": "<p>Ahora, otro dato sobre los pájaros, esta vez yendo más profundo.</p><p>¿Alguna vez te has preguntado cómo es posible que un grupo de estorninos forme una nube perfectamente coordinada en el cielo? ¿Cómo logran crear esas formas tan armoniosas sin chocarse?</p><p>La clave nos la dio un físico llamado Rupert Sheldrake, que habló de algo llamado campos morfogenéticos: campos invisibles que contienen información que guían la forma en que células, organismos o incluso grupos se comportan.</p><p>Los humanos solemos interpretar ese evento como que cada pájaro está siguiendo a los de al lado. Lo vemos así porque así es como nosotros funcionamos: si queremos movernos en formación, miramos al de al lado e intentamos no chocarnos.</p><p>Sin embargo, la teoría de Rupert propone algo mucho más bello. Dice que cada pájaro en realidad está volando de forma independiente, siguiendo su propia brújula interna. Está afinado con un campo morfogenético que guía su trayectoria, igual que una viruta de hierro se coloca en una línea de campo en cercanía de un imán.</p><p>Por eso giran todos a la vez con exactamente el mismo ángulo. Vuelan juntos, en perfecta armonía, pero cada uno siguiendo su propio camino.</p>",
+    "plano": "Ahora, otro dato sobre los pájaros, esta vez yendo más profundo. ¿Alguna vez te has preguntado cómo es posible que un grupo de estorninos forme una nube perfectamente coordinada en el cielo? ¿Cómo logran crear esas formas tan armoniosas sin chocarse? La clave nos la dio un físico llamado Rupert Sheldrake, que habló de algo llamado campos morfogenéticos: campos invisibles que contienen información que guían la forma en que células, organismos o incluso grupos se comportan. Los humanos solemos interpretar ese evento como que cada pájaro está siguiendo a los de al lado. Lo vemos así porque así es como nosotros funcionamos: si queremos movernos en formación, miramos al de al lado e intentamos no chocarnos. Sin embargo, la teoría de Rupert propone algo mucho más bello. Dice que cada pájaro en realidad está volando de forma independiente, siguiendo su propia brújula interna. Está afinado con un campo morfogenético que guía su trayectoria, igual que una viruta de hierro se coloca en una línea de campo en cercanía de un imán. Por eso giran todos a la vez con exactamente el mismo ángulo. Vuelan juntos, en perfecta armonía, pero cada uno siguiendo su propio camino."
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/e1dd7ed01c6ea9.jpg",
+    "w": 1400,
+    "h": 1042
+   },
+   {
+    "t": "texto",
+    "html": "<p>La razón por la que comparto esto no es porque me pase el día pensando en pájaros, sino en la idea de crear una comunidad. Las mismas leyes pueden aplicarse a una bandada de humanos conscientes volando juntos en una determinada dirección. Esto es especialmente cierto y necesario si la dirección es la liberación interior y la creación de una vida auténtica.</p><p>En todo proceso de despertar espiritual hay una primera fase de sentirse muy solo; de seguir viviendo como antes, pero sintiéndote muy distinto por dentro. Hay una incoherencia entre tu vida interna y la externa. Eso lleva a una crisis, una ruptura con tu vida anterior.</p><p>Después empieza un proceso largo y difícil, pero muy bello, donde tu fuerza interna empieza a ganarle la batalla a la presión externa. Es un proceso de entender poco a poco quién eres, cómo funciona tu mente, y cómo tu mundo interno se refleja en el externo. Te das cuenta de que para que las cosas ahí fuera vayan bien, tienes que entrar dentro a poner orden. Así empieza el viaje del héroe.</p><p>Quiero crear una comunidad para avanzar juntos en ese proceso de liberación interna y construcción de una vida auténtica.</p><p>Por un lado, busco que tenga el efecto de volar en V: las partes del puzzle que tú has resuelto están ahora a disposición de los que anden atascados. Al juntarnos, esa información, que está flotando en nuestra consciencia, se comparte de manera silenciosa. A veces basta sentarse en silencio con un buen amigo para recordar que en realidad está todo bien.</p><p>Cristo, la verdad que libera, lo expresó así: <em>“Porque donde dos o tres se reúnen en mi nombre, allí estoy yo en medio de ellos.”</em> [Mateo 18:20]</p><p>Por otro lado, algo esencial en el camino espiritual y el camino creativo es unirse a contextos que favorezcan tu avance y expansión. Nosotros, al igual que los estorninos, estamos siempre siguiendo campos atractores ocultos que determinan nuestro comportamiento. La clave del crecimiento es afinarse a campos que te lleven en esa dirección. Por eso es esencial la gente con la que te rodeas. Dime con quien andas, y te diré en qué dirección irá tu vida.</p><p>Si lo que quieres es construir una vida creativa que sea una expresión directa de tu mundo interno. Si quieres dedicarte a desarrollar el potencial de tus dones y ponerlos al servicio de tu vida y la de los demás. Si quieres salir de la esfera del miedo y vivir guiado por el amor, la escucha interna y la conexión con Dios, esta comunidad es para ti.</p>",
+    "plano": "La razón por la que comparto esto no es porque me pase el día pensando en pájaros, sino en la idea de crear una comunidad. Las mismas leyes pueden aplicarse a una bandada de humanos conscientes volando juntos en una determinada dirección. Esto es especialmente cierto y necesario si la dirección es la liberación interior y la creación de una vida auténtica. En todo proceso de despertar espiritual hay una primera fase de sentirse muy solo; de seguir viviendo como antes, pero sintiéndote muy distinto por dentro. Hay una incoherencia entre tu vida interna y la externa. Eso lleva a una crisis, una ruptura con tu vida anterior. Después empieza un proceso largo y difícil, pero muy bello, donde tu fuerza interna empieza a ganarle la batalla a la presión externa. Es un proceso de entender poco a poco quién eres, cómo funciona tu mente, y cómo tu mundo interno se refleja en el externo. Te das cuenta de que para que las cosas ahí fuera vayan bien, tienes que entrar dentro a poner orden. Así empieza el viaje del héroe. Quiero crear una comunidad para avanzar juntos en ese proceso de liberación interna y construcción de una vida auténtica. Por un lado, busco que tenga el efecto de volar en V: las partes del puzzle que tú has resuelto están ahora a disposición de los que anden atascados. Al juntarnos, esa información, que está flotando en nuestra consciencia, se comparte de manera silenciosa. A veces basta sentarse en silencio con un buen amigo para recordar que en realidad está todo bien. Cristo, la verdad que libera, lo expresó así: “Porque donde dos o tres se reúnen en mi nombre, allí estoy yo en medio de ellos.” [Mateo 18:20] Por otro lado, algo esencial en el camino espiritual y el camino creativo es unirse a contextos que favorezcan tu avance y expansión. Nosotros, al igual que los estorninos, estamos siempre siguiendo campos atractores ocultos que determinan nuestro comportamiento. La clave del crecimiento es afinarse a campos que te lleven en esa dirección. Por eso es esencial la gente con la que te rodeas. Dime con quien andas, y te diré en qué dirección irá tu vida. Si lo que quieres es construir una vida creativa que sea una expresión directa de tu mundo interno. Si quieres dedicarte a desarrollar el potencial de tus dones y ponerlos al servicio de tu vida y la de los demás. Si quieres salir de la esfera del miedo y vivir guiado por el amor, la escucha interna y la conexión con Dios, esta comunidad es para ti."
+   },
+   {
+    "t": "boton",
+    "texto": "Caminos Creativos",
+    "href": "https://www.skool.com/caminos-creativos/about"
+   },
+   {
+    "t": "texto",
+    "html": "<p>La página está a medio construir, pero no quería postergarlo más. Lo esencial es empezar a andar, empezar a reunirnos semanalmente, e ir construyendo juntos, poco a poco. </p><p>Pronto anunciaré también algo fundamental de este nuevo proyecto, algo que me ha caído hoy del Cielo (muy literalmente) y que cambia la naturaleza del proyecto, potenciando muchísimo su valor. ¡Viene algo muy potente!</p>",
+    "plano": "La página está a medio construir, pero no quería postergarlo más. Lo esencial es empezar a andar, empezar a reunirnos semanalmente, e ir construyendo juntos, poco a poco. Pronto anunciaré también algo fundamental de este nuevo proyecto, algo que me ha caído hoy del Cielo (muy literalmente) y que cambia la naturaleza del proyecto, potenciando muchísimo su valor. ¡Viene algo muy potente!"
+   },
+   {
+    "t": "firma",
+    "html": "<p><em>Con <strong>todo</strong> mi amor,</em></p><p><em>Antonio</em></p>",
+    "plano": "Con todo mi amor, Antonio"
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/e974e0780e5104.jpg",
+    "w": 1080,
+    "h": 607
+   }
+  ]
+ },
+ "en": {
+  "titulo": "Caminos Creativos",
+  "slug": "101-caminos-creativos",
+  "origen": "https://mailchi.mp/antoniodearcas/101-en",
+  "portada": {
+   "ruta": "assets/cartas/fdac8a5d13d17f.jpg",
+   "w": 1084,
+   "h": 576
+  },
+  "subtitulo": "For where two or three are gathered in my name...",
+  "extracto": "First of all, thank you all for your responses to my last email. What began as a technical issue ended up becoming a flood of messages filled with truth and love. What a blessing. It made…",
+  "bloques": [
+   {
+    "t": "img",
+    "ruta": "assets/cartas/fdac8a5d13d17f.jpg",
+    "w": 1084,
+    "h": 576
+   },
+   {
+    "t": "texto",
+    "html": "<p><em>First of all, thank you all for your responses to my last email. What began as a technical issue ended up becoming a flood of messages filled with truth and love. What a blessing. It made me laugh, cry, and realize that this project is not as solitary as it sometimes seems. Thank you. If I still haven’t replied to your message, I will. Thank you for the patience!</em></p><p><em>Esferas was born out of a very intense impulse to share what I was going through. It hasn’t only helped me immensely to find clarity and integrate my process; I can also see that it has helped many of you stay connected to what is essential and to cultivate your relationship with God.</em></p><p><em>Now, that impulse, which never stops growing, is leading me to begin a new project, one in which I share not only words, but also presence. A place to gather in the name of truth and go deeper together.</em></p>",
+    "plano": "First of all, thank you all for your responses to my last email. What began as a technical issue ended up becoming a flood of messages filled with truth and love. What a blessing. It made me laugh, cry, and realize that this project is not as solitary as it sometimes seems. Thank you. If I still haven’t replied to your message, I will. Thank you for the patience! Esferas was born out of a very intense impulse to share what I was going through. It hasn’t only helped me immensely to find clarity and integrate my process; I can also see that it has helped many of you stay connected to what is essential and to cultivate your relationship with God. Now, that impulse, which never stops growing, is leading me to begin a new project, one in which I share not only words, but also presence. A place to gather in the name of truth and go deeper together."
+   },
+   {
+    "t": "texto",
+    "html": "<p>101. Caminos Creativos (Creative Paths)</p>",
+    "plano": "101. Caminos Creativos (Creative Paths)"
+   },
+   {
+    "t": "texto",
+    "html": "<p>Have you ever wondered why birds fly in that V-shaped formation?</p><p>The main reason is that when a bird flaps its wings, it creates an upward movement of air behind it. If a clever bird positions itself just behind, it can “surf” that vortex of wind and use much less energy. By flying in this formation, each one benefits from the effort of the others, helping one another.</p><p>They also take turns leading the formation, so that no one gets too tired.</p><p>The difference is not small. According to my research, pelicans or geese that fly in a V can travel up to 70% farther using the same amount of energy than if they were flying alone.</p>",
+    "plano": "Have you ever wondered why birds fly in that V-shaped formation? The main reason is that when a bird flaps its wings, it creates an upward movement of air behind it. If a clever bird positions itself just behind, it can “surf” that vortex of wind and use much less energy. By flying in this formation, each one benefits from the effort of the others, helping one another. They also take turns leading the formation, so that no one gets too tired. The difference is not small. According to my research, pelicans or geese that fly in a V can travel up to 70% farther using the same amount of energy than if they were flying alone."
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/198cf9ad23bd9d.jpg",
+    "w": 1400,
+    "h": 1089
+   },
+   {
+    "t": "texto",
+    "html": "<p>Now, another fact about birds, this time going deeper.</p><p>Have you ever wondered how a group of starlings can form a perfectly coordinated cloud in the sky? How do they manage to create such harmonious shapes without colliding?</p><p>The key was proposed by a physicist named Rupert Sheldrake, who spoke about something called morphogenetic fields: invisible fields that carry information and guide the way cells, organisms, or even groups behave.</p><p>We humans tend to interpret this phenomenon as each bird simply following the ones next to it. We see it that way because that’s how we operate: if we want to move in formation, we watch the person beside us and try not to bump into them.</p><p>However, Rupert’s theory proposes something far more beautiful. It suggests that each bird is actually flying independently, following its own inner compass. It is attuned to a morphogenetic field that guides its trajectory, much like iron filings aligning themselves along a field line in the presence of a magnet.</p><p>That’s why they all turn at the same time, at exactly the same angle. They fly together, in perfect harmony, yet each one is following its own path.</p>",
+    "plano": "Now, another fact about birds, this time going deeper. Have you ever wondered how a group of starlings can form a perfectly coordinated cloud in the sky? How do they manage to create such harmonious shapes without colliding? The key was proposed by a physicist named Rupert Sheldrake, who spoke about something called morphogenetic fields: invisible fields that carry information and guide the way cells, organisms, or even groups behave. We humans tend to interpret this phenomenon as each bird simply following the ones next to it. We see it that way because that’s how we operate: if we want to move in formation, we watch the person beside us and try not to bump into them. However, Rupert’s theory proposes something far more beautiful. It suggests that each bird is actually flying independently, following its own inner compass. It is attuned to a morphogenetic field that guides its trajectory, much like iron filings aligning themselves along a field line in the presence of a magnet. That’s why they all turn at the same time, at exactly the same angle. They fly together, in perfect harmony, yet each one is following its own path."
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/df3d839591d927.jpg",
+    "w": 1400,
+    "h": 1043
+   },
+   {
+    "t": "texto",
+    "html": "<p>The reason I share all of this is not because I spend my days thinking about birds, but about the idea of creating a community. The same laws can be applied to a flock of conscious humans flying together in a certain direction. This is especially true and necessary if that direction is inner liberation and the creation of an authentic life.</p><p>In every process of spiritual awakening there is an initial phase of feeling very alone; of continuing to live as before, yet feeling very different on the inside. There is an incoherence between your inner life and your outer life. This leads to a crisis, a rupture with your former life.</p><p>Then begins a long, difficult, but very beautiful process in which your inner strength starts to win the battle against external pressure. It is a gradual process of understanding who you are, how your mind works, and how your inner world is reflected in the outer one. You realize that for things out there to go well, you have to go inside and bring order there. This is how the hero’s journey begins.</p><p>I want to create a community to move forward together in this process to which we’re all being called in this moment of momentous change.</p><p>On the one hand, I want it to have the effect of flying in a V formation: the pieces of the puzzle that you have already solved are now available to those who might be stuck. When we come together, that information, which is floating in our shared consciousness, is transmitted silently. Sometimes it is enough to sit in silence with a good friend to remember that, in truth, everything is okay.</p><p>Christ, the truth that sets us free, expressed it this way: <em>“For where two or three are gathered in my name, there am I among them.”</em> (Matthew 18:20)</p><p>On the other hand, something essential on both the spiritual path and the creative path is to join contexts that support your growth and expansion. We, like the starlings, are always following hidden attractor fields that shape our behavior. The key to growth is to attune yourself to fields that carry you in that direction. That is why the people you surround yourself with are so important. Tell me who you walk with, and I will tell you which direction your life will take.</p><p>For the moment, the community itself will be held in Spanish. I wish it could be otherwise right now, and I hope that in time this project may open in English as well. This does not affect Esferas, which I will happily continue to translate for you.</p><p>If you want to build a creative life that is a direct expression of your inner world; if you want to devote yourself to developing the potential of your gifts and placing them at the service of your life and the lives of others; if you want to step out of the sphere of fear and live guided by love, inner listening, and connection with God, (and do all of this by practicing your Spanish!) then this community is for you.</p>",
+    "plano": "The reason I share all of this is not because I spend my days thinking about birds, but about the idea of creating a community. The same laws can be applied to a flock of conscious humans flying together in a certain direction. This is especially true and necessary if that direction is inner liberation and the creation of an authentic life. In every process of spiritual awakening there is an initial phase of feeling very alone; of continuing to live as before, yet feeling very different on the inside. There is an incoherence between your inner life and your outer life. This leads to a crisis, a rupture with your former life. Then begins a long, difficult, but very beautiful process in which your inner strength starts to win the battle against external pressure. It is a gradual process of understanding who you are, how your mind works, and how your inner world is reflected in the outer one. You realize that for things out there to go well, you have to go inside and bring order there. This is how the hero’s journey begins. I want to create a community to move forward together in this process to which we’re all being called in this moment of momentous change. On the one hand, I want it to have the effect of flying in a V formation: the pieces of the puzzle that you have already solved are now available to those who might be stuck. When we come together, that information, which is floating in our shared consciousness, is transmitted silently. Sometimes it is enough to sit in silence with a good friend to remember that, in truth, everything is okay. Christ, the truth that sets us free, expressed it this way: “For where two or three are gathered in my name, there am I among them.” (Matthew 18:20) On the other hand, something essential on both the spiritual path and the creative path is to join contexts that support your growth and expansion. We, like the starlings, are always following hidden attractor fields that shape our behavior. The key to growth is to attune yourself to fields that carry you in that direction. That is why the people you surround yourself with are so important. Tell me who you walk with, and I will tell you which direction your life will take. For the moment, the community itself will be held in Spanish. I wish it could be otherwise right now, and I hope that in time this project may open in English as well. This does not affect Esferas, which I will happily continue to translate for you. If you want to build a creative life that is a direct expression of your inner world; if you want to devote yourself to developing the potential of your gifts and placing them at the service of your life and the lives of others; if you want to step out of the sphere of fear and live guided by love, inner listening, and connection with God, (and do all of this by practicing your Spanish!) then this community is for you."
+   },
+   {
+    "t": "boton",
+    "texto": "Caminos Creativos",
+    "href": "https://www.skool.com/caminos-creativos/about"
+   },
+   {
+    "t": "texto",
+    "html": "<p>The page is still a work in progress, but I didn’t want to postpone it any longer. The essential thing is to start moving forward, to start meeting weekly, and to build together, little by little.</p><p>Soon I will also announce something fundamental about this new project, something that literally fell from Heaven today and that changes the nature of the project, greatly increasing its value. Something very powerful is coming!</p>",
+    "plano": "The page is still a work in progress, but I didn’t want to postpone it any longer. The essential thing is to start moving forward, to start meeting weekly, and to build together, little by little. Soon I will also announce something fundamental about this new project, something that literally fell from Heaven today and that changes the nature of the project, greatly increasing its value. Something very powerful is coming!"
+   },
+   {
+    "t": "firma",
+    "html": "<p><em>With all my love,</em></p><p><em>A.</em></p>",
+    "plano": "With all my love, A."
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/17297b7b23716e.jpg",
+    "w": 1080,
+    "h": 607
+   }
+  ]
+ }
+}

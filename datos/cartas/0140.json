@@ -1,0 +1,97 @@
+{
+ "num": 140,
+ "enviada": "2026-11-08",
+ "estado": "pendiente",
+ "es": {
+  "titulo": "Todo al Blanco",
+  "slug": "140-todo-al-blanco",
+  "origen": "https://mailchi.mp/antoniodearcas/140",
+  "portada": {
+   "ruta": "assets/cartas/895908bac59994.jpg",
+   "w": 1200,
+   "h": 1200
+  },
+  "subtitulo": "Y una reseña de Jesús",
+  "extracto": "Algunas canciones vienen del Cielo. Otras, la mayoría, de la Tierra. ¿De dónde vendrá esta?",
+  "bloques": [
+   {
+    "t": "img",
+    "ruta": "assets/cartas/895908bac59994.jpg",
+    "w": 1200,
+    "h": 1200
+   },
+   {
+    "t": "intro",
+    "html": "<p><em>Algunas canciones vienen del Cielo. Otras, la mayoría, de la Tierra. ¿De dónde vendrá esta?</em></p>",
+    "plano": "Algunas canciones vienen del Cielo. Otras, la mayoría, de la Tierra. ¿De dónde vendrá esta?"
+   },
+   {
+    "t": "texto",
+    "html": "<p>Hay determinados creadores que tienen algo especial, un elemento de genio, como puede ser Mozart, Bob Dylan en sus primeras canciones o Tesla inventando el motor de inducción de un solo vistazo. Tienen ese “algo” misterioso.</p><p>Bob Dylan, por ejemplo, no era un cantante ni guitarrista excepcional y, sin embargo, alcanzó una altura olímpica como compositor. Y eso es porque, a pesar de que su estructura no fuese nada del otro mundo, la sustancia sí que era literalmente de otro mundo.</p><p>La estructura tiene que ver con lo que haces. </p><p>La sustancia tiene que ver con quién eres mientras lo haces.</p><p>Dediqué toda mi infancia y adolescencia al desarrollo de mi estructura como músico, estudiando y practicando a diario. Pero no fue hasta la epifanía de mis 21 que esa estructura comenzó a expresar ese “algo”.</p><p>Las canciones que escribía antes estaban bien, pero eran una expresión del sufrimiento humano. Eran canciones de tristeza, de amor romántico y su consecuente desamor. Sin embargo, después de la epifanía, empezaron a llegar canciones que expresaban la parte divina de lo que soy, la verdad de lo que soy. Esa experiencia espiritual abrió en mi alma una ventana a Dios que ya nunca se cerró, aunque aún tiendo a correr las cortinas a diario.</p><p>El viernes publiqué <em>Todo al Blanco</em>. La escribí a mis 28, en cuestión de 20 minutos, sin casi darme cuenta. Sentí que era momento de componer una canción, me senté en mi sillón azul y directamente empecé a tocarla, tal y como está en la grabación. Fue como si la canción ya estuviese compuesta y simplemente se estuviese descargando en mi mente según la tocaba.</p><p>Cuando uno crea de esta manera, no está pensando en nada. Al no pensar en nada, el tiempo desaparece. Uno se aparta de en medio, y entonces es el poder creativo de Dios el que se manifiesta a través de lo que el cuerpo esté haciendo. Lo que uno crea desde ese lugar contendrá en sí la perfección del círculo.</p><p>A no ser que uno vuelva a meterse en medio, y eso es lo que ocurrió justo al final de <em>Todo al Blanco</em>. Surgió una parte bella, pero extraña y oscura, como una mariposa de la noche: una polilla. Sabía que no venía del Cielo que hay en mí. Pero aun así la dejé, porque no dejaba de ser una expresión poética de una parte noble de mí.</p><p>Unos años después le pregunté a Jesús qué le parecía esta canción y su respuesta fue: “No es una expresión perfecta de la luz, la última parte causará confusión.”</p><p>En esta canción se expresan las dos naturalezas que todos llevamos dentro: el ser humano que teme la luz y aun así no puede evitar ir hacia ella, y la vida eterna, brillando feliz en cada paso del camino.</p><p>Puedes escucharla aquí:</p>",
+    "plano": "Hay determinados creadores que tienen algo especial, un elemento de genio, como puede ser Mozart, Bob Dylan en sus primeras canciones o Tesla inventando el motor de inducción de un solo vistazo. Tienen ese “algo” misterioso. Bob Dylan, por ejemplo, no era un cantante ni guitarrista excepcional y, sin embargo, alcanzó una altura olímpica como compositor. Y eso es porque, a pesar de que su estructura no fuese nada del otro mundo, la sustancia sí que era literalmente de otro mundo. La estructura tiene que ver con lo que haces. La sustancia tiene que ver con quién eres mientras lo haces. Dediqué toda mi infancia y adolescencia al desarrollo de mi estructura como músico, estudiando y practicando a diario. Pero no fue hasta la epifanía de mis 21 que esa estructura comenzó a expresar ese “algo”. Las canciones que escribía antes estaban bien, pero eran una expresión del sufrimiento humano. Eran canciones de tristeza, de amor romántico y su consecuente desamor. Sin embargo, después de la epifanía, empezaron a llegar canciones que expresaban la parte divina de lo que soy, la verdad de lo que soy. Esa experiencia espiritual abrió en mi alma una ventana a Dios que ya nunca se cerró, aunque aún tiendo a correr las cortinas a diario. El viernes publiqué Todo al Blanco . La escribí a mis 28, en cuestión de 20 minutos, sin casi darme cuenta. Sentí que era momento de componer una canción, me senté en mi sillón azul y directamente empecé a tocarla, tal y como está en la grabación. Fue como si la canción ya estuviese compuesta y simplemente se estuviese descargando en mi mente según la tocaba. Cuando uno crea de esta manera, no está pensando en nada. Al no pensar en nada, el tiempo desaparece. Uno se aparta de en medio, y entonces es el poder creativo de Dios el que se manifiesta a través de lo que el cuerpo esté haciendo. Lo que uno crea desde ese lugar contendrá en sí la perfección del círculo. A no ser que uno vuelva a meterse en medio, y eso es lo que ocurrió justo al final de Todo al Blanco . Surgió una parte bella, pero extraña y oscura, como una mariposa de la noche: una polilla. Sabía que no venía del Cielo que hay en mí. Pero aun así la dejé, porque no dejaba de ser una expresión poética de una parte noble de mí. Unos años después le pregunté a Jesús qué le parecía esta canción y su respuesta fue: “No es una expresión perfecta de la luz, la última parte causará confusión.” En esta canción se expresan las dos naturalezas que todos llevamos dentro: el ser humano que teme la luz y aun así no puede evitar ir hacia ella, y la vida eterna, brillando feliz en cada paso del camino. Puedes escucharla aquí:"
+   },
+   {
+    "t": "boton",
+    "texto": "Todo al Blanco",
+    "href": "https://www.submithub.com/link/antonio-de-arcas-todo-al-blanco-dm"
+   },
+   {
+    "t": "firma",
+    "html": "<p><em>Con todo mi amor,</em></p><p><em>Antonio</em></p>",
+    "plano": "Con todo mi amor, Antonio"
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/b72f3c29d4b215.jpg",
+    "w": 1232,
+    "h": 928
+   }
+  ]
+ },
+ "en": {
+  "titulo": "Todo al Blanco",
+  "slug": "140-todo-al-blanco",
+  "origen": "https://mailchi.mp/antoniodearcas/140-en",
+  "portada": {
+   "ruta": "assets/cartas/05ae844befca74.jpg",
+   "w": 1200,
+   "h": 1200
+  },
+  "subtitulo": "And a review from Jesus",
+  "extracto": "Some songs come from Heaven. Others, most of them, come from Earth. Where might this one come from?",
+  "bloques": [
+   {
+    "t": "img",
+    "ruta": "assets/cartas/05ae844befca74.jpg",
+    "w": 1200,
+    "h": 1200
+   },
+   {
+    "t": "intro",
+    "html": "<p><em>Some songs come from Heaven. Others, most of them, come from Earth. Where might this one come from?</em></p>",
+    "plano": "Some songs come from Heaven. Others, most of them, come from Earth. Where might this one come from?"
+   },
+   {
+    "t": "texto",
+    "html": "<p>There are certain creators who have something special, an element of genius: Mozart, Bob Dylan in his early songs, Tesla seeing the induction motor in a single glance. They have that mysterious “something.”</p><p>Bob Dylan, for example, wasn’t an exceptional singer or guitarist, and yet he reached tremendous heights as a songwriter. That’s because, although his structure was nothing out of this world, the <strong>substance</strong> of his songs was literally out of this world.</p><p>Structure has to do with what you do. Substance has to do with <em>who you are</em> while you do it.</p><p>I devoted my entire childhood and adolescence to developing my musical structure, studying and practicing every day. But it wasn’t until my epiphany at 21 that this structure began to have that “something.”</p><p>The songs I wrote before were fine, but they were an expression of human suffering. They were songs of sadness, of romantic love and its inevitable heartbreaks. After the epiphany, however, songs began to arrive that expressed the divine part of what I am: the truth of what I am. That spiritual experience opened a window to God in my soul that has never closed, although I still tend to draw the curtains every day.</p><p>On Friday I released <em>Todo al Blanco</em>. I wrote it at 28, in a matter of twenty minutes, almost without noticing. I felt like writing a song, sat down in my blue armchair, and simply started playing it, exactly as it sounds on the recording. It was as if the song had already been written and was simply downloading into my mind as I played.</p><p>When you create this way, you’re not thinking about anything. And when you’re not thinking about anything, time disappears. You step out of the way, and then it is God’s creative power that manifests through whatever the body is doing. Whatever you create from that place will carry within it the perfection of the circle.</p><p>Unless you get in the way again, and that’s what happened right at the end of <em>Todo al Blanco</em>. A part emerged that was beautiful but dark, like a butterfly of the night: a moth. I knew it didn’t come from the Heaven within me. Even so, I left it in, because it was still a poetic expression of a noble part of me.</p><p>I once asked Jesus what He thought of this song, and His answer was: “It is not a perfect expression of the light; the last part will cause confusion.”</p><p>This song expresses the two natures we all carry within: the human being who fears the light and still moves irresistibly toward it, and eternal life, shining with joy at every step of the way.</p><p>You can listen to it here:</p>",
+    "plano": "There are certain creators who have something special, an element of genius: Mozart, Bob Dylan in his early songs, Tesla seeing the induction motor in a single glance. They have that mysterious “something.” Bob Dylan, for example, wasn’t an exceptional singer or guitarist, and yet he reached tremendous heights as a songwriter. That’s because, although his structure was nothing out of this world, the substance of his songs was literally out of this world. Structure has to do with what you do. Substance has to do with who you are while you do it. I devoted my entire childhood and adolescence to developing my musical structure, studying and practicing every day. But it wasn’t until my epiphany at 21 that this structure began to have that “something.” The songs I wrote before were fine, but they were an expression of human suffering. They were songs of sadness, of romantic love and its inevitable heartbreaks. After the epiphany, however, songs began to arrive that expressed the divine part of what I am: the truth of what I am. That spiritual experience opened a window to God in my soul that has never closed, although I still tend to draw the curtains every day. On Friday I released Todo al Blanco . I wrote it at 28, in a matter of twenty minutes, almost without noticing. I felt like writing a song, sat down in my blue armchair, and simply started playing it, exactly as it sounds on the recording. It was as if the song had already been written and was simply downloading into my mind as I played. When you create this way, you’re not thinking about anything. And when you’re not thinking about anything, time disappears. You step out of the way, and then it is God’s creative power that manifests through whatever the body is doing. Whatever you create from that place will carry within it the perfection of the circle. Unless you get in the way again, and that’s what happened right at the end of Todo al Blanco . A part emerged that was beautiful but dark, like a butterfly of the night: a moth. I knew it didn’t come from the Heaven within me. Even so, I left it in, because it was still a poetic expression of a noble part of me. I once asked Jesus what He thought of this song, and His answer was: “It is not a perfect expression of the light; the last part will cause confusion.” This song expresses the two natures we all carry within: the human being who fears the light and still moves irresistibly toward it, and eternal life, shining with joy at every step of the way. You can listen to it here:"
+   },
+   {
+    "t": "boton",
+    "texto": "Todo al Blanco",
+    "href": "https://www.submithub.com/link/antonio-de-arcas-todo-al-blanco-dm"
+   },
+   {
+    "t": "firma",
+    "html": "<p><em>With all my love,</em></p><p><em>Antonio</em></p>",
+    "plano": "With all my love, Antonio"
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/10475e9aa78313.jpg",
+    "w": 1200,
+    "h": 904
+   }
+  ]
+ }
+}

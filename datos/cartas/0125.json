@@ -1,0 +1,97 @@
+{
+ "num": 125,
+ "enviada": "2026-07-26",
+ "estado": "publicada",
+ "es": {
+  "titulo": "El agente",
+  "slug": "125-el-agente",
+  "origen": "https://mailchi.mp/antoniodearcas/125",
+  "portada": {
+   "ruta": "assets/cartas/3d40ade315e872.jpg",
+   "w": 1400,
+   "h": 933
+  },
+  "subtitulo": "¿Qué es responsabilidad tuya, y qué no?",
+  "extracto": "Para contemplar la Naturaleza no hace falta salir al campo, basta con observarte a ti mismo sin juicio. Por un momento, trata de mirar a tu cuerpo no como “yo,” sino como miras una nube o…",
+  "bloques": [
+   {
+    "t": "img",
+    "ruta": "assets/cartas/3d40ade315e872.jpg",
+    "w": 1400,
+    "h": 933
+   },
+   {
+    "t": "intro",
+    "html": "<p><em>Para contemplar la Naturaleza no hace falta salir al campo, basta con observarte a ti mismo sin juicio. Por un momento, trata de mirar a tu cuerpo no como “yo,” sino como miras una nube o una flor.</em></p>",
+    "plano": "Para contemplar la Naturaleza no hace falta salir al campo, basta con observarte a ti mismo sin juicio. Por un momento, trata de mirar a tu cuerpo no como “yo,” sino como miras una nube o una flor."
+   },
+   {
+    "t": "texto",
+    "html": "<p>¿Quién dirige los procesos químicos que están ocurriendo en tu cuerpo ahora mismo?</p><p>¿Quién el funcionamiento de tus órganos?</p><p>¿Quién dirige las sinapsis que deciden tus pensamientos? </p><p>¿Quién sana la herida en la piel? ¿Y la del alma?</p><p>¿Quién organiza la percepción?</p><p>¿Quién decidió leer esta carta?</p><p>¿Quién dirige la respiración?</p><p>¿Quién decide relajar la frente y los hombros ahora?</p><p>¿Quién es responsable de mover tus párpados?</p><p>¿Quién es responsable de las demás acciones que haces a lo largo del día?</p><p>El que elige la comida, la corta, la mastica y la digiere, ¿es siempre el mismo agente, o cambia?</p><p>¿Quién está a los mandos de tu vida?</p><p>¿Quién decide lo que ocurre en ella? Qué palabras dices, con quién te encuentras, qué decides comprar, cuándo decides rezar, cuándo te entra sueño, cuándo te despiertas…</p><p>¿Quién decide de qué eres responsable, y de qué no?</p><p>El ego es el pensamiento que interpreta lo que ocurre como “esto lo he hecho yo, esto soy yo, de esto soy culpable, de eso responsable, y si no lo hago yo, quedará sin hacerse.”</p><p>Mientras, el corazón sigue latiendo, el fotón viajando, el loto abriéndose, el músico componiendo y el bebé gestándose.</p>",
+    "plano": "¿Quién dirige los procesos químicos que están ocurriendo en tu cuerpo ahora mismo? ¿Quién el funcionamiento de tus órganos? ¿Quién dirige las sinapsis que deciden tus pensamientos? ¿Quién sana la herida en la piel? ¿Y la del alma? ¿Quién organiza la percepción? ¿Quién decidió leer esta carta? ¿Quién dirige la respiración? ¿Quién decide relajar la frente y los hombros ahora? ¿Quién es responsable de mover tus párpados? ¿Quién es responsable de las demás acciones que haces a lo largo del día? El que elige la comida, la corta, la mastica y la digiere, ¿es siempre el mismo agente, o cambia? ¿Quién está a los mandos de tu vida? ¿Quién decide lo que ocurre en ella? Qué palabras dices, con quién te encuentras, qué decides comprar, cuándo decides rezar, cuándo te entra sueño, cuándo te despiertas... ¿Quién decide de qué eres responsable, y de qué no? El ego es el pensamiento que interpreta lo que ocurre como “esto lo he hecho yo, esto soy yo, de esto soy culpable, de eso responsable, y si no lo hago yo, quedará sin hacerse.” Mientras, el corazón sigue latiendo, el fotón viajando, el loto abriéndose, el músico componiendo y el bebé gestándose."
+   },
+   {
+    "t": "firma",
+    "html": "<p><em>Con todo mi amor,</em></p><p><em>Antonio</em></p>",
+    "plano": "Con todo mi amor, Antonio"
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/93b9005a242c22.jpg",
+    "w": 1400,
+    "h": 933
+   },
+   {
+    "t": "texto",
+    "html": "<p>Cada mañana, de lunes a viernes, guío una meditación para contemplar nuestra naturaleza humana a la luz de nuestra naturaleza divina. Paz, ternura, alegría y silencio. Puedes probarlo aquí:</p>",
+    "plano": "Cada mañana, de lunes a viernes, guío una meditación para contemplar nuestra naturaleza humana a la luz de nuestra naturaleza divina. Paz, ternura, alegría y silencio. Puedes probarlo aquí:"
+   },
+   {
+    "t": "boton",
+    "texto": "Entre el Cielo y la Tierra",
+    "href": "https://www.skool.com/entre-el-cielo-y-la-tierra/about"
+   }
+  ]
+ },
+ "en": {
+  "titulo": "The Agent",
+  "slug": "125-the-agent",
+  "origen": "https://mailchi.mp/antoniodearcas/125-en",
+  "portada": {
+   "ruta": "assets/cartas/34ab793ea77c35.jpg",
+   "w": 1400,
+   "h": 933
+  },
+  "subtitulo": "What is your responsibility, and what is not?",
+  "extracto": "To contemplate Nature, you don't need to go out into the fields. Just observe yourself, without judgment. For a moment, try looking at your body not as \"me,\" but in the way you look at a…",
+  "bloques": [
+   {
+    "t": "img",
+    "ruta": "assets/cartas/34ab793ea77c35.jpg",
+    "w": 1400,
+    "h": 933
+   },
+   {
+    "t": "intro",
+    "html": "<p><em>To contemplate Nature, you don't need to go out into the fields. Just observe yourself, without judgment. For a moment, try looking at your body not as \"me,\" but in the way you look at a cloud or a flower.</em></p>",
+    "plano": "To contemplate Nature, you don't need to go out into the fields. Just observe yourself, without judgment. For a moment, try looking at your body not as \"me,\" but in the way you look at a cloud or a flower."
+   },
+   {
+    "t": "texto",
+    "html": "<p>Who is directing the chemical processes happening in your body right now?</p><p>Who is running your organs?</p><p>Who is directing the synapses that decide you next thought?</p><p>Who heals the wounds in the skin? And the ones in the soul?</p><p>Who decided to read this letter?</p><p>Who is doing the breathing?</p><p>Who decides to relax the forehead and shoulders?</p><p>Who is responsible for moving your eyelids?</p><p>Who is responsible for everything else you do throughout the day?</p><p>The one who chooses the food, cuts it, chews it and digests it, is it always the same agent, or does it change?</p><p>Who is at the controls of your life?</p><p>Who decides what happens in it? What words you say, who you run into, what you decide to buy, when you decide to pray, when sleep comes over you, when you wake up...</p><p>Who draws the line between what is under your control and what is not?</p><p>Who decides what you are responsible for, and what you are not?</p><p>The ego is the thought that interprets what happens as \"I did this, this is me, I am guilty of this, responsible for that, and if I don't do it, it will go undone.\"</p><p>Meanwhile, the heart keeps beating, the photon keeps traveling, the lotus keeps opening, the musician keeps composing, and the baby keeps forming.</p>",
+    "plano": "Who is directing the chemical processes happening in your body right now? Who is running your organs? Who is directing the synapses that decide you next thought? Who heals the wounds in the skin? And the ones in the soul? Who decided to read this letter? Who is doing the breathing? Who decides to relax the forehead and shoulders? Who is responsible for moving your eyelids? Who is responsible for everything else you do throughout the day? The one who chooses the food, cuts it, chews it and digests it, is it always the same agent, or does it change? Who is at the controls of your life? Who decides what happens in it? What words you say, who you run into, what you decide to buy, when you decide to pray, when sleep comes over you, when you wake up... Who draws the line between what is under your control and what is not? Who decides what you are responsible for, and what you are not? The ego is the thought that interprets what happens as \"I did this, this is me, I am guilty of this, responsible for that, and if I don't do it, it will go undone.\" Meanwhile, the heart keeps beating, the photon keeps traveling, the lotus keeps opening, the musician keeps composing, and the baby keeps forming."
+   },
+   {
+    "t": "firma",
+    "html": "<p><em>With all my love,</em></p><p><em>Antonio</em></p>",
+    "plano": "With all my love, Antonio"
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/841edf3eaac9b9.jpg",
+    "w": 1400,
+    "h": 933
+   }
+  ]
+ }
+}

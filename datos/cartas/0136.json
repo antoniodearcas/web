@@ -1,0 +1,105 @@
+{
+ "num": 136,
+ "enviada": "2026-10-11",
+ "estado": "publicada",
+ "es": {
+  "titulo": "Ángeles",
+  "slug": "136-angeles",
+  "origen": "https://mailchi.mp/antoniodearcas/136",
+  "portada": {
+   "ruta": "assets/cartas/6c5ab7e5d79cca.jpg",
+   "w": 1080,
+   "h": 781
+  },
+  "subtitulo": "La ayuda siempre llega",
+  "extracto": "La historia de Nimbo está llena de momentos donde la amabilísima Providencia se dio a conocer. Aquí va un ejemplo.",
+  "bloques": [
+   {
+    "t": "img",
+    "ruta": "assets/cartas/6c5ab7e5d79cca.jpg",
+    "w": 1080,
+    "h": 781
+   },
+   {
+    "t": "intro",
+    "html": "<p><em>La historia de Nimbo está llena de momentos donde la amabilísima Providencia se dio a conocer. Aquí va un ejemplo. </em></p>",
+    "plano": "La historia de Nimbo está llena de momentos donde la amabilísima Providencia se dio a conocer. Aquí va un ejemplo."
+   },
+   {
+    "t": "texto",
+    "html": "<p>Eran finales de marzo y había cuatro gatos en la playa. En una mano llevaba mi cámara-armatoste con su enorme trípode, en la otra una bolsa de playa con un espejo, agua, y otros utensilios que luego no fueron útiles, la guitarra al hombro, y vestido como para ir a una boda india. Por supuesto, mi ego andaba detrás dándome patadas en el culo y tirándome arena al pelo. Me sentía solo, muy solo, y también un poco ridículo, pero sabía que tenía una misión, así que avanzaba a paso firme-torpe por la arena.</p><p>Puse la cámara en el lugar exacto en el que la Voluntad quiso, mirando hacia la próxima puesta de sol, y me puse delante a tocar Nimbo.</p><p>No había llegado al segundo estribillo cuando vi que una señora se acercaba con una entrañable sonrisa. No creo que entendiese que estaba grabando, ya que entró en el plano y se quedó mirándome mientras tocaba de forma inaudible bajo el sonido del mar. “Vale, esta toma no es la buena…” me reí, y me puse a hablar con ella.</p><p>Me dijo que se había acercado porque había sentido la luz que iba conmigo. Me contó que ella estaba en Cantabria aquellos días buscando un local para Cáritas. Su nombre era Ángeles, y en su sonrisa vi a Cristo que venía a ayudarme.</p><p>Le expliqué que estaba grabando un videoclip y la invité a unirse. Accedió encantada, aunque lamentó no ir más arreglada. Le dije que iba perfecta: con aquel pañuelo en la cabeza como un turbante y el palo como bastón parecía un pastor bíblico. Grabé varios planos de ella sola, sonriendo a cámara, y finalmente me uní al plano para tocarle Nimbo. Al llegar la penúltima estrofa, sentí que en lugar de cantar debía abrazarla, y eso hice. Y así quedó plasmado el corazón del vídeo.</p><p>Lo puedes ver aquí:</p>",
+    "plano": "Eran finales de marzo y había cuatro gatos en la playa. En una mano llevaba mi cámara-armatoste con su enorme trípode, en la otra una bolsa de playa con un espejo, agua, y otros utensilios que luego no fueron útiles, la guitarra al hombro, y vestido como para ir a una boda india. Por supuesto, mi ego andaba detrás dándome patadas en el culo y tirándome arena al pelo. Me sentía solo, muy solo, y también un poco ridículo, pero sabía que tenía una misión, así que avanzaba a paso firme-torpe por la arena. Puse la cámara en el lugar exacto en el que la Voluntad quiso, mirando hacia la próxima puesta de sol, y me puse delante a tocar Nimbo. No había llegado al segundo estribillo cuando vi que una señora se acercaba con una entrañable sonrisa. No creo que entendiese que estaba grabando, ya que entró en el plano y se quedó mirándome mientras tocaba de forma inaudible bajo el sonido del mar. “Vale, esta toma no es la buena...” me reí, y me puse a hablar con ella. Me dijo que se había acercado porque había sentido la luz que iba conmigo. Me contó que ella estaba en Cantabria aquellos días buscando un local para Cáritas. Su nombre era Ángeles, y en su sonrisa vi a Cristo que venía a ayudarme. Le expliqué que estaba grabando un videoclip y la invité a unirse. Accedió encantada, aunque lamentó no ir más arreglada. Le dije que iba perfecta: con aquel pañuelo en la cabeza como un turbante y el palo como bastón parecía un pastor bíblico. Grabé varios planos de ella sola, sonriendo a cámara, y finalmente me uní al plano para tocarle Nimbo. Al llegar la penúltima estrofa, sentí que en lugar de cantar debía abrazarla, y eso hice. Y así quedó plasmado el corazón del vídeo. Lo puedes ver aquí:"
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/143e82b916dcdb.jpg",
+    "w": 640,
+    "h": 360,
+    "href": "https://youtu.be/pET0LidN2Go"
+   },
+   {
+    "t": "firma",
+    "html": "<p><em>Con todo mi amor,</em></p><p><em>Antonio</em></p>",
+    "plano": "Con todo mi amor, Antonio"
+   },
+   {
+    "t": "texto",
+    "html": "<p>PD: Lo que distingue al místico es la percepción espiritual; es conocer a Dios no como concepto, sino como sustancia viva dentro y fuera de uno. Ángeles reconoció la luz en mí a través de esa percepción, y yo la vi en ella y así la retraté. Esa capacidad para percibir la luz es lo que entrenamos deliberadamente en Entre el Cielo y la Tierra. Puedes probarlo aquí.</p>",
+    "plano": "PD: Lo que distingue al místico es la percepción espiritual; es conocer a Dios no como concepto, sino como sustancia viva dentro y fuera de uno. Ángeles reconoció la luz en mí a través de esa percepción, y yo la vi en ella y así la retraté. Esa capacidad para percibir la luz es lo que entrenamos deliberadamente en Entre el Cielo y la Tierra. Puedes probarlo aquí."
+   },
+   {
+    "t": "boton",
+    "texto": "Entre el Cielo y la Tierra",
+    "href": "https://www.skool.com/entre-el-cielo-y-la-tierra/about"
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/e83faee8da1042.jpg",
+    "w": 1400,
+    "h": 934
+   }
+  ]
+ },
+ "en": {
+  "titulo": "Ángeles",
+  "slug": "136-angeles",
+  "origen": "https://mailchi.mp/antoniodearcas/136-en",
+  "portada": {
+   "ruta": "assets/cartas/2e45c70a457bee.jpg",
+   "w": 1080,
+   "h": 781
+  },
+  "subtitulo": "Help always comes.",
+  "extracto": "The story of Nimbo is full of moments where the most gracious Providence made itself known. Here is one of them.",
+  "bloques": [
+   {
+    "t": "img",
+    "ruta": "assets/cartas/2e45c70a457bee.jpg",
+    "w": 1080,
+    "h": 781
+   },
+   {
+    "t": "intro",
+    "html": "<p><em>The story of Nimbo is full of moments where the most gracious Providence made itself known. Here is one of them.</em></p>",
+    "plano": "The story of Nimbo is full of moments where the most gracious Providence made itself known. Here is one of them."
+   },
+   {
+    "t": "texto",
+    "html": "<p>It was late March and there were four souls on the beach. In one hand I carried my hulking camera with its enormous tripod, in the other a beach bag with a mirror, water, and other items that turned out to be useless, my guitar over my shoulder, and dressed as if going to an Indian wedding. Naturally, my ego was walking behind me, kicking me in the butt and throwing sand in my hair. I felt alone and a little ridiculous, but I knew I had a mission, so I pressed on with a firm-clumsy step across the sand.</p><p>I set the camera in the exact spot where the Will wanted it, facing the approaching sunset, and stood in front of it to play Nimbo.</p><p>I had not reached the second chorus when I saw a woman approaching with a warm smile. I do not think she realized I was recording, because she walked into the frame and stood there watching me play, inaudibly beneath the sound of the sea. “Well, this take is not the one...” I laughed, and started talking to her.</p><p>She told me she had come over because she had felt the light that was with me. She told me she was in Cantabria those days looking for a premises for Cáritas. Her name was Ángeles, and in her smile I saw Christ coming to help me.</p><p>I explained that I was filming a music video and invited her to join. She agreed with delight, although she was sorry not to be better dressed. I told her she was perfect: with that scarf on her head like a turban and her walking stick she looked like a biblical shepherd. I filmed several shots of her alone, smiling at the camera, and finally joined the frame to play Nimbo for her. When the second-to-last verse arrived, I felt that instead of singing I should hug her, and that is what I did. And so the heart of the video was captured.</p><p>You can watch it here:</p>",
+    "plano": "It was late March and there were four souls on the beach. In one hand I carried my hulking camera with its enormous tripod, in the other a beach bag with a mirror, water, and other items that turned out to be useless, my guitar over my shoulder, and dressed as if going to an Indian wedding. Naturally, my ego was walking behind me, kicking me in the butt and throwing sand in my hair. I felt alone and a little ridiculous, but I knew I had a mission, so I pressed on with a firm-clumsy step across the sand. I set the camera in the exact spot where the Will wanted it, facing the approaching sunset, and stood in front of it to play Nimbo. I had not reached the second chorus when I saw a woman approaching with a warm smile. I do not think she realized I was recording, because she walked into the frame and stood there watching me play, inaudibly beneath the sound of the sea. “Well, this take is not the one...” I laughed, and started talking to her. She told me she had come over because she had felt the light that was with me. She told me she was in Cantabria those days looking for a premises for Cáritas. Her name was Ángeles, and in her smile I saw Christ coming to help me. I explained that I was filming a music video and invited her to join. She agreed with delight, although she was sorry not to be better dressed. I told her she was perfect: with that scarf on her head like a turban and her walking stick she looked like a biblical shepherd. I filmed several shots of her alone, smiling at the camera, and finally joined the frame to play Nimbo for her. When the second-to-last verse arrived, I felt that instead of singing I should hug her, and that is what I did. And so the heart of the video was captured. You can watch it here:"
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/143e82b916dcdb.jpg",
+    "w": 640,
+    "h": 360,
+    "href": "https://youtu.be/pET0LidN2Go"
+   },
+   {
+    "t": "firma",
+    "html": "<p><em>With all my love,</em></p><p><em>Antonio</em></p>",
+    "plano": "With all my love, Antonio"
+   }
+  ]
+ }
+}

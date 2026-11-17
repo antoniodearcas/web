@@ -1,0 +1,77 @@
+{
+ "num": 73,
+ "enviada": "2025-07-27",
+ "estado": "publicada",
+ "es": {
+  "titulo": "El amor por las patatas fritas",
+  "slug": "73-el-amor-por-las-patatas-fritas",
+  "origen": "https://mailchi.mp/astrofonda/73",
+  "portada": {
+   "ruta": "assets/cartas/2eb06a6dd8707b.jpg",
+   "w": 1400,
+   "h": 933
+  },
+  "subtitulo": "¿Qué buscamos realmente?",
+  "extracto": "“¿Por qué amo las patatas fritas?” me preguntó mientras esperaba con cierta ansia las patatas que había pedido. “¿Crees que “amar” es la palabra adecuada? ¿Realmente amas las patatas fritas…",
+  "bloques": [
+   {
+    "t": "img",
+    "ruta": "assets/cartas/2eb06a6dd8707b.jpg",
+    "w": 1400,
+    "h": 933
+   },
+   {
+    "t": "texto",
+    "html": "<p>“¿Por qué amo las patatas fritas?” me preguntó mientras esperaba con cierta ansia las patatas que había pedido.</p><p>“¿Crees que “amar” es la palabra adecuada? ¿Realmente amas las patatas fritas como me amas a mí, por ejemplo? Tal vez no ames las patatas fritas. Puede que ni siquiera las desees. Creo que lo que realmente amamos y anhelamos es el amor en sí, pero lo confundimos con las cosas del mundo, en este caso unas patatas. Por eso creemos amarlas. Pero amar algo, en su sentido más profundo, es ser uno con ello, reconocerse en ello.</p><p>Tal vez estemos hechos para amar el amor en sí, llámalo Dios, Ser o Universo. Tal vez estemos hechos para identificarnos con esa Realidad única y eterna, y no con las cosas múltiples y efímeras del mundo.</p><p>Pero encontrar a Dios parece difícil, así que en Su lugar amamos las cosas del mundo. </p><p>Pero es el amar las cosas del mundo lo que hace difícil encontrar a Dios.</p><p>Amamos estas cosas, pero nunca sacian nuestro anhelo más profundo. Tal vez sea porque, en el fondo, no son lo que realmente buscamos. Solo el amor puede colmar ese anhelo, porque solo el amor es real.</p><p>Las patatas fritas, por ejemplo, liberan neurotransmisores similares a los que se generan cuando amamos o nos sentimos amados. Eso puede dar lugar a una placentera ilusión de amor. Pero las patatas se acaban y, como todos los placeres que confundimos con la plenitud del amor, a menudo dejan tras de sí un sabor amargo. No porque sean malas en sí, sino porque no eran lo que nuestro corazón realmente anhelaba. </p><p>Solo el amor que aceptamos permanece. Solo él sana esta búsqueda de agua en espejismos, y ofrece, al fin, descanso.</p><p>Una vez sanada esa confusión, ese amor mal dirigido, esa identificación errónea, uno puede disfrutar de comer lo que quiera, sin culpa. <em>“Ama, y haz lo que quieras”</em> como decía San Agustín. </p><p>Por mi parte, nada de lo que hagas o dejes de hacer puede cambiar el amor que siento por ti.”</p><p>Y ahí, en ese abrazo físico y metafísico, el deseo y la culpa se esfumaron, y descubrió que, en realidad, no quería más patatas.</p>",
+    "plano": "“¿Por qué amo las patatas fritas?” me preguntó mientras esperaba con cierta ansia las patatas que había pedido. “¿Crees que “amar” es la palabra adecuada? ¿Realmente amas las patatas fritas como me amas a mí, por ejemplo? Tal vez no ames las patatas fritas. Puede que ni siquiera las desees. Creo que lo que realmente amamos y anhelamos es el amor en sí, pero lo confundimos con las cosas del mundo, en este caso unas patatas. Por eso creemos amarlas. Pero amar algo, en su sentido más profundo, es ser uno con ello, reconocerse en ello. Tal vez estemos hechos para amar el amor en sí, llámalo Dios, Ser o Universo. Tal vez estemos hechos para identificarnos con esa Realidad única y eterna, y no con las cosas múltiples y efímeras del mundo. Pero encontrar a Dios parece difícil, así que en Su lugar amamos las cosas del mundo. Pero es el amar las cosas del mundo lo que hace difícil encontrar a Dios. Amamos estas cosas, pero nunca sacian nuestro anhelo más profundo. Tal vez sea porque, en el fondo, no son lo que realmente buscamos. Solo el amor puede colmar ese anhelo, porque solo el amor es real. Las patatas fritas, por ejemplo, liberan neurotransmisores similares a los que se generan cuando amamos o nos sentimos amados. Eso puede dar lugar a una placentera ilusión de amor. Pero las patatas se acaban y, como todos los placeres que confundimos con la plenitud del amor, a menudo dejan tras de sí un sabor amargo. No porque sean malas en sí, sino porque no eran lo que nuestro corazón realmente anhelaba. Solo el amor que aceptamos permanece. Solo él sana esta búsqueda de agua en espejismos, y ofrece, al fin, descanso. Una vez sanada esa confusión, ese amor mal dirigido, esa identificación errónea, uno puede disfrutar de comer lo que quiera, sin culpa. “Ama, y haz lo que quieras” como decía San Agustín. Por mi parte, nada de lo que hagas o dejes de hacer puede cambiar el amor que siento por ti.” Y ahí, en ese abrazo físico y metafísico, el deseo y la culpa se esfumaron, y descubrió que, en realidad, no quería más patatas."
+   },
+   {
+    "t": "firma",
+    "html": "<p>Con todo mi amor,</p><p>A.</p>",
+    "plano": "Con todo mi amor, A."
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/c1cb3d3352565f.jpg",
+    "w": 1400,
+    "h": 933
+   }
+  ]
+ },
+ "en": {
+  "titulo": "The Love for French Fries",
+  "slug": "73-the-love-for-french-fries",
+  "origen": "https://mailchi.mp/astrofonda/73-en",
+  "portada": {
+   "ruta": "assets/cartas/7a36f43ffe60e9.jpg",
+   "w": 1400,
+   "h": 933
+  },
+  "subtitulo": "What are we really longing for?",
+  "extracto": "“Why do I love French fries?” she asked me as she waited, somewhat anxiously, for the fries she had ordered. “Do you think ‘love’ is the right word? Do you really love French fries the way…",
+  "bloques": [
+   {
+    "t": "img",
+    "ruta": "assets/cartas/7a36f43ffe60e9.jpg",
+    "w": 1400,
+    "h": 933
+   },
+   {
+    "t": "texto",
+    "html": "<p>“Why do I love French fries?” she asked me as she waited, somewhat anxiously, for the fries she had ordered.</p><p>“Do you think ‘love’ is the right word? Do you really love French fries the way you love me, for example? Maybe you don’t love French fries. Maybe you don’t even desire them. I believe that what we truly love and long for is love itself, but we confuse it with the things of the world, in this case some fries. That’s why we think we love them. But to love something, in its deepest sense, is to be one with it, to recognize ourselves in it.</p><p>Maybe we are made to love love itself, call it God, the Self, or the Universe. Maybe we are made to identify with that unique and eternal Reality, and not with the multiple and fleeting things of the world.</p><p>But finding God seems difficult, so instead we love the things of the world.</p><p>But it is that very love for the things of the world that makes it difficult to find God.</p><p>We love these things, but they never satisfy our deepest longing. Maybe because, deep down, they are not what we are truly seeking. Only love can fulfill that longing, because only love is real.</p><p>French fries, for example, release neurotransmitters similar to those produced when we love or feel loved. That can create a pleasurable illusion of love. But the fries come to an end and, like all pleasures we confuse with the fullness of love, they often leave behind a bitter aftertaste. Not because they are bad in themselves, but because they weren’t what our heart was truly yearning for.</p><p>Only the love we accept remains. Only it can heal this search for water in mirages, and finally offer rest.</p><p>Once that confusion, that misdirected love, that mistaken identification is healed, one can enjoy eating whatever one wants, without guilt. “Love, and do what you will,” as Saint Augustine said.</p><p>As for me, nothing you do or don’t do can change the love I feel for you.”</p><p>And there, in that physical and metaphysical embrace, desire and guilt vanished, and she discovered that, in truth, she didn’t want any more fries.</p>",
+    "plano": "“Why do I love French fries?” she asked me as she waited, somewhat anxiously, for the fries she had ordered. “Do you think ‘love’ is the right word? Do you really love French fries the way you love me, for example? Maybe you don’t love French fries. Maybe you don’t even desire them. I believe that what we truly love and long for is love itself, but we confuse it with the things of the world, in this case some fries. That’s why we think we love them. But to love something, in its deepest sense, is to be one with it, to recognize ourselves in it. Maybe we are made to love love itself, call it God, the Self, or the Universe. Maybe we are made to identify with that unique and eternal Reality, and not with the multiple and fleeting things of the world. But finding God seems difficult, so instead we love the things of the world. But it is that very love for the things of the world that makes it difficult to find God. We love these things, but they never satisfy our deepest longing. Maybe because, deep down, they are not what we are truly seeking. Only love can fulfill that longing, because only love is real. French fries, for example, release neurotransmitters similar to those produced when we love or feel loved. That can create a pleasurable illusion of love. But the fries come to an end and, like all pleasures we confuse with the fullness of love, they often leave behind a bitter aftertaste. Not because they are bad in themselves, but because they weren’t what our heart was truly yearning for. Only the love we accept remains. Only it can heal this search for water in mirages, and finally offer rest. Once that confusion, that misdirected love, that mistaken identification is healed, one can enjoy eating whatever one wants, without guilt. “Love, and do what you will,” as Saint Augustine said. As for me, nothing you do or don’t do can change the love I feel for you.” And there, in that physical and metaphysical embrace, desire and guilt vanished, and she discovered that, in truth, she didn’t want any more fries."
+   },
+   {
+    "t": "firma",
+    "html": "<p>With all my love,</p><p>A.</p>",
+    "plano": "With all my love, A."
+   },
+   {
+    "t": "img",
+    "ruta": "assets/cartas/a2bc96fb5a780c.jpg",
+    "w": 1400,
+    "h": 933
+   }
+  ]
+ }
+}
