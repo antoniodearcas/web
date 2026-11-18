@@ -292,3 +292,6 @@ header .marca{display:block}
 .testimonio{margin:0;font-style:normal;color:inherit;border-left:2px solid var(--line);padding-left:20px}
 .testimonio p+p{margin-top:.9em}
 .fila ul+p{margin-top:1.1em}
+/* Epígrafe al inicio de una sección */
+.epigrafe{margin:0 0 1.4em;padding-left:16px;border-left:2px solid var(--line);color:var(--soft)}
+.epigrafe .fuente{margin-top:.3em;font-style:normal;font-size:14px;letter-spacing:.04em;color:var(--muted)}
