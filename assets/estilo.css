@@ -299,3 +299,13 @@ header .marca{display:block}
 .subtitulo{font-weight:400;font-style:italic;font-size:20px;margin:1.6em 0 .5em;border:0;padding:0}
 .aviso{margin-top:1.4em;font-size:16px;color:var(--soft)}
 .ficha .detalle.cuotas{font-size:17px;color:var(--soft)}
+
+/* Acompañamiento: bandas de color por sección */
+.pag-acomp .contenido{overflow:hidden}
+.pag-acomp .fila{margin:0 -36px;padding:40px 36px;border-top:0}
+.pag-acomp .fila.t1{background:var(--b1)}
+.pag-acomp .fila.t2{background:var(--b2)}
+.pag-acomp .fila.t3{background:var(--b3)}
+.pag-acomp .video-h{margin-bottom:0}
+.pag-acomp .pie{margin-top:0}
+@media (max-width:900px){.pag-acomp .fila{margin:0 -18px;padding:32px 18px}}
