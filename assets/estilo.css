@@ -295,3 +295,7 @@ header .marca{display:block}
 /* Epígrafe al inicio de una sección */
 .epigrafe{margin:0 0 1.4em;padding-left:16px;border-left:2px solid var(--line);color:var(--soft)}
 .epigrafe .fuente{margin-top:.3em;font-style:normal;font-size:14px;letter-spacing:.04em;color:var(--muted)}
+
+.subtitulo{font-weight:400;font-style:italic;font-size:20px;margin:1.6em 0 .5em;border:0;padding:0}
+.aviso{margin-top:1.4em;font-size:16px;color:var(--soft)}
+.ficha .detalle.cuotas{font-size:17px;color:var(--soft)}
