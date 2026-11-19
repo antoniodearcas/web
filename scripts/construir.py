@@ -87,7 +87,7 @@ def pagina(lang, titulo, desc, cuerpo, actual, otra_url, clase='', imagen=None, 
     idiomas = ('<span class="idiomas"><a href="%s" lang="es" hreflang="es"%s>ES</a><span aria-hidden="true">·</span>'
                '<a href="%s" lang="en" hreflang="en"%s>EN</a></span>') % (
         es_url, ' aria-current="true"' if lang == 'es' else '', en_url, ' aria-current="true"' if lang == 'en' else '')
-    og = ''
+    og = '<meta property="og:image" content="https://antoniodearcas.com/assets/compartir.jpg">\n'
     if imagen:
         og = '<meta property="og:image" content="https://antoniodearcas.com/%s">\n' % imagen
     return f'''<!doctype html>
@@ -101,7 +101,8 @@ def pagina(lang, titulo, desc, cuerpo, actual, otra_url, clase='', imagen=None, 
 <meta property="og:description" content="{e(desc)}">
 {og}<link rel="canonical" href="https://antoniodearcas.com{canon}">
 <link rel="alternate" hreflang="{'en' if lang == 'es' else 'es'}" href="https://antoniodearcas.com{otra_url}">
-<link rel="icon" href="/assets/logo.png">
+<link rel="icon" href="/assets/favicon.png">
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
 <link rel="stylesheet" href="https://use.typekit.net/jjg8lnx.css">
 <link rel="stylesheet" href="/assets/estilo.css?v=23">
 <link rel="stylesheet" href="/assets/cartas.css?v={V}">
