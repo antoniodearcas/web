@@ -300,12 +300,12 @@ header .marca{display:block}
 .aviso{margin-top:1.4em;font-size:16px;color:var(--soft)}
 .ficha .detalle.cuotas{font-size:17px;color:var(--soft)}
 
-/* Acompañamiento: bandas de color por sección */
-.pag-acomp .contenido{overflow:hidden}
-.pag-acomp .fila{margin:0 -36px;padding:40px 36px;border-top:0}
+/* Acompañamiento: cada sección en su propia tarjeta */
+.pag-acomp .contenido{background:transparent;padding:0;border-radius:0;overflow:visible}
+.pag-acomp .video-h{border-radius:18px;margin-bottom:14px}
+.pag-acomp .fila{margin:0 0 14px;padding:36px 36px;border-top:0;border-radius:18px}
 .pag-acomp .fila.t1{background:var(--b1)}
-.pag-acomp .fila.t2{background:var(--b2)}
-.pag-acomp .fila.t3{background:var(--b3)}
-.pag-acomp .video-h{margin-bottom:0}
-.pag-acomp .pie{margin-top:0}
-@media (max-width:900px){.pag-acomp .fila{margin:0 -18px;padding:32px 18px}}
+.pag-acomp .fila.t2{background:#efeae2}
+.pag-acomp .fila.t3{background:var(--b4)}
+.pag-acomp .pie{margin-top:0;padding:16px 36px 24px;border-top:0;background:var(--b1);border-radius:18px}
+@media (max-width:900px){.pag-acomp .fila{margin-bottom:10px;padding:28px 18px}.pag-acomp .video-h{margin-bottom:10px}.pag-acomp .pie{padding:16px 18px 22px}}
