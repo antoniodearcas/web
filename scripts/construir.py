@@ -224,7 +224,7 @@ def construir(hoy, todas):
             d = os.path.join(base_dir, v['slug'])
             os.makedirs(d)
             with open(os.path.join(d, 'index.html'), 'w', encoding='utf-8') as f:
-                f.write(pagina(lang, f"{titulo_num(c, v)} · Esferas", desc, cuerpo, t['base'], otra_url,
+                f.write(pagina(lang, f"{titulo_num(c, v)} · " + ('Carta de Esferas por Antonio de Arcas' if lang == 'es' else 'An Esferas letter by Antonio de Arcas'), desc, cuerpo, t['base'], otra_url,
                                'pag-carta', p['ruta'] if p else None, url))
         # índice
         tarjetas = '\n'.join(tarjeta(c, c[lang], lang, i < 4) for i, c in enumerate(reversed(lista)))
