@@ -153,17 +153,21 @@ def alta(lang):
 </aside>'''
 
 
+def titulo_num(c, v):
+    return '%d. %s' % (c['num'], v['titulo'])
+
+
 def tarjeta(c, v, lang, prioridad=False):
     t = T[lang]
     p = v.get('portada')
     figura = img(p['ruta'], p['w'], p['h'], v['titulo'], vt='c%d' % c['num'], lazy=not prioridad) if p else \
         '<span class="sin-imagen" style="view-transition-name:c%d"><img src="/assets/esferas.png" alt=""></span>' % c['num']
     sub = v.get('subtitulo') or v.get('extracto') or ''
-    meta = 'Nº %d' % c['num'] + (' · ' + fecha(c.get('enviada'), lang) if c.get('enviada') else '')
+    meta = f'<span class="meta">{fecha(c["enviada"], lang)}</span>' if c.get('enviada') else ''
     return f'''<a class="tarjeta" href="{t['base']}{v['slug']}/">
   <span class="marco">{figura}</span>
-  <span class="meta">{meta}</span>
-  <h2 style="view-transition-name:t{c['num']}">{e(v['titulo'])}</h2>
+  {meta}
+  <h2 style="view-transition-name:t{c['num']}">{e(titulo_num(c, v))}</h2>
   <span class="extracto">{e(sub)}</span>
 </a>'''
 
@@ -193,7 +197,7 @@ def construir(hoy, todas):
                     if b['t'] == 'img' and b['ruta'] == p['ruta']:
                         bloques.pop(j)
                         break
-            meta = 'Nº %d' % c['num'] + (' · ' + fecha(c.get('enviada'), lang) if c.get('enviada') else '')
+            meta = f'<p class="meta">{fecha(c["enviada"], lang)}</p>' if c.get('enviada') else ''
             portada = f'<figure class="lamina">{img(p["ruta"], p["w"], p["h"], v["titulo"], vt="c%d" % c["num"], lazy=False)}</figure>' if p else ''
             sub = f'<p class="subtitulo">{e(v["subtitulo"])}</p>' if v.get('subtitulo') else ''
 
@@ -201,12 +205,12 @@ def construir(hoy, todas):
                 if not x:
                     return '<span></span>'
                 vv = x[lang]
-                return f'<a class="{cls}" href="{t["base"]}{vv["slug"]}/"><span class="rot">{rot}</span><span class="tit">{e(vv["titulo"])}</span></a>'
+                return f'<a class="{cls}" href="{t["base"]}{vv["slug"]}/"><span class="rot">{rot}</span><span class="tit">{e(titulo_num(x, vv))}</span></a>'
             cuerpo = f'''<main class="carta-pag">
 <article>
   <a class="volver" href="{t['base']}">← {t['volver']}</a>
-  <p class="meta">{meta}</p>
-  <h1 style="view-transition-name:t{c['num']}">{e(v['titulo'])}</h1>
+  {meta}
+  <h1 style="view-transition-name:t{c['num']}">{e(titulo_num(c, v))}</h1>
   {sub}
   {portada}
   <div class="cuerpo">
@@ -220,7 +224,7 @@ def construir(hoy, todas):
             d = os.path.join(base_dir, v['slug'])
             os.makedirs(d)
             with open(os.path.join(d, 'index.html'), 'w', encoding='utf-8') as f:
-                f.write(pagina(lang, f"{v['titulo']} · Esferas", desc, cuerpo, t['base'], otra_url,
+                f.write(pagina(lang, f"{titulo_num(c, v)} · Esferas", desc, cuerpo, t['base'], otra_url,
                                'pag-carta', p['ruta'] if p else None, url))
         # índice
         tarjetas = '\n'.join(tarjeta(c, c[lang], lang, i < 4) for i, c in enumerate(reversed(lista)))
