@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Entre el Cielo y la Tierra · Antonio de Arcas</title>
+<link rel="icon" href="/assets/favicon.png">
+<style>
+body{font-family:Georgia,serif;text-align:center;padding:4em 1.2em;color:#333;line-height:1.5}
+.boton{display:inline-block;margin:1.2em 0 .6em;padding:.8em 1.6em;border-radius:999px;background:#1f3a6b;color:#fff;text-decoration:none}
+.web{color:#1f3a6b;font-size:.9em}
+</style>
+</head>
+<body>
+<p>Abriendo WhatsApp…</p>
+<p><a class="boton" id="app" href="#">Abrir WhatsApp</a></p>
+<p><a class="web" id="web" href="#">¿No tienes la aplicación? Escríbeme desde WhatsApp Web</a></p>
+<script>
+// Hasta el 6 de enero de 2027 (hora de Madrid), mensaje de Adviento; desde el 7, mensaje general.
+(function () {
+  var tel = "34619344973";
+  var hoy;
+  try { hoy = new Intl.DateTimeFormat("en-CA", { timeZone: "Europe/Madrid" }).format(new Date()); }
+  catch (e) { hoy = new Date().toISOString().slice(0, 10); }
+  var texto = hoy < "2027-01-07" ? "Hola%20Antonio%2C%20vengo%20de%20Esferas%20y%20me%20gustar%C3%ADa%20vivir%20el%20Adviento%20en%20Entre%20el%20Cielo%20y%20la%20Tierra" : "Hola%20Antonio%2C%20vengo%20de%20Esferas%20y%20me%20gustar%C3%ADa%20saber%20m%C3%A1s%20sobre%20la%20comunidad%20Entre%20el%20Cielo%20y%20la%20Tierra";
+
+  var app = "whatsapp://send?phone=" + tel + "&text=" + texto;   // abre la aplicación directamente
+  var waMe = "https://wa.me/" + tel + "?text=" + texto;           // respaldo si no hay aplicación
+  var webWa = "https://web.whatsapp.com/send?phone=" + tel + "&text=" + texto;
+  var movil = /Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
+
+  document.getElementById("app").href = app;
+  document.getElementById("web").href = movil ? waMe : webWa;
+
+  var salio = false;
+  function fuera() { salio = true; }
+  document.addEventListener("visibilitychange", function () { if (document.hidden) fuera(); });
+  window.addEventListener("pagehide", fuera);
+  window.addEventListener("blur", fuera);
+
+  window.location.href = app;
+
+  // En el móvil, si a los 2,5 s seguimos aquí, no hay aplicación: vamos a wa.me.
+  // En el ordenador no se redirige solo, para no cerrar el aviso del navegador; quedan los botones.
+  if (movil) {
+    setTimeout(function () { if (!salio && !document.hidden) window.location.replace(waMe); }, 2500);
+  }
+})();
+</script>
+</body>
+</html>
