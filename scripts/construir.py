@@ -10,7 +10,7 @@ from email.utils import format_datetime
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from esferas import RAIZ, cargar_todas
 
-V = '3'  # versión de css/js
+V = '4'  # versión de css/js
 SITIO = 'https://antoniodearcas.com'
 AUTOR = {'@type': 'Person', '@id': SITIO + '/#antonio', 'name': 'Antonio de Arcas', 'url': SITIO + '/',
          'sameAs': ['https://instagram.com/adearcas', 'https://www.youtube.com/@adearcas']}
@@ -249,6 +249,7 @@ def pagina_sobre(lang):
         d = json.load(f)
     v, otro = d[lang], d['en' if lang == 'es' else 'es']
     foto = 'assets/foto.jpg'
+    c = v['contacto']
     cuerpo = f"""<main class="carta-pag sobre">
 <article>
   <h1>{e(v['h1'])}</h1>
@@ -258,6 +259,11 @@ def pagina_sobre(lang):
 <div class="intro">{v['intro']}</div>
 {chr(10).join(v['cuerpo'])}
   </div>
+  <aside class="contacto">
+    <h2>{e(c['t'])}</h2>
+    <p>{e(c['p'])}</p>
+    <p class="botones"><a class="pastilla" href="{e(c['wa'])}" target="_blank" rel="noopener">{e(c['wa_t'])}</a><a class="pastilla clara" href="{e(c['mail'])}">{e(c['mail_t'])}</a></p>
+  </aside>
 </article>
 {alta(lang)}
 </main>"""
