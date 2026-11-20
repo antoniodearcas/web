@@ -266,7 +266,7 @@ def pagina_sobre(lang):
     <p class="botones"><a class="pastilla clara" href="{e(c['mail'])}">{e(c['mail_t'])}</a></p>
   </aside>
 </article>
-{alta(lang)}
+{alta(lang, 'Cada domingo, una carta en tu correo. Gratis.' if lang == 'es' else 'Every Sunday, a letter in your inbox. Free.')}
 </main>"""
     persona = dict(AUTOR, description=v['desc'], jobTitle=v['sub'],
                    image=SITIO + '/' + foto,
@@ -361,11 +361,11 @@ def bloque_html(b):
     return b['html']
 
 
-def alta(lang):
+def alta(lang, texto=None):
     t = T[lang]
     return f'''<aside class="alta-carta">
   <h2>{t['alta_t']}</h2>
-  <p>{t['alta_p']}</p>
+  <p>{texto or t['alta_p']}</p>
   <form class="form alta" novalidate data-hook="{HOOK}" data-idioma="{t['idioma']}" data-m-email="{e(t['m_email'])}" data-m-priv="{e(t['m_priv'])}" data-m-env="{e(t['m_env'])}" data-m-ok="{e(t['m_ok'])}" data-m-err="{e(t['m_err'])}">
     <input type="email" name="Email" placeholder="{t['email']}" autocomplete="email" required aria-label="{t['email']}">
     <label class="check"><input type="checkbox" name="Newsletter" required> <span>{t['acepto']}</span></label>
