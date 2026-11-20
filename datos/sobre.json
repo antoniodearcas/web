@@ -26,7 +26,8 @@
    "wa": "https://wa.me/34619344973?text=Hola%2C%20Antonio.%20Vengo%20de%20tu%20p%C3%A1gina%20web%20y%20me%20gustar%C3%ADa%20agendar%20una%20llamada%20gratuita%20contigo.",
    "wa_t": "Escríbeme por WhatsApp",
    "mail": "mailto:yo@antoniodearcas.com?subject=Llamada%20gratuita&body=Hola%2C%20Antonio.%20Vengo%20de%20tu%20p%C3%A1gina%20web%20y%20me%20gustar%C3%ADa%20agendar%20una%20llamada%20gratuita%20contigo.",
-   "mail_t": "yo@antoniodearcas.com"
+   "mail_t": "yo@antoniodearcas.com",
+   "o_t": "o escríbeme a mi email"
   }
  },
  "en": {
@@ -56,7 +57,8 @@
    "wa": "https://wa.me/34619344973?text=Hi%20Antonio.%20I%20found%20you%20through%20your%20website%20and%20I%27d%20like%20to%20schedule%20a%20free%20call%20with%20you.",
    "wa_t": "Message me on WhatsApp",
    "mail": "mailto:yo@antoniodearcas.com?subject=Free%20call&body=Hi%20Antonio.%20I%20found%20you%20through%20your%20website%20and%20I%27d%20like%20to%20schedule%20a%20free%20call%20with%20you.",
-   "mail_t": "yo@antoniodearcas.com"
+   "mail_t": "yo@antoniodearcas.com",
+   "o_t": "or write to my email"
   }
  }
 }

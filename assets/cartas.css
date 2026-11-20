@@ -94,3 +94,5 @@ body.cartas>footer.pie a{color:var(--muted)}
 .contacto p{max-width:460px;margin:0 auto}
 .contacto .botones{margin-top:8px}
 .contacto .botones .pastilla{margin:14px 5px 0}
+.contacto .o{margin-top:14px;font-style:italic;font-size:15.5px;color:var(--muted)}
+.contacto .o+.botones .pastilla{margin-top:6px}

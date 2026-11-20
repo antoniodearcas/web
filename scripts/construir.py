@@ -10,7 +10,7 @@ from email.utils import format_datetime
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from esferas import RAIZ, cargar_todas
 
-V = '4'  # versión de css/js
+V = '5'  # versión de css/js
 SITIO = 'https://antoniodearcas.com'
 AUTOR = {'@type': 'Person', '@id': SITIO + '/#antonio', 'name': 'Antonio de Arcas', 'url': SITIO + '/',
          'sameAs': ['https://instagram.com/adearcas', 'https://www.youtube.com/@adearcas']}
@@ -262,7 +262,9 @@ def pagina_sobre(lang):
   <aside class="contacto">
     <h2>{e(c['t'])}</h2>
     <p>{e(c['p'])}</p>
-    <p class="botones"><a class="pastilla" href="{e(c['wa'])}" target="_blank" rel="noopener">{e(c['wa_t'])}</a><a class="pastilla clara" href="{e(c['mail'])}">{e(c['mail_t'])}</a></p>
+    <p class="botones"><a class="pastilla" href="{e(c['wa'])}" target="_blank" rel="noopener">{e(c['wa_t'])}</a></p>
+    <p class="o">{e(c['o_t'])}</p>
+    <p class="botones"><a class="pastilla clara" href="{e(c['mail'])}">{e(c['mail_t'])}</a></p>
   </aside>
 </article>
 {alta(lang)}
