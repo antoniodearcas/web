@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Entre el Cielo y la Tierra · Antonio de Arcas</title>
+<link rel="icon" href="/assets/favicon.png">
+<script>
+// Hasta el 6 de enero de 2027 (hora de Madrid), mensaje de Adviento; desde el 7, mensaje general.
+(function () {
+  var adviento = "https://wa.me/34619344973?text=Hola%20Antonio%2C%20vengo%20de%20YouTube%20y%20me%20gustar%C3%ADa%20vivir%20el%20Adviento%20en%20Entre%20el%20Cielo%20y%20la%20Tierra";
+  var general = "https://wa.me/34619344973?text=Hola%20Antonio%2C%20vengo%20de%20YouTube%20y%20me%20gustar%C3%ADa%20saber%20m%C3%A1s%20sobre%20la%20comunidad%20Entre%20el%20Cielo%20y%20la%20Tierra";
+  var hoy;
+  try {
+    hoy = new Intl.DateTimeFormat("en-CA", { timeZone: "Europe/Madrid" }).format(new Date());
+  } catch (e) {
+    hoy = new Date().toISOString().slice(0, 10);
+  }
+  var destino = hoy < "2027-01-07" ? adviento : general;
+  window.location.replace(destino);
+})();
+</script>
+<style>body{font-family:Georgia,serif;text-align:center;padding:4em 1em;color:#333}a{color:#1f3a6b}</style>
+</head>
+<body>
+<p>Abriendo WhatsApp…</p>
+<p><a href="https://wa.me/34619344973?text=Hola%20Antonio%2C%20vengo%20de%20YouTube%20y%20me%20gustar%C3%ADa%20saber%20m%C3%A1s%20sobre%20la%20comunidad%20Entre%20el%20Cielo%20y%20la%20Tierra">Si no se abre, pulsa aquí para escribirme</a></p>
+</body>
+</html>
