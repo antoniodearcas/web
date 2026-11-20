@@ -15,7 +15,7 @@ SITIO = 'https://antoniodearcas.com'
 AUTOR = {'@type': 'Person', '@id': SITIO + '/#antonio', 'name': 'Antonio de Arcas', 'url': SITIO + '/',
          'sameAs': ['https://instagram.com/adearcas', 'https://www.youtube.com/@adearcas']}
 # Páginas fijas que entran en el sitemap (las de redirección llevan noindex y no van)
-FIJAS = ['/', '/ofertas/', '/acompanamiento/', '/musica/', '/conciertos/', '/privacidad/']
+FIJAS = ['/', '/sobre/', '/en/about/', '/ofertas/', '/acompanamiento/', '/musica/', '/conciertos/', '/privacidad/']
 HOOK = 'https://hook.us2.make.com/xwe37csw8iec3acyn64el68eee1eo6qp'
 MESES = {'es': 'enero febrero marzo abril mayo junio julio agosto septiembre octubre noviembre diciembre'.split(),
          'en': 'January February March April May June July August September October November December'.split()}
@@ -23,11 +23,11 @@ MESES = {'es': 'enero febrero marzo abril mayo junio julio agosto septiembre oct
 T = {
     'es': {
         'base': '/cartas/', 'otra': '/en/letters/', 'lang': 'es', 'nombre': 'Cartas',
-        'titulo_indice': 'Cartas', 'desc_indice': 'Todas las cartas de Esferas, la carta que escribo cada domingo.',
+        'titulo_indice': 'Archivo de cartas', 'desc_indice': 'Todas las cartas de Esferas, la carta que escribo cada domingo.',
         'intro_indice': 'Una carta cada domingo, escrita desde la brecha en nuestra alma que parece separarnos del amor de Dios. Aquí puedes leer las que ya han salido.',
         'recibir': 'Recibe la próxima por email',
         'volver': 'Todas las cartas', 'anterior': 'Anterior', 'siguiente': 'Siguiente',
-        'nav': [('/', 'Esferas'), ('/cartas/', 'Cartas'), ('/ofertas/', 'Ofertas'), ('/musica/', 'Música')],
+        'nav': [('/', 'Esferas'), ('/cartas/', 'Archivo de cartas'), ('/ofertas/', 'Ofertas'), ('/musica/', 'Música'), ('/sobre/', 'Sobre mí')],
         'alta_t': 'Recibe la próxima carta',
         'alta_p': 'Cada domingo, una carta como esta en tu correo. Gratis.',
         'email': 'Email', 'acepto': 'Acepto la <a href="/privacidad/">política de privacidad</a>', 'boton': 'Me uno',
@@ -40,11 +40,11 @@ T = {
     },
     'en': {
         'base': '/en/letters/', 'otra': '/cartas/', 'lang': 'en', 'nombre': 'Letters',
-        'titulo_indice': 'Letters', 'desc_indice': 'Every letter of Esferas, the letter I write each Sunday.',
+        'titulo_indice': 'Letter archive', 'desc_indice': 'Every letter of Esferas, the letter I write each Sunday.',
         'intro_indice': 'A letter every Sunday, written from the gap in our soul that seems to separate us from the love of God. Here are the ones already sent.',
         'recibir': 'Get the next one by email',
         'volver': 'All letters', 'anterior': 'Previous', 'siguiente': 'Next',
-        'nav': [('/', 'Esferas'), ('/en/letters/', 'Letters'), ('/ofertas/', 'Offers'), ('/musica/', 'Music')],
+        'nav': [('/', 'Esferas'), ('/en/letters/', 'Letter archive'), ('/ofertas/', 'Offers'), ('/musica/', 'Music'), ('/en/about/', 'About')],
         'alta_t': 'Receive the next letter',
         'alta_p': 'Every Sunday, a letter like this one in your inbox. Free.',
         'email': 'Email', 'acepto': 'I accept the <a href="/privacidad/">privacy policy</a>', 'boton': 'Join',
@@ -261,8 +261,7 @@ def pagina_sobre(lang):
   </div>
   <aside class="contacto">
     <h2>{e(c['t'])}</h2>
-    <p>{e(c['p'])}</p>
-    <p class="botones"><a class="pastilla" href="{e(c['wa'])}" target="_blank" rel="noopener">{e(c['wa_t'])}</a></p>
+{('    <p>' + e(c['p']) + '</p>' + chr(10)) if c.get('p') else ''}    <p class="botones"><a class="pastilla" href="{e(c['wa'])}" target="_blank" rel="noopener">{e(c['wa_t'])}</a></p>
     <p class="o">{e(c['o_t'])}</p>
     <p class="botones"><a class="pastilla clara" href="{e(c['mail'])}">{e(c['mail_t'])}</a></p>
   </aside>
