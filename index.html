@@ -3,18 +3,23 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Antonio de Arcas</title>
+<title>Antonio de Arcas · Músico, escritor y contemplativo</title>
 <meta name="description" content="Esferas: una carta cada domingo, escrita desde la brecha en nuestra alma que parece separarnos del amor de Dios.">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Antonio de Arcas">
+<meta property="og:title" content="Antonio de Arcas · Músico, escritor y contemplativo">
 <meta property="og:description" content="Esferas: una carta cada domingo, escrita desde la brecha en nuestra alma que parece separarnos del amor de Dios.">
 <meta property="og:url" content="https://antoniodearcas.com/">
 <meta property="og:image" content="https://antoniodearcas.com/assets/compartir.jpg">
 <meta name="twitter:card" content="summary_large_image">
+<link rel="canonical" href="https://antoniodearcas.com/">
+<meta property="og:site_name" content="Antonio de Arcas">
+<meta property="og:locale" content="es_ES">
+<link rel="alternate" type="application/rss+xml" title="Esferas · Cartas de Antonio de Arcas" href="/cartas/feed.xml">
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "WebSite", "@id": "https://antoniodearcas.com/#web", "url": "https://antoniodearcas.com/", "name": "Antonio de Arcas", "inLanguage": ["es", "en"], "publisher": {"@id": "https://antoniodearcas.com/#antonio"}}, {"@type": "Person", "@id": "https://antoniodearcas.com/#antonio", "name": "Antonio de Arcas", "url": "https://antoniodearcas.com/", "description": "Músico, escritor y contemplativo. Escribe Esferas, una carta cada domingo.", "sameAs": ["https://instagram.com/adearcas", "https://www.youtube.com/@adearcas"]}, {"@type": "Blog", "@id": "https://antoniodearcas.com/cartas/#esferas", "name": "Esferas", "url": "https://antoniodearcas.com/cartas/", "author": {"@id": "https://antoniodearcas.com/#antonio"}}]}</script>
 <link rel="icon" href="/assets/favicon.png">
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
 <link rel="stylesheet" href="https://use.typekit.net/jjg8lnx.css">
-<link rel="stylesheet" href="assets/estilo.css?v=23">
+<link rel="stylesheet" href="assets/estilo.css?v=24">
 </head>
 <body class="tarjetas con-header">
 <header><a href="./" aria-label="Antonio de Arcas, inicio"><img class="logo" src="assets/logo.png" alt=""><img class="marca" src="assets/marca.png" alt="Antonio de Arcas"></a><button class="abrir" type="button" aria-label="Abrir menú" aria-expanded="false" aria-controls="menu"><span></span><span></span></button><nav class="menu" id="menu" aria-label="Secciones"><a href="./" aria-current="page">Esferas</a> <a href="cartas/">Cartas</a> <a href="ofertas/">Ofertas</a> <a href="musica/">Música</a></nav></header>
@@ -57,12 +62,13 @@
 (function(){
   var f=document.getElementById('alta'), m=f.querySelector('.mensaje'), b=f.querySelector('button');
   var HOOK='https://hook.us2.make.com/xwe37csw8iec3acyn64el68eee1eo6qp';
+  var t0=Date.now();
   f.addEventListener('submit',function(e){
     e.preventDefault();
     var email=f.Email.value.trim();
     if(!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)){m.textContent='Escribe un email válido.';f.Email.focus();return;}
     if(!f.Newsletter.checked){m.textContent='Para unirte, acepta la política de privacidad.';return;}
-    if(f.website.value){m.textContent='Gracias.';return;}
+    if(f.website.value||Date.now()-t0<2500){f.reset();m.textContent='Gracias por unirte. Pronto te llegará mi carta de bienvenida.';return;}
     b.disabled=true; m.textContent='Enviando...';
     var datos=new URLSearchParams({Email:email,Idioma:f.Idioma.value||'Español',Newsletter:'on'});
     fetch(HOOK,{method:'POST',mode:'no-cors',body:datos}).then(function(){

@@ -1,0 +1,21 @@
+# antoniodearcas.com
+# Todo el sitio está abierto a buscadores y asistentes de IA
+# (las páginas de redirección llevan su propio noindex).
+
+User-agent: *
+Allow: /
+
+# Asistentes de IA, permitidos de forma explícita
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://antoniodearcas.com/sitemap.xml
