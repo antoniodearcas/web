@@ -243,6 +243,36 @@ def pagina_404():
     return h.replace('<meta name="viewport"', '<meta name="robots" content="noindex">\n<meta name="viewport"', 1)
 
 
+def pagina_sobre(lang):
+    """Página Sobre mí (texto en datos/sobre.json). Define a Antonio para buscadores e IA."""
+    with open(os.path.join(RAIZ, 'datos', 'sobre.json'), encoding='utf-8') as f:
+        d = json.load(f)
+    v, otro = d[lang], d['en' if lang == 'es' else 'es']
+    foto = 'assets/foto.jpg'
+    cuerpo = f"""<main class="carta-pag sobre">
+<article>
+  <h1>{e(v['h1'])}</h1>
+  <p class="subtitulo">{e(v['sub'])}</p>
+  <figure class="lamina">{img(foto, 1400, 922, v['alt'], lazy=False)}</figure>
+  <div class="cuerpo">
+<div class="intro">{v['intro']}</div>
+{chr(10).join(v['cuerpo'])}
+  </div>
+</article>
+{alta(lang)}
+</main>"""
+    persona = dict(AUTOR, description=v['desc'], jobTitle=v['sub'],
+                   image=SITIO + '/' + foto,
+                   alumniOf={'@type': 'CollegeOrUniversity', 'name': 'Berklee College of Music'},
+                   knowsAbout=['Christian mysticism', 'Advaita Vedanta', 'A Course in Miracles', 'Taoism', 'Zen', 'Music'])
+    ld = {'@context': 'https://schema.org', '@type': 'ProfilePage', 'url': SITIO + v['url'], 'inLanguage': lang,
+          'mainEntity': persona}
+    h = pagina(lang, v['titulo'], v['desc'], cuerpo, v['url'], otro['url'], 'pag-carta pag-sobre', foto, v['url'],
+               par=True, tipo='profile', ld=ld)
+    os.makedirs(os.path.join(RAIZ, v['url'].strip('/')), exist_ok=True)
+    escribir(os.path.join(v['url'].strip('/'), 'index.html'), h)
+
+
 def visible(c, hoy, todas):
     if todas:
         return c.get('estado') != 'descartada'
@@ -442,6 +472,8 @@ def construir(hoy, todas):
         publicadas[lang] = lista
         print(lang, len(lista), 'cartas')
     escribir('404.html', pagina_404())
+    pagina_sobre('es')
+    pagina_sobre('en')
     escribir('sitemap.xml', sitemap(publicadas))
     escribir('llms.txt', llms(publicadas))
 
