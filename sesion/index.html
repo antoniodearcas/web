@@ -66,6 +66,9 @@ Cal.ns.sesion("ui", {
   layout: "month_view",
   cssVarsPerTheme: { light: { "cal-brand": "#5c7484" } }
 });
+["bookingSuccessfulV2","bookingSuccessful"].forEach(function (a) {
+  Cal.ns.sesion("on", { action: a, callback: function () { setTimeout(function () { location.href = "/gracias/"; }, 1200); } });
+});
 </script>
 </body>
 </html>
