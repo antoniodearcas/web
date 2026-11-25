@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sesión de acompañamiento · Antonio de Arcas</title>
+<meta name="description" content="Reserva tu sesión de acompañamiento con Antonio de Arcas: una hora por videollamada.">
+<meta name="robots" content="noindex">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Sesión de acompañamiento · Antonio de Arcas">
+<meta property="og:description" content="Elige el día y la hora de tu sesión: una hora por videollamada.">
+<meta property="og:url" content="https://antoniodearcas.com/sesion/">
+<meta property="og:image" content="https://antoniodearcas.com/assets/compartir.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="canonical" href="https://antoniodearcas.com/sesion/">
+<meta property="og:site_name" content="Antonio de Arcas">
+<meta property="og:locale" content="es_ES">
+<link rel="icon" href="/assets/favicon.png">
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+<link rel="stylesheet" href="https://use.typekit.net/jjg8lnx.css">
+<link rel="stylesheet" href="../assets/estilo.css?v=32">
+<style>
+.pag-sesion .reserva{margin:8px 0 32px;min-height:680px}
+.pag-sesion .reserva iframe{border-radius:12px}
+.pag-sesion .alternativa{font-size:15px;color:var(--muted);margin-bottom:36px}
+</style>
+</head>
+<body class="tarjetas con-header pag-sesion">
+<header><a href="../" aria-label="Antonio de Arcas, inicio"><img class="logo" src="../assets/logo.png" alt=""><img class="marca" src="../assets/marca.png" alt="Antonio de Arcas"></a><button class="abrir" type="button" aria-label="Abrir menú" aria-expanded="false" aria-controls="menu"><span></span><span></span></button><nav class="menu" id="menu" aria-label="Secciones"><a href="../">Esferas</a> <a href="../cartas/">Archivo de cartas</a> <a href="../ofertas/">Ofertas</a> <a href="../musica/">Música</a> <a href="../sobre/">Sobre mí</a></nav></header>
+<div class="lienzo">
+  <aside class="carta retrato">
+    <div class="arriba">
+      <nav><a href="../musica/">Música</a> / <a href="https://instagram.com/adearcas" target="_blank" rel="noopener">Instagram</a> / <a href="https://www.youtube.com/@adearcas" target="_blank" rel="noopener">YouTube</a></nav>
+    </div>
+    <p class="lema2">Músico · Escritor · Contemplativo</p>
+  </aside>
+
+  <main class="carta contenido">
+    <div class="fila t1">
+      <p class="rotulo">Sesión de acompañamiento<br><span class="sub2">Una hora · por videollamada</span></p>
+      <div>
+        <p>Elige el día y la hora que mejor te vengan. Los días con huecos libres aparecen marcados; al pulsar uno, verás las horas disponibles.</p>
+      </div>
+    </div>
+
+    <div class="reserva" id="cal-sesion"></div>
+    <p class="alternativa">Si no ves el calendario, <a href="https://cal.com/antoniodearcas/sesion" target="_blank" rel="noopener">ábrelo aquí</a> o <a href="https://wa.me/34619344973" target="_blank" rel="noopener">escríbeme por WhatsApp</a>.</p>
+
+    <footer class="pie"><span class="texto">© 2026 Antonio de Arcas<span>·</span><a href="../ofertas/">Todo lo que ofrezco</a><span>·</span><a href="../privacidad/">Privacidad</a></span><span class="redes"><a class="red" href="https://instagram.com/adearcas" target="_blank" rel="noopener" aria-label="Instagram"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5" fill="none" stroke="currentColor" stroke-width="1.6"/><circle cx="12" cy="12" r="4.2" fill="none" stroke="currentColor" stroke-width="1.6"/><circle cx="17.3" cy="6.7" r="1.1" fill="currentColor"/></svg></a><a class="red" href="https://www.youtube.com/@adearcas" target="_blank" rel="noopener" aria-label="YouTube"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="2.5" y="5.5" width="19" height="13" rx="4" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M10 9.2v5.6l4.8-2.8z" fill="currentColor"/></svg></a></span></footer>
+  </main>
+</div>
+<script>(function(){var h=document.querySelector("header"),b=h&&h.querySelector(".abrir");if(!b)return;b.addEventListener("click",function(){var o=h.classList.toggle("abierto");b.setAttribute("aria-expanded",o);b.setAttribute("aria-label",o?"Cerrar menú":"Abrir menú");});})();</script>
+<script>
+(function (C, A, L) { var p = function (a, ar) { a.q.push(ar); }; var d = C.document; C.Cal = C.Cal || function () { var cal = C.Cal; var ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { var api = function () { p(api, arguments); }; var namespace = ar[1]; api.q = api.q || []; if (typeof namespace === "string") { cal.ns[namespace] = cal.ns[namespace] || api; p(cal.ns[namespace], ar); p(cal, ["initNamespace", namespace]); } else p(cal, ar); return; } p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
+Cal("init", "sesion", { origin: "https://app.cal.com" });
+Cal.ns.sesion("inline", {
+  elementOrSelector: "#cal-sesion",
+  calLink: "antoniodearcas/sesion",
+  config: { layout: "month_view", theme: "light" }
+});
+Cal.ns.sesion("ui", {
+  theme: "light",
+  hideEventTypeDetails: false,
+  layout: "month_view",
+  cssVarsPerTheme: { light: { "cal-brand": "#5c7484" } }
+});
+</script>
+</body>
+</html>
